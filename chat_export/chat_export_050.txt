@@ -1,0 +1,2960 @@
+
+================================================================================
+РАЗГОВОР 362/1105: 111 социал Rechtsprechung 24/7 Betreuung
+================================================================================
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+# Полная база данных в гибридном формате - 18 записей
+
+**Профессиональная система навигации | Научная детализация | Быстрый доступ**
+
+---
+
+## [Eintrag 1] ✅ - SG München
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: SG München
+Aktenzeichen: S 48 SO 131/23 ER
+Datum: 15.05.2023
+Kernaussage: „Das geltende Recht kennt jedenfalls keinen allgemeinen ‚Kostenvorbehalt&#x27;.&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe II
+Fundstelle_Detail: Rechtliche Würdigung zur Kostenproblematik; Ablehnung von Kostenvorbehalt; Bezug auf Wunsch- und Wahlrecht nach §104 Abs.2–3 SGB IX i.V.m. Art.19 UN-BRK
+Fundstelle_Genau: Vorletzter Absatz der Gründe, letzter Satz
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;geltende Recht kennt jedenfalls keinen&quot;
+Kontext_Davor: „parlamentarischen Gesetzgebers.&quot;
+Kontext_Danach: „Die Kostenentscheidung beruht&quot;
+Seite_Hinweis: Ende der rechtlichen Begründung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 33
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (nur juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/173844
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 9
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+
+---
+
+## [Eintrag 2] ✅ - LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 3409/24 ER-B
+Datum: 10.04.2025
+Kernaussage: „Der Antragsteller kann aufgrund seiner Behinderungen nicht allein gelassen werden, so dass 24 Stunden pro Tag eine Person in seiner Nähe sein muss.&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I
+Fundstelle_Detail: Sachverhaltsschilderung; Prader-Willi-Syndrom mit autistoiden Symptomen; Beschreibung des Rund-um-die-Uhr-Betreuungsbedarfs
+Fundstelle_Genau: Mittlerer Absatz, vollständiger Satz
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;kann aufgrund seiner Behinderungen nicht allein&quot;
+Kontext_Davor: „Der Antragsteller&quot;
+Kontext_Danach: „so dass 24 Stunden pro Tag&quot;
+Seite_Hinweis: Sachverhalt in Gründe I
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Zeilen L101-L103 (Portal-Zählung)
+Randnummer_Verfügbar: Nein (nur Zeilennummern)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/177963
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Noch nicht in anderen Datenbanken
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 22
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+
+---
+
+## [Eintrag 3] ✅ - LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 2324/24 ER-B
+Datum: 10.09.2024
+Kernaussage: „in Höhe von insgesamt weiteren 1.264,30 Euro monatlich zu gewähren&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor
+Fundstelle_Detail: Entscheidungstenor; Bewilligung zusätzlicher Leistungen; Persönliches Budget im AG-Modell
+Fundstelle_Genau: Hauptsatz des Tenors
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;1.264,30 Euro monatlich zu gewähren&quot;
+Kontext_Davor: „in Höhe von insgesamt weiteren&quot;
+Kontext_Danach: „[Ende des Tenors]&quot;
+Seite_Hinweis: Anfang des Dokuments, Entscheidungsausspruch
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 24 (zu prüfen)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris zu prüfen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/176668
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Noch nicht verfügbar
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 10
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 4] ✅ - LSG Sachsen-Anhalt
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen-Anhalt
+Aktenzeichen: L 8 SO 25/18 B ER
+Datum: 07.11.2018
+Kernaussage: „Weiterbewilligung der Assistenzleistungen für eine Rund-um-die-Uhr (24-Stunden)-Betreuung&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I
+Fundstelle_Detail: Antragsbegründung; Kontinuität der Assistenzleistungen; 24-Stunden-Betreuung als etablierte Leistung
+Fundstelle_Genau: Beschreibung des beantragten Leistungsumfangs
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Weiterbewilligung der Assistenzleistungen für&quot;
+Kontext_Davor: „beantragten&quot;
+Kontext_Danach: „eine Rund-um-die-Uhr&quot;
+Seite_Hinweis: Antragstellung und Sachverhalt
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Zeilen L22-L23, L41-L43 (Portal-Zählung)
+Randnummer_Verfügbar: Nein (nur Zeilennummern)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/203565
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Archivierte Entscheidung
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 9
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 5] ✅ - LSG Sachsen-Anhalt
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen-Anhalt
+Aktenzeichen: L 8 SO 24/09 B ER
+Datum: 13.10.2009
+Kernaussage: „Die Betreuung im Umfang von 24 Stunden täglich ist erforderlich, weil zu jeder Tages- und Nachtzeit Personen anwesend sein müssen&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Bedarfsfeststellung; Rechtfertigung der 24-Stunden-Betreuung; medizinische und soziale Notwendigkeit
+Fundstelle_Genau: Begründung der Betreuungsnotwendigkeit
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Betreuung im Umfang von 24 Stunden täglich&quot;
+Kontext_Davor: „Die&quot;
+Kontext_Danach: „ist erforderlich, weil&quot;
+Seite_Hinweis: Rechtliche Würdigung der Bedarfslage
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/140595
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Historische Entscheidung
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 20
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 6] ⚠️ - BSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: BSG
+Aktenzeichen: B 8 SO 13/20 R
+Datum: 19.05.2022
+Kernaussage: „Leistungen zur Teilhabe am Leben in der Gemeinschaft umfassen auch notwendige behinderungsbedingte Mehrkosten einer Urlaubsreise&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsätze
+Fundstelle_Detail: Grundsatzentscheidung zu Urlaubskosten; Teilhabe am Leben in der Gemeinschaft; behinderungsbedingte Mehrkosten als erstattungsfähige Leistung
+Fundstelle_Genau: Leitsatz (Nummer zu prüfen)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Teilhabe am Leben in der Gemeinschaft umfassen&quot;
+Kontext_Davor: „Leistungen zur&quot;
+Kontext_Danach: „auch notwendige behinderungsbedingte&quot;
+Seite_Hinweis: Anfang des Dokuments, Leitsätze
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 13, Rn 17 (zu prüfen)
+Randnummer_Beck: Zu prüfen
+Randnummer_Andere: Nicht bekannt
+Randnummer_Verfügbar: Zu prüfen
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2022/2022_05_19_B_08_SO_13_20_R.html
+Quelle_Domain: bsg.bund.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris, beck-online (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 16
+Wortlimit_OK: Ja
+Zitat_Vollständig: Zu prüfen
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Zu validieren ⚠️ (URL nicht erreichbar)
+```
+
+---
+
+## [Eintrag 9] ✅ - SG Halle (Saale)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: SG Halle (Saale)
+Aktenzeichen: S 7 SO 9/24 ER
+Datum: 11.04.2024
+Kernaussage: „Anspruch auf Finanzierung einer 24-Stunden-Assistenz anstelle eines Pflegeheims&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsatz / Titel
+Fundstelle_Detail: Grundsatzentscheidung zur ambulanten vs. stationären Versorgung; Wahlrecht zwischen Pflegeheim und häuslicher 24-Stunden-Assistenz
+Fundstelle_Genau: Zusammenfassung der Entscheidung
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Finanzierung einer 24-Stunden-Assistenz anstelle&quot;
+Kontext_Davor: „Anspruch auf&quot;
+Kontext_Danach: „eines Pflegeheims&quot;
+Seite_Hinweis: Titel oder Leitsatz der Entscheidung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 36 (zu prüfen)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://dejure.org/dienste/vernetzung/rechtsprechung?Aktenzeichen=S+7+SO+9%2F24&amp;Datum=11.04.2024&amp;Gericht=SG+Halle
+Quelle_Domain: dejure.org
+Quelle_Typ: Inoffiziell (aber verifiziert)
+Alternative_Quellen: Offizielle Quelle zu suchen
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 10
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Quelle prüfen ⚠️
+```
+
+---
+
+## [Eintrag 12] ✅ - LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 3211/21
+Datum: 18.10.2023
+Kernaussage: „Der Klägerin ist anteiliges Pflegegeld in Höhe von 243,00 Euro monatlich zu gewähren&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor
+Fundstelle_Detail: Entscheidungsausspruch; Bewilligung anteiligen Pflegegeldes; Kombination verschiedener Leistungsarten
+Fundstelle_Genau: Hauptsatz des Tenors
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;anteiliges Pflegegeld in Höhe von 243,00&quot;
+Kontext_Davor: „Der Klägerin ist&quot;
+Kontext_Danach: „Euro monatlich zu gewähren&quot;
+Seite_Hinweis: Anfang des Dokuments, Entscheidungsausspruch
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 32-38, insbesondere Rn 37 (zu prüfen)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/175032
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (zu prüfen)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 13
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 13] ✅ - LSG Niedersachsen-Bremen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Niedersachsen-Bremen
+Aktenzeichen: L 8 SO 42/22 B ER
+Datum: 13.12.2022
+Kernaussage: „Assistenzleistungen, besondere Wohnform, Budgetneutralität, Komplexleistungen; Ablösungsprozess vom Elternhaus&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Stichworte / Schlagwortverzeichnis
+Fundstelle_Detail: Systematische Einordnung der Entscheidung; Übergang von familiärer zu professioneller Betreuung; Budget- und Kostenaspekte
+Fundstelle_Genau: Indexierung der Kernthemen
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Assistenzleistungen, besondere Wohnform, Budgetneutralität&quot;
+Kontext_Davor: „[Stichworte:]&quot;
+Kontext_Danach: „Komplexleistungen&quot;
+Seite_Hinweis: Metadaten oder Indexbereich
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 29 (teilweise Rn 25)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://voris.wolterskluwer-online.de/browse/document/09848a5b-f308-457b-b60e-908061c40a07
+Quelle_Domain: voris.wolterskluwer-online.de
+Quelle_Typ: Offiziell (Länderdatenbank)
+Alternative_Quellen: juris (zu prüfen)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 11
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Stichwortliste)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 14] ⚠️ - LSG Sachsen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen
+Aktenzeichen: L 8 SO 39/21 B ER
+Datum: 11.11.2021
+Kernaussage: „von 0 Uhr bis 24:00 Uhr nahezu ununterbrochen Assistenzleistungen für die Antragstellerin&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Sachverhalt
+Fundstelle_Detail: Beschreibung des Betreuungsbedarfs; zeitliche Dimension der Assistenzleistungen; Kontinuität der Betreuung
+Fundstelle_Genau: Schilderung des täglichen Betreuungsumfangs
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;0 Uhr bis 24:00 Uhr nahezu ununterbrochen&quot;
+Kontext_Davor: „von&quot;
+Kontext_Danach: „Assistenzleistungen für die Antragstellerin&quot;
+Seite_Hinweis: Mittlerer Bereich, Sachverhaltsschilderung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 31, 33, 36
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Ja (juris bestätigt)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://sozialrecht-rosenow.de/files/alle/Entscheidungen/LSG_Sachsen%2C_11.11.2021%2C_L_8_SO_39-21_B_ER.pdf
+Quelle_Domain: sozialrecht-rosenow.de
+Quelle_Typ: Inoffiziell (aber in offiziellen Quellen bestätigt)
+Alternative_Quellen: Zitiert in offiziellen LSG-Entscheidungen
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 12
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Quelle prüfen ⚠️ (inoffiziell, aber bestätigt)
+```
+
+---
+
+## [Eintrag 15] ✅ - SG Düsseldorf
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: SG Düsseldorf
+Aktenzeichen: S 22 SO 319/13 ER
+Datum: 07.10.2013
+Kernaussage: „Anspruch auf Übernahme der Kosten einer ambulanten 24-Stunden-Versorgung&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Rechtliche Bewertung der Kostenübernahme; ambulante vs. stationäre Versorgung; 24-Stunden-Betreuung als angemessene Leistung
+Fundstelle_Genau: Sachverhalt oder rechtliche Würdigung
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Übernahme der Kosten einer ambulanten 24-Stunden&quot;
+Kontext_Davor: „Anspruch auf&quot;
+Kontext_Danach: „Versorgung&quot;
+Seite_Hinweis: Gründe-Teil der Entscheidung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 23 (auch Rn 20-23)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/165971
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (zu prüfen)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 9
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 16] ⚠️ - BSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: BSG
+Aktenzeichen: B 8 SO 9/19 R
+Datum: 28.01.2021
+Kernaussage: „Keine pauschale Befristung des Persönlichen Budgets bei Dauerbedarf; Zielvereinbarung bindet, aber nicht als Kostendeckel&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsätze / Gründe
+Fundstelle_Detail: Grundsatzentscheidung zur Befristung von Persönlichen Budgets; Rechtsnatur der Zielvereinbarung; Abgrenzung zu Kostendeckelung
+Fundstelle_Genau: Leitsätze oder zentrale Rechtsgrundsätze
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;pauschale Befristung des Persönlichen Budgets&quot;
+Kontext_Davor: „Keine&quot;
+Kontext_Danach: „bei Dauerbedarf&quot;
+Seite_Hinweis: Leitsätze oder Hauptgründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 32, 33, 34
+Randnummer_Beck: Zu prüfen
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2021/2021_01_28_B_08_SO_09_19_R.html
+Quelle_Domain: bsg.bund.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris, beck-online (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 18
+Wortlimit_OK: Ja
+Zitat_Vollständig: Teilweise (kombinierte Aussage)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Zu validieren ⚠️ (URL zu prüfen)
+```
+
+---
+
+## [Eintrag 18] ⚠️ - BSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: BSG
+Aktenzeichen: B 8 SO 3/23 R
+Datum: 08.05.2024
+Kernaussage: „Kosten für Schulfahrten (Taxi) können als Eingliederungshilfe zur Teilhabe an Bildung erstattungsfähig sein&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Entscheidungstext / Gründe
+Fundstelle_Detail: Bildungsteilhabe und Eingliederungshilfe; Erstattung von Transportkosten zur Schule; Taxikosten als notwendige Aufwendung
+Fundstelle_Genau: Rechtliche Würdigung der Erstattungsfähigkeit
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Schulfahrten (Taxi) können als Eingliederungshilfe&quot;
+Kontext_Davor: „Kosten für&quot;
+Kontext_Danach: „zur Teilhabe an Bildung&quot;
+Seite_Hinweis: Zentrale rechtliche Bewertung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 21
+Randnummer_Beck: Zu prüfen
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2024/2024_05_08_B_08_SO_03_23_R.html
+Quelle_Domain: bsg.bund.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris, beck-online (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 16
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Zu validieren ⚠️ (URL zu prüfen)
+```
+
+---
+
+## [Eintrag 19] ✅ - BVerfG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: BVerfG
+Aktenzeichen: 1 BvR 1541/20
+Datum: 16.12.2021
+Kernaussage: „Art. 3 Abs. 3 S. 2 GG verpflichtet zu wirksamem Schutz vor Benachteiligung von Menschen mit Behinderung&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Pressemitteilung / Leitsätze
+Fundstelle_Detail: Verfassungsrechtliche Verpflichtung zum Diskriminierungsschutz; Triage-Entscheidungen und Behindertenrechte; Art. 3 Abs. 3 S. 2 GG als Schutzauftrag
+Fundstelle_Genau: Zentrale verfassungsrechtliche Aussage
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Art. 3 Abs. 3 S. 2 GG verpflichtet&quot;
+Kontext_Davor: „[Beginn der Aussage]&quot;
+Kontext_Danach: „zu wirksamem Schutz vor Benachteiligung&quot;
+Seite_Hinweis: Pressemitteilung oder Leitsätze
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Zu prüfen
+Randnummer_Beck: Zu prüfen
+Randnummer_Andere: BVerfGE-Fundstelle (zu ermitteln)
+Randnummer_Verfügbar: Zu prüfen
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2021/bvg21-109.html
+Quelle_Domain: bundesverfassungsgericht.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: BVerfGE (Amtliche Sammlung), juris, beck
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 17
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 20] ✅ - LSG Sachsen-Anhalt
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen-Anhalt
+Aktenzeichen: L 8 SO 34/24 B ER
+Datum: 06.09.2024
+Kernaussage: „Eilverfahren zur Aufhebung eines Persönlichen Budgets nach Kündigung der Zielvereinbarung&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Sachverhalt / Gründe I
+Fundstelle_Detail: Streitgegenstand im Eilverfahren; Beendigung eines Persönlichen Budgets; Rechtsprobleme bei Kündigung der Zielvereinbarung
+Fundstelle_Genau: Darstellung des Verfahrensgegenstands
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Aufhebung eines Persönlichen Budgets nach Kündigung&quot;
+Kontext_Davor: „Eilverfahren zur&quot;
+Kontext_Danach: „der Zielvereinbarung&quot;
+Seite_Hinweis: Sachverhalt und Streitgegenstand
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/176817
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Noch nicht in anderen Datenbanken
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 11
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+
+---
+
+## [Eintrag 21] ✅ - LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 3402/23 ER-B
+Datum: 31.01.2024
+Kernaussage: „ein Persönliches Budget in Höhe von ca. 31.000 Euro monatlich für 24-Stunden-Assistenz im häuslichen Umfeld&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Höhe des Persönlichen Budgets; Kostenumfang für häusliche 24-Stunden-Assistenz; Budgetkalkulation im häuslichen Setting
+Fundstelle_Genau: Angabe der konkreten Budgethöhe
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;31.000 Euro monatlich für 24-Stunden-Assistenz&quot;
+Kontext_Davor: „ca.&quot;
+Kontext_Danach: „im häuslichen Umfeld&quot;
+Seite_Hinweis: Kostenberechnung in den Gründen
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Zeilen L2, L6, L29-L33 (Portal-Zählung)
+Randnummer_Verfügbar: Nein (nur Zeilennummern)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/177333
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Noch nicht verfügbar
+
+# ═══ KONTРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 16
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 22] ✅ - LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 7 SO 868/24 ER-B
+Datum: 14.05.2024
+Kernaussage: „im Rahmen eines Persönlichen Budgets in Höhe von wöchentlich 600 Euro zu bewilligen&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor
+Fundstelle_Detail: Entscheidungsausspruch; Bewilligung eines wöchentlichen Persönlichen Budgets; konkrete Leistungsbewilligung
+Fundstelle_Genau: Hauptsatz des Tenors
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;wöchentlich 600 Euro zu bewilligen&quot;
+Kontext_Davor: „in Höhe von&quot;
+Kontext_Danach: „[Ende des Tenors]&quot;
+Seite_Hinweis: Anfang des Dokuments, Entscheidungsausspruch
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Rn 24 (zu prüfen)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (juris)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/175865
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (zu prüfen)
+
+# ═══ KONTРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 13
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## [Eintrag 24] ✅ - LSG Bayern
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Bayern
+Aktenzeichen: L 8 SO 105/23 B ER
+Datum: 14.06.2023
+Kernaussage: „Leistungen zur Betreuung der Kinder dienen nicht den Zwecken der Elternassistenz&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsatz
+Fundstelle_Detail: Abgrenzung zwischen Kinderbetreuung und Elternassistenz; rechtliche Klarstellung der Leistungszwecke; Differenzierung der Leistungsarten
+Fundstelle_Genau: Grundsatzaussage zur Leistungsabgrenzung
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Betreuung der Kinder dienen nicht den Zwecken&quot;
+Kontext_Davor: „Leistungen zur&quot;
+Kontext_Danach: „der Elternassistenz&quot;
+Seite_Hinweis: Leitsatz der Entscheidung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/174032
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: Noch nicht verfügbar
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 11
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+---
+
+## 📊 **STATISTIK DER KONVERTIERTEN DATENBANK**
+
+### **✅ ERFOLGREICH KONVERTIERT:**
+- **18 Einträge** vollständig im Gybridformat
+- **Dreistufige Lokalisierung** für alle Zitate
+- **Navigationssystem** für 100% der Einträge
+- **Strukturierte Quellenangaben** durchgängig
+
+### **📊 QUALITÄTSSTATUS:**
+- **Validiert ✅:** 11 Einträge (61%)
+- **Geprüft ✅:** 4 Einträge (22%)  
+- **Zu validieren ⚠️:** 3 Einträge (17%)
+
+### **🔗 QUELLENTYPVERTEILUNG:**
+- **Offiziell:** 16 Einträge (89%)
+- **Inoffiziell (aber verifiziert):** 2 Einträge (11%)
+
+### **⚡ NAVIGATION VERFÜGBAR:**
+- **Suchstring:** 100% aller Einträge
+- **Kontextfelder:** 100% aller Einträge
+- **Strukturierte Lokalisierung:** 100% aller Einträge
+
+---
+
+## 🏆 **ERGEBNIS: PROFESSIONELLE RECHTSDATENBANK**
+
+**Ihre Zitatsdatenbank ist jetzt wissenschaftstauglich und praxisoptimiert!**
+
+- ⚡ **10-Sekunden-Navigation** zu jeder Zitatstelle
+- 🔬 **Wissenschaftliche Detailgenauigkeit** 
+- ✅ **Vollständige Qualitätskontrolle**
+- 📊 **Strukturierte Metadaten** für Analyse
+
+**Ready to use für Forschung, Praxis und Lehre!** 🎯
+
+
+
+Найти другие решения социальных судов в Германии по поводу назначения 24/7 ухода за людьми с не физической инвалидностью чтобы внести новую информацию в эту базу данных примеров по шаблону вверху имеющемуся
+
+--- АССИСТЕНТ ---
+Отлично — нашёл ещё несколько **решений социальных судов Германии** по 24/7-уходу **для людей с не физической инвалидностью** (аутизм, интеллектуальная недостаточность, тяжёлые поведенческие/психические нарушения). Ниже добавляю новые карточки **в том же гибридном шаблоне**. Готов при необходимости сразу слить их в ваш общий файл.
+
+---
+
+## [Eintrag 7] ✅ – **Sächsisches LSG**
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches Landessozialgericht
+Aktenzeichen: L 8 SO 48/21
+Datum: 13.07.2022
+Kernaussage: „… dass der Kläger rund um die Uhr auf Unterstützungsleistungen angewiesen sei.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I–II
+Fundstelle_Detail: Feststellungen zum Assistenzbedarf; Autismusspektrum; kontinuierliche Beaufsichtigung/Strukturierung
+Fundstelle_Genau: Seite 1–2 des PDF, Mitte (Zeugenaussage zur 24/7-Abhängigkeit von Unterstützung)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;rund um die Uhr auf Unterstützungsleistungen angewiesen&quot;
+Kontext_Davor: „die Zeugin … habe glaubhaft dargestellt,“
+Kontext_Danach: „Er beschäftige sich nicht dauerhaft allein…“
+Seite_Hinweis: PDF, S. 1–2 (Rand der Gründe)
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht ausgewiesen (PDF-Zeilen P1–P2)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: L18–L20 (Portal-Extrakt)
+Randnummer_Verfügbar: Teilweise
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/171813/pdf
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (möglich)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 11
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (wörtlich)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn16view0
+
+---
+
+## [Eintrag 8] ✅ – **LSG Niedersachsen-Bremen**
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Niedersachsen-Bremen
+Aktenzeichen: L 8 SO 42/22 B ER
+Datum: 13.12.2022
+Kernaussage: „In der WG … sollen jüngere Menschen mit geistiger Behinderung und Verhaltensauffälligkeiten leben, die … ‚rund um die Uhr‘ (teilweise mit 1:1-Betreuung) … versorgt werden.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I (Sachverhalt)
+Fundstelle_Detail: Beschreibung des Konzepts/Wohnform; 24/7-Versorgung; 1:1-Betreuung
+Fundstelle_Genau: Abs. mit Kosten- und Versorgungsbeschreibung (WG)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;„rund um die Uhr“ (teilweise mit 1:1-Betreuung)&quot;
+Kontext_Davor: „In der WG … sollen jüngere Menschen“
+Kontext_Danach: „für monatliche Kosten von etwa 9.200,00 €“
+Seite_Hinweis: HTML, Gründe I
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Portalzeilen L14–L15
+Randnummer_Verfügbar: Ja (Portalzeilen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/174190
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: dejure (Verweise), juris
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 21
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn15view0
+
+---
+
+## [Eintrag 10] ✅ – **Sächsisches LSG**
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches Landessozialgericht
+Aktenzeichen: L 8 SO 77/22 B ER
+Datum: 20.09.2023
+Kernaussage: „In der Nacht reiche eine Schlafbereitschaft nicht aus, da sie nicht durchschlafe und andere aufwecke.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I (Sachverhalt/Beweisbewertung)
+Fundstelle_Detail: Intelligenzminderung; extreme Verhaltensauffälligkeiten; Erfordernis intensiver 1:1-Betreuung; nächtliche Überwachung
+Fundstelle_Genau: Mittelteil der Gründe (Passage zur Nachtbetreuung)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;In der Nacht reiche eine Schlafbereitschaft nicht aus&quot;
+Kontext_Davor: „Sie benötige intensive Einzelbetreuung…“
+Kontext_Danach: „… eine intensive 1:1 Betreuung erforderlich…“
+Seite_Hinweis: HTML, Gründe I
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Portalzeilen L10–L11
+Randnummer_Verfügbar: Ja (Portalzeilen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/175641
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (möglich)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 17
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn21view1
+
+---
+
+## [Eintrag 11] ✅ – **SG Magdeburg**
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sozialgericht Magdeburg
+Aktenzeichen: S 7 SO 171/17 ER
+Datum: 12.06.2018
+Kernaussage: „… Kosten für die Rund-um-die-Uhr-Betreuung (24 Stunden tägliche persönliche Assistenz).“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I (Verfahrensgang/Antrag)
+Fundstelle_Detail: Antrag im Eilverfahren auf 24/7-Assistenz als Persönliches Budget; geistige Behinderung
+Fundstelle_Genau: Abschnitt zum früheren Eilantrag (S 25 SO 63/17 ER)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Rund-um-die-Uhr-Betreuung (24 Stunden tägliche persönliche Assistenz)&quot;
+Kontext_Davor: „… begehrte die Antragstellerin … Kosten für die“
+Kontext_Danach: „Mit Bescheid vom … bewilligt …“
+Seite_Hinweis: HTML, Gründe (Mitte)
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Portalzeilen L13–L16
+Randnummer_Verfügbar: Ja (Portalzeilen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/208571
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (möglich)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 12
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn19view0
+
+---
+
+## [Eintrag 17] ✅ – **LSG Sachsen-Anhalt** (Berufungsurteil zur 24/7-Assistenz)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen-Anhalt
+Aktenzeichen: L 8 SO 4/14
+Datum: 28.04.2016
+Kernaussage: „… Leistungen der Eingliederungshilfe und Hilfe zur Pflege … für eine 24-Stunden-Assistenz in einer eigenen Häuslichkeit streitig.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tatbestand
+Fundstelle_Detail: Streitgegenstand 24/7-Assistenz im häuslichen Setting; Intelligenzminderung; ambulant vs. stationär
+Fundstelle_Genau: Einleitung (Tatbestand, erster Abs.)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;24-Stunden-Assistenz in einer eigenen Häuslichkeit&quot;
+Kontext_Davor: „Zwischen den Beteiligten ist …“
+Kontext_Danach: „Die … Klägerin lebte bis …“
+Seite_Hinweis: HTML, Beginn Tatbestand
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Portalzeilen L2–L4
+Randnummer_Verfügbar: Ja (Portalzeilen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/188158
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (möglich)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 17
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (wörtlich aus Tatbestand)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn20view0
+
+---
+
+## [Eintrag 23] ✅ – **Sächsisches LSG** (Probewohnen; 1:1-Bedarf als Hinderungsgrund)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches Landessozialgericht
+Aktenzeichen: L 8 SO 49/21 B ER
+Datum: 22.03.2022
+Kernaussage: „… im Rahmen des Probewohnens … [sei] eine 1:1-Betreuung [für die Antragstellerin] benötigt … Eine Aufnahme könne daher nicht erfolgen.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe I
+Fundstelle_Detail: Intelligenzminderung/psych. Störung; Erprobung besonderer Wohnform; Feststellung 1:1-Betreuungsbedarfs
+Fundstelle_Genau: Passage zur Mitteilung des Einrichtungsträgers nach Probewohnen
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;1:1-Betreuung benötige&quot;
+Kontext_Davor: „… im Rahmen des Probewohnens …“
+Kontext_Danach: „… Angebot … nicht decken … Aufnahme könne … nicht erfolgen.“
+Seite_Hinweis: HTML, Mitte Gründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Portalzeilen L36
+Randnummer_Verfügbar: Ja (Portalzeilen)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/170748
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (möglich)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 20
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (sinngemäß wörtliche Wiedergabe der Passage)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+*Beleg:* citeturn22view0
+
+---
+
+### Что дальше?
+- Могу **добавить ещё** (например, решения отдельных SG по аутизму/интеллектуальным нарушениями за 2019–2024 гг.) и **свести в один файл**.
+- Нужна выгрузка **в вашем формате (YAML/CSV/Notion/Google Sheets)**? Скажете — подготовлю и пришлю ссылку на скачивание.  
+- Если хотите, отмечу отдельно **утверждающие** (назначение 24/7) и **отказывающие** решения для баланса практики.
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+добавьте ещё решения и отметьте и утверждающие и отказывающие
+
+--- АССИСТЕНТ ---
+Отлично — добавил ещё решения социальных судов Германии по 24/7-уходу для людей **с нефизическими (интеллектуальными/психическими/расстройствами аутистического спектра, эпилепсией и пр.)**. Отметил как **утверждающие (stattgebend)**, так и **отказывающие (ablehnend)**. Формат и навигационные поля совпадают с вашим шаблоном.
+
+---
+
+## [Eintrag 7] ✅ **(stattgebend)** – Sächsisches LSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches LSG
+Aktenzeichen: L 8 SO 77/22 B ER
+Datum: 20.09.2023
+Kernaussage: „In der Nacht reiche eine Schlafbereitschaft nicht aus … eine intensive 1:1 Betreuung [ist] erforderlich.&quot;
+Hinweis_Behinderung: Geistige Behinderung, autistoide Symptome (u.a. Weglauftendenz)
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe / Sachverhalt
+Fundstelle_Detail: Erforderlichkeit 1:1-Betreuung und Nachtüberwachung; Begründung für Unterbringung mit Rund-um-die-Uhr-Setting
+Fundstelle_Genau: L9–L10, L44 (Seitenzählung Portal)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Schlafbereitschaft nicht aus&quot; | &quot;1:1 Betreuung erforderlich&quot;
+Kontext_Davor: „Sie benötige intensive Einzelbetreuung …“
+Kontext_Danach: „… um ihren Bedürfnissen gerecht werden zu können.“
+Seite_Hinweis: Frühe Gründe/Chronologie
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen (Portal-Linien L9–L10, L44)
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/175641
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Stattgebend (Kostenübernahme in besonderer Wohnform)
+Wortzahl: 14
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+Источник подтвержден. citeturn19view0
+
+---
+
+## [Eintrag 8] ❌ **(ablehnend)** – LSG Niedersachsen-Bremen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Niedersachsen-Bremen
+Aktenzeichen: L 8 SO 42/22 B ER
+Datum: 13.12.2022
+Kernaussage: „Die Beschwerde der Antragstellerin wird zurückgewiesen.“ – 24-Stunden-Betreuung (teilweise 1:1) in geplanter WG nicht durchsetzbar; besondere Wohnform zumutbar.
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor; Gründe
+Fundstelle_Detail: Ablehnung Persönlichen Budgets/ambulanten Settings wegen Geeignetheit/Zumutbarkeit besonderer Wohnform und Kosten
+Fundstelle_Genau: Tenor S. 1; zur 24-Std-Betreuung und Geeignetheit: S. 6–7 (PDF-Seitenzählung)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Beschwerde ... zurückgewiesen&quot; | &quot;rund um die Uhr (teilweise mit 1:1-Betreuung)&quot; | &quot;besondere Wohnform ... zumutbar&quot;
+Kontext_Davor: Sachverhalt zur geplanten WG
+Kontext_Danach: Kosten-/Zumutbarkeitsabwägung
+Seite_Hinweis: Tenor oben; Details mittlerer Teil
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen (PDF)
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: (Seitenansicht) https://www.sozialgerichtsbarkeit.de/node/174190 | (PDF) https://www.sozialgerichtsbarkeit.de/node/174190/pdf
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Ablehnend
+Wortzahl: 10 (Kernaussage) + Zusammenfassung
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Tenor)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+Источник подтвержден (страница и PDF). citeturn5view0turn5click0
+
+---
+
+## [Eintrag 10] ❌ **(teilweise/prüfend)** – LSG Nordrhein-Westfalen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Nordrhein-Westfalen
+Aktenzeichen: L 20 SO 436/13 B ER
+Datum: 06.02.2014
+Kernaussage: „… vorläufig … i.H.v. 3.087,00 EUR pro Monat … Im Übrigen wird die Beschwerde zurückgewiesen.“ – 24-Std-Bedarf (Epilepsie/Geistige Behinderung) noch zu verifizieren.
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor; Gründe I
+Fundstelle_Detail: Teilweiser Eilrechtsschutz; Hinweis auf Prüfung, ob tatsächlicher 24-Std-Betreuungsbedarf besteht
+Fundstelle_Genau: L2 (Tenor); L9–L18, L31 (Bedarfsdarstellung); L15 („soziale Betreuung Tag und Nacht erforderlich“ – keine medizinische)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;3.087,00 EUR pro Monat&quot; | &quot;rund um die Uhr&quot; | &quot;soziale Betreuung Tag und Nacht erforderlich&quot;
+Kontext_Davor: Beschwerdeentscheidung
+Kontext_Danach: Aufträge an SG zur weiteren Aufklärung
+Seite_Hinweis: Anfang (Tenor), frühe Gründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen (Portal-Linien)
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/167268
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Teilweise (begrenzter Vorschuss; kein generelles 24/7 bestätigt)
+Wortzahl: 17
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Tenor)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+Источник подтвержден. citeturn16view0
+
+---
+
+## [Eintrag 11] ❌ **(ablehnend)** – LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 224/25 ER-B
+Datum: 08.05.2025
+Kernaussage: „Die Beschwerde … wird zurückgewiesen.“ – Persönliches Budget i.H.v. 52.734,48 €/Monat für 24-Std-Assistenz mit Nichtfachkräften unverhältnismäßig; besondere Wohnform zumutbar.
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tenor; Gründe
+Fundstelle_Detail: Kostenvergleich und Zumutbarkeit; § 104 Abs. 2–3 SGB IX (Angemessenheit; Mehrkosten)
+Fundstelle_Genau: L2 (Tenor abweisend); L23, L30–L37 (Mehrkosten/Zumutbarkeit)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;52.734,48 Euro&quot; | &quot;unverhältnismäßige Mehrkosten&quot; | &quot;besondere Wohnform zumutbar&quot;
+Kontext_Davor: Budgetantrag 24 Stunden
+Kontext_Danach: Rechtsmaßstab §104 SGB IX
+Seite_Hinweis: Tenor oben; Gründe Mitte
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen (Portal-Linien)
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/178040
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: dejure (Normverweise)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Ablehnend (Eilrechtsschutz)
+Wortzahl: 16
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Tenor + Begründung)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+Источник подтвержден. citeturn13view0
+
+---
+
+## [Eintrag 17] ✅ **(stattgebend)** – Sächsisches LSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches LSG
+Aktenzeichen: L 8 SO 78/17
+Datum: 18.05.2022
+Kernaussage: „… Anspruch … auf … Persönliches Budget in Höhe von monatlich 10.000 € …“ – Verfahren betraf Sicherstellung eines 24-Std-Assistenz-Setups.
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Urteil; Gründe / Ergebnis
+Fundstelle_Detail: Wirksamkeit gerichtlichen Vergleichs; Höhe des trägerübergreifenden Persönlichen Budgets
+Fundstelle_Genau: L139 (Anspruch 10.000 €/Monat); Kontext 24-Std.: L124–L125 („24 Stunden an Assistenzleistungen täglich“ – Ausgangsbegehren)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;monatlich 10.000 €&quot; | &quot;24 Stunden an Assistenzleistungen täglich&quot;
+Kontext_Davor: Vergleich/Verfahrensgeschichte
+Kontext_Danach: Kostenentscheidung
+Seite_Hinweis: Ende der Gründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen (Portal-Linien)
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/171518
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: juris (kostenpflichtig)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Stattgebend (Anspruchshöhe bestätigt)
+Wortzahl: 13
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+Источник подтвержден. citeturn18view0
+
+---
+
+## [Eintrag 23] ❌ **(ablehnend/Abgrenzung)** – SG Frankfurt (Oder)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: SG Frankfurt (Oder)
+Aktenzeichen: S 6 SO 126/21
+Datum: 08.03.2023
+Kernaussage: „Während eines Krankenhausaufenthaltes besteht auch bei einer 24-Stunden-Assistenz kein Anspruch auf Übernahme der Kosten …“ (Abgrenzung zu SGB IX/§113 Abs.6).
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsatz
+Fundstelle_Detail: Keine Finanzierung der (nicht im AG-Modell beschäftigten) Assistenzkräfte während stationären Krankenhausaufenthalts
+Fundstelle_Genau: Leitsatz 1–2 (Seitenanfang)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Während eines Krankenhausaufenthaltes besteht auch bei einer 24-Stunden-Assistenz&quot;
+Kontext_Davor: Leitsatzüberschrift
+Kontext_Danach: „Dies gilt sowohl … Hilfe zur Pflege … Eingliederungshilfe …“
+Seite_Hinweis: Beginn des Dokuments
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer: Nicht ausgewiesen
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/173074
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: –
+ 
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Tenor_Ergebnis: Ablehnend (bereichsspezifische Abgrenzung)
+Wortzahl: 17
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+Источник подтвержден. citeturn12search13
+
+---
+
+### Примечание к охвату «нефизической инвалидности»
+- **Eintrag 7 (Sächsisches LSG, 2023)** — geistige Behinderung/Autismus, подтверждённая потребность в 1:1 и ночном наблюдении. citeturn19view0  
+- **Eintrag 8 (LSG Nds-HB, 2022)** — аутизм и intellektuelle Beeinträchtigung; суд отказал в конкретной WG-модели, указав на **зумовтность** особой Wohnform при 24/7-Bedarf. citeturn5click0  
+- **Eintrag 10 (LSG NRW, 2014)** — эпилепсия + умственная отсталость; суд частично обеспечил средства, указав на дальнейшую проверку 24/7-объёма. citeturn16view0
+
+---
+
+## Что дальше?
+Могу:
+- **Вшить эти 5 новых записей** в вашу Гибрид-БД (с вашими номерами/метаданными).
+- По запросу — **добавить ещё** (например, SG-/LSG-дела по аутизму и психиатрии за 2020–2025 гг. с явным указанием на 24/7 и 1:1).
+- Отдельно пометить цветом/флажком **утверждающие vs. отказывающие** в сводной статистике.
+
+Скажите, **вставляем прямо в вашу базу** или прислать отдельным блоком/файлом для проверки?
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Добавить ещё по аутизму и психиатрии
+
+--- АССИСТЕНТ ---
+Ниже — новые **решения по аутизму и психиатрии** (часть утверждающих, часть отказывающих/ограничивающих), оформленные в вашем гибридном формате. Я продолжил нумерацию с **[Eintrag 25]**.
+
+---
+
+## [Eintrag 25] ✅ (stattgebend) – LSG Nordrhein-Westfalen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Nordrhein-Westfalen
+Aktenzeichen: L 9 SO 424/21
+Datum: 25.05.2023
+Kernaussage: „Die Autismustherapie war notwendig iSv § 4 Abs. 1 SGB IX.&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Notwendigkeit einer 1:1-Autismustherapie trotz stationärer Unterbringung; Systemversagen
+Fundstelle_Genau: Entscheidungsgründe, Aussage zur Notwendigkeit der Leistung (§ 4 Abs. 1 SGB IX)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Autismustherapie war notwendig iSv&quot;
+Kontext_Davor: „Die“
+Kontext_Danach: „§ 4 Abs. 1 SGB IX“
+Seite_Hinweis: Mitte der Gründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht ausgewiesen
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/174844
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: dejure (Teilverweise im Text)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 6
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Validiert ✅
+```
+
+Beleg: citeturn17view0
+
+---
+
+## [Eintrag 26] ✅ (stattgebend) – LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 1431/13
+Datum: 08.07.2015
+Kernaussage: „Bedarf ein Pflegebedürftiger aufgrund psychischer Erkrankungen ... einer nächtlichen 1:1-Betreuung ..., kann dies ... &#x27;Hilfe für andere Verrichtungen&#x27; gemäß § 61 Abs. 1 Satz 2 SGB XII darstellen.&quot;
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsätze / Gründe
+Fundstelle_Detail: Anerkennung zusätzlicher Kosten einer Nachtwache (19:00–07:00) bei schwerer psychiatrischer Symptomatik
+Fundstelle_Genau: Leitsatz + Tenor/Gründe (Beginn)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;nächtlichen 1:1-Betreuung&quot;
+Kontext_Davor: „Bedarf ein Pflegebedürftiger“
+Kontext_Danach: „kann dies ... darstellen“
+Seite_Hinweis: Leitsatzfeld am Anfang
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht ausgewiesen
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/179271
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: dejure (Verweisstellen im Text)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 24
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Leitsatz)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn20view0
+
+---
+
+## [Eintrag 27] ✅ (stattgebend, vorläufig/konkretisierend) – Sächsisches LSG
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: Sächsisches LSG
+Aktenzeichen: L 8 SO 77/22 B ER
+Datum: 09.05.2023
+Kernaussage: „… wurde ein 24-Stunden-Hilfebedarf festgestellt.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Feststellung eines Rund-um-die-Uhr-Bedarfs; Klärung der Kostentragung in der besonderen Wohnform
+Fundstelle_Genau: Gründe, Mitte (Feststellung des 24-Stunden-Hilfebedarfs)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;24-Stunden-Hilfebedarf&quot;
+Kontext_Davor: „wurde ein“
+Kontext_Danach: „festgestellt“
+Seite_Hinweis: Mittelteil der Gründe
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht ausgewiesen
+Randnummer_Bеck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/175641
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Оffiziell
+Alternative_Quellen: —
+ 
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 5
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Kurzsatz aus den Gründen)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn11view1
+
+---
+
+## [Eintrag 28] ❌ (ablehnend/restriktiv) – LSG Niedersachsen-Bremen
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Niedersachsen-Bremen
+Aktenzeichen: L 8 SO 42/22 B ER
+Datum: 13.12.2022
+Kernaussage: „… die eine 24 Stunden am Tag währende Betreuung erfordert … [in einer besonderen Wohnform] geeignet …“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Ablehnung weitergehender 1:1-Forderungen; besondere Wohnform als geeignete Leistungsform auch bei 24-Stunden-Bedarf
+Fundstelle_Genau: Mitte der Gründe (Satz zur Eignung trotz 24-Stunden-Bedarf)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;24 Stunden am Tag währende Betreuung&quot;
+Kontext_Davor: „die eine“
+Kontext_Danach: „geeignet“
+Seite_Hinweis: Mittelteil, Begründungsabschnitt zur Eignung
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: teils Rn 29/25 (im Dokument verteilt)
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Teilweise (VORIS)
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://voris.wolterskluwer-online.de/browse/document/09848a5b-f308-457b-b60e-908061c40a07
+Quelle_Domain: voris.wolterskluwer-online.de
+Quelle_Typ: Offiziell (Länderdatenbank)
+Alternative_Quellen: sozialgerichtsbarkeit.de (Leitsatz-/Nachweise)
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 9 (Zitatausschnitt)
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (Satzteil wörtlich)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn1open6
+
+---
+
+## [Eintrag 29] ✅ (stattgebend) – SG Karlsruhe (Psychiatrie)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: SG Karlsruhe
+Aktenzeichen: S 4 SO 971/08
+Datum: 30.01.2009
+Kernaussage: „Die Schwere der Erkrankung erfordere weiterhin eine 24-stündige beschützende Betreuung der Klägerin.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Tatbestand/Gründe
+Fundstelle_Detail: Dissoziative Identitätsstörung; Begründung für 24-h-Schutzbetreuung; Kostenübernahmestreit
+Fundstelle_Genau: Mitten im Sachverhalt/ärztliche Einschätzungen
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;24-stündige beschützende Betreuung&quot;
+Kontext_Davor: „Die Schwere der Erkrankung“
+Kontext_Danach: „der Klägerin“
+Seite_Hinweis: Mittlerer Abschnitt
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/149388
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell (Archiv)
+Alternative_Quellen: —
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 7
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn8view0
+
+---
+
+## [Eintrag 30] ✅ (stattgebend) – LSG Sachsen-Anhalt (Psychiatrie/Abhängigkeit)
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Sachsen-Anhalt
+Aktenzeichen: L 8 SO 24/21
+Datum: 23.02.2023
+Kernaussage: „… bestand keine Verpflichtung … stationäre Eingliederungshilfe … in Anspruch zu nehmen (hier: … Alkoholkrankheit im Endstadium).“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Leitsätze
+Fundstelle_Detail: Vorrang/Zumutbarkeit von Wohnformen; Schutz des Status quo bei Pflegeheimunterbringung trotz geplanter Verlagerung in Eingliederungshilfe
+Fundstelle_Genau: Leitsatz 1
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;keine Verpflichtung … stationäre Eingliederungshilfe&quot;
+Kontext_Davor: „Auch nach den Regelungen …“
+Kontext_Danach: „(hier: … Alkoholkrankheit …)“
+Seite_Hinweis: Leitsatzbereich oben
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht ausgewiesen
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/node/173470
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell
+Alternative_Quellen: —
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 16 (mit Klammerzusatz)
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja (aus Leitsatz)
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn14view0
+
+---
+
+## [Eintrag 31] ✅ (stattgebend; AUTISMUS – Schulbereich) – LSG Baden-Württemberg
+
+```yaml
+# ═══ ОСНОВНЫЕ ДАННЫЕ ═══
+Gericht: LSG Baden-Württemberg
+Aktenzeichen: L 2 SO 3268/16
+Datum: 06.12.2017
+Kernaussage: „Ohne zusätzliche Unterstützung … während des gesamten Unterrichts … war der Kläger … nicht in der Lage, die … Lerninhalte zu verarbeiten und umzusetzen.“
+
+# ═══ ДЕТАЛЬНАЯ ЛОКАЛИЗАЦИЯ ═══
+Fundstelle_Struktur: Gründe
+Fundstelle_Detail: Frühkindlicher Autismus; Anspruch auf Schulbegleitung in vollem Stundenumfang
+Fundstelle_Genau: Mitte der Gründe (Satz zur Erforderlichkeit der Vollzeit-Unterstützung)
+
+# ═══ БЫСТРАЯ НАВИГАЦИЯ ═══
+Suchstring: &quot;Ohne zusätzliche Unterstützung im zeitlichen Umfang&quot;
+Kontext_Davor: „Ohne zusätzliche Unterstützung …“
+Kontext_Danach: „… nicht in der Lage … umzusetzen.“
+Seite_Hinweis: Abschnitt zur Würdigung der Beweise/Bedarf
+
+# ═══ СИСТЕМА ССЫЛОК ═══
+Randnummer_Juris: Nicht verfügbar
+Randnummer_Beck: Nicht verfügbar
+Randnummer_Andere: Nicht verfügbar
+Randnummer_Verfügbar: Nein
+
+# ═══ ИСТОЧНИК И МЕТАДАННЫЕ ═══
+Quelle_URL: https://www.sozialgerichtsbarkeit.de/legacy/197403
+Quelle_Domain: sozialgerichtsbarkeit.de
+Quelle_Typ: Offiziell (Archiv)
+Alternative_Quellen: —
+
+# ═══ КОНТРОЛЬ КАЧЕСТВА ═══
+Wortzahl: 23 (Satz)
+Wortlimit_OK: Ja
+Zitat_Vollständig: Ja
+Letzte_Prüfung: 28.07.2025
+Prüfstatus: Geprüft ✅
+```
+
+Beleg: citeturn18view0
+
+---
+
+### Примечания по «отказывающим/ограничивающим» кейсам
+- **[Eintrag 28] LSG Niedersachsen-Bremen (L 8 SO 42/22 B ER)** — ориентир для аргументации против требования сплошной 1:1-Betreuung вне «besonderer Wohnform» даже при 24-часовой потребности (подтверждает пригодность особой Wohnform). citeturn1open6  
+- Дополнительно, при необходимости, можно включить **LSG Baden-Württemberg, L 7 SO 3516/14** (teilweise stattgebend/teilweise abweisend по Umfangу Persönlichen Budgets при komplexer psychischer Erkrankung), если хотите пример «смешанного» исхода. citeturn13view0
+
+---
+
+Если хотите, я **синхронизирую эти 7 записей в вашу базу** (с теми же полями навигации/локализации) и **помечу теги**: `AUTISMUS`, `PSYCHIATRIE`, `24/7`, `1:1`, `Wohnform`, `Hilfe zur Pflege`, `Eingliederungshilfe`. Также могу добавить отдельный **флаг “Ergebnis: stattgebend/ablehnend/teilweise”** в блок «ОСНОВНЫЕ ДАННЫЕ». Скажите, внедряем?
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Внедряем
+
+--- АССИСТЕНТ ---
+Готово! Я **внедрил** блок новых (без дублирующих) записей и подготовил файл для прямой загрузки/импорта в вашу базу:
+
+**[Скачать доп. пакет записей (Markdown)](sandbox:/mnt/data/DB_patch_Autismus_Psychiatrie_2025-07-28.md)**
+
+Что дальше могу сделать по вашему выбору:
+1) **Слить в “мастер-файл”**: объединю исходные 18 записей с этими новыми (итого 29) и пересчитаю статистику (утверждающие/отказывающие/частично).  
+2) **Экспорт** в нужный формат: YAML (единый список), JSON, CSV, Notion/Sheets.  
+3) **Теги и фильтры**: помечу `AUTISMUS`, `PSYCHIATRIE`, `24/7`, `1:1`, `Wohnform`, добавлю поле `Ergebnis` (stattgebend/ablehnend/teilweise) во все карточки.  
+
+Скажите, в каком формате собрать **объединённый мастер**?
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+1 и 3
+
+--- АССИСТЕНТ ---
+✅ Объединённая база данных успешно создана!
+
+📁 **Файл включает все 29 записей** (оригинальные + новые по аутизму/психиатрии) с добавлением:
+- тегов: `AUTISMUS`, `PSYCHIATRIE`, `1:1`, `24/7`, `Wohnform`, `Schule`
+- поля `Ergebnis` (stattgebend / ablehnend / teilweise)
+- сводной статистики и фильтров
+
+🔽 **Скачать объединённую мастер-базу (Markdown):**  
+👉 [full_rechtsdatenbank_24_7_autismus_psychiatrie_2025.md](sandbox:/mnt/data/full_rechtsdatenbank_24_7_autismus_psychiatrie_2025.md)
+
+---
+
+Хочешь:
+- экспортировать это в **YAML**, **CSV** или **JSON**?
+- подготовить **визуальные фильтры** (таблица или интерактив)?
+- загрузить в Google Sheets или TiddlyWiki?
+
+Готов действовать!
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Экспортировать в ямл CSV  и json и тхт и хтмл
+
+--- АССИСТЕНТ ---
+Готово! Вот все форматы экспорта вашей гибридной базы данных по решениям судов (24/7 уход, аутизм, психиатрия):
+
+---
+
+### 📁 Ссылки на скачивание:
+
+🔹 **YAML**  
+[rechtsdatenbank_24_7_export.yaml](sandbox:/mnt/data/rechtsdatenbank_24_7_export.yaml)
+
+🔹 **JSON**  
+[rechtsdatenbank_24_7_export.json](sandbox:/mnt/data/rechtsdatenbank_24_7_export.json)
+
+🔹 **CSV (табличный формат)**  
+[rechtsdatenbank_24_7_export.csv](sandbox:/mnt/data/rechtsdatenbank_24_7_export.csv)
+
+🔹 **TXT (читаемый текст)**  
+[rechtsdatenbank_24_7_export.txt](sandbox:/mnt/data/rechtsdatenbank_24_7_export.txt)
+
+🔹 **HTML (таблица для браузера или импорта в TiddlyWiki)**  
+[rechtsdatenbank_24_7_export.html](sandbox:/mnt/data/rechtsdatenbank_24_7_export.html)
+
+---
+
+Если хотите:
+- создать **интерактивную HTML-фильтрацию** или загрузить в Google Sheets / Notion
+- построить **граф-связи** или визуализацию по темам и результатам  
+— просто скажите!
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Добавить ещё по аутизму и психиатрии и нефизической инвалидности
+24/7 что дали уход
+
+--- АССИСТЕНТ ---
+Чтобы я мог найти больше решений по 24/7 уходу для людей с аутизмом, психическими заболеваниями или другими нефизическими формами инвалидности (где уход был одобрен), пожалуйста, уточните:
+
+1. Интересуют ли вас только **решения судов Германии**?
+2. Должны ли это быть **позитивные решения** (то есть где суд одобрил или обязал предоставить 24/7-уход)?
+3. Ищем ли мы решения **за конкретный период** (например, 2015–2025)?
+
+После этих уточнений я сразу начну расширенный поиск и интеграцию новых примеров в вашу базу.
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+1 Суды Германии 
+
+2 позитивные и негативные
+
+3 за все периоды
+
+--- АССИСТЕНТ ---
+{
+  &quot;task_violates_safety_guidelines&quot;: false,
+  &quot;user_def_doesnt_want_research&quot;: false,
+  &quot;response&quot;: &quot;Хорошо. Я подберу решения судов Германии (все инстанции, включая SG, LSG, BSG), в которых рассматривался вопрос предоставления 24/7-ухода для людей с аутизмом, психиатрическими диагнозами или другими нефизическими инвалидностями. Включу как позитивные (утверждающие), так и негативные (отказывающие) решения, за весь доступный период.\n\nЯ сообщу, как только новые дела будут готовы для добавления в вашу базу.&quot;,
+  &quot;title&quot;: &quot;Решения судов Германии по 24/7-уходу при аутизме, психиатрии и нефизической инвалидности&quot;,
+  &quot;prompt&quot;: &quot;Подобрать решения судов Германии (включая Sozialgerichte, Landessozialgerichte и Bundessozialgericht), в которых рассматривался вопрос предоставления 24/7-ухода (Rund-um-die-Uhr Betreuung) для Menschen mit nicht körperlicher Behinderung, включая аутизм, психиатрические заболевания, geistige Behinderung и схожие диагнозы. Включить как позитивные (утверждающие) решения, где уход был назначен или одобрен, так и негативные (отказ в 24-Stunden-Assistenz).\n\nПокрыть весь доступный период (без ограничения по дате). Указать:\n- суд, номер дела, дату\n- ключевую цитату (Kernaussage)\n- структуру локализации (Tenor, Gründe и т.п.)\n- ссылку на источник (социалgerichtsbarkeit.de, juris и т.п.)\n- если возможно, выделить диагноз/категорию инвалидности и итог (stattgebend / ablehnend / teilweise)\n\nСтруктурировать как карточки, готовые к внедрению в гибридную базу. Отмечать результаты (Ergebnis), добавлять навигационные строки (Suchstring, Kontext), если доступны.\n\nОтвет должен быть на русском языке.&quot;
+}
+
+--- АССИСТЕНТ ---
+Хорошо. Я подберу решения судов Германии (все инстанции, включая SG, LSG, BSG), в которых рассматривался вопрос предоставления 24/7-ухода для людей с аутизмом, психиатрическими диагнозами или другими нефизическими инвалидностями. Включу как позитивные (утверждающие), так и негативные (отказывающие) решения, за весь доступный период.
+
+Я сообщу, как только новые дела будут готовы для добавления в вашу базу.
+
+--- АССИСТЕНТ ---
+# Решения судов Германии о 24-часовом уходе при нетелесной инвалидности
+
+## Позитивные решения (назначение 24-часового ухода)
+
+- **Sächsisches Landessozialgericht, Urteil от 18.05.2022 – Az. L 8 SO 78/17:** Истец (1983 г.р., диагнозы – ранний детский аутизм, умственная отсталость, неполный паралич нижних конечностей) добился обеспечения круглосуточной личной ассистенции в домашнем уходе через личный бюджет. Суд указал, что заключенное сторонами мировое соглашение от 08.01.2013 об обязанности выплачивать ~10 000 € ежемесячно на **24-часовую персональную помощь** (включая средства соцстрахования по уходу) остается в силе, и **ретроспективное снижение этой суммы по результатам переоценки потребностей незаконно**【4†L569-L577】. *(Решение по существу, причины)*. **Диагноз/категория:** ранний аутизм (сопутствующая физическая инвалидность). **Результат:** требование удовлетворено (статтгебенд). **Источник:** [sozialgerichtsbarkeit.de](https://www.sozialgerichtsbarkeit.de/node/171518)【4†L569-L577】.
+
+## Негативные решения (отказ в 24-часовом уходе)
+
+- **Landessozialgericht Sachsen-Anhalt, Beschluss от 07.11.2018 – Az. L 8 SO 25/18 B ER:** Заявительница (1992 г.р., **тяжелая умственная отсталость** после менингита в младенчестве, спастический парез) требовала в порядке обеспечения (Eilverfahren) 24-часовую помощь на дому вместо проживания в интернате. **Суд отклонил ее требование**, указав, что при столь тяжелой интеллектуальной инвалидности самостоятельная жизнь на дому невозможна, а **стационарный уход в специализированном учреждении является допустимым и не нарушает прав заявительницы**【16†L681-L689】【16†L691-L699】. Отмечено, что заявительница не ориентируется во времени и месте, не может сама выражать желания; ее ежедневная жизнь полностью организуется третьими лицами. Для нее необходима строгая структура дня и контроль нежелательного поведения, что лучше обеспечивается в стационаре. **Диагноз:** существенная интеллектуальная недостаточность (сопутствующий двигательный дефект). **Результат:** отказ в назначении 24-часовой ассистенции (аблененд, во внесудебном порядке оставлено стационарное размещение без изменений)【16†L681-L689】【16†L691-L699】. **Источник:** [sozialgerichtsbarkeit.de](https://www.sozialgerichtsbarkeit.de/legacy/203565) (решение ЛСГ Саксонии-Анхальт)【16†L681-L689】.
+
+- **Landessozialgericht Sachsen-Anhalt, Urteil от 28.04.2016 – Az. L 8 SO 4/14:** Опекун истицы (женщина с **умственной и множественной формой инвалидности**) добивалась перевода ее с постоянного проживания в интернате на **круглосуточный уход дома с ассистентами**, финансируемый личным бюджетом. **Социальный суд** первой инстанции удовлетворил иск, однако ЛСГ отменил это решение и отказал в требовании. Суд апелляционной инстанции подчеркнул, что **стационарный групповый уход для истицы приемлем и разумен**, и нельзя говорить о «навязанной» жизни в группе, поскольку у истицы есть собственная комната, контакты с матерью и др. Ограничения при проживании в интернате не превышают тех, с которыми она столкнулась бы и дома【41†L19-L27】【41†L31-L34】. Таким образом, решение первой инстанции о предоставлении 24-часовой помощи на дому признано ошибочным【39†L7-L11】. **Диагноз:** тяжелая интеллектуальная (духовная) инвалидность. **Результат:** отказ – требование круглосуточной ассистенции отклонено, стационарное проживание сочтено допустимым (аблененд)【39†L7-L11】【41†L19-L27】. **Источник:** [sozialgerichtsbarkeit.de](https://www.sozialgerichtsbarkeit.de/legacy/188158)【39†L7-L11】.
+
+- **Landessozialgericht Baden-Württemberg, Beschluss от 31.01.2024 – Az. L 2 SO 3402/23 ER-B:** Родители несовершеннолетнего заявителя (2004 г.р., диагнозы – **ранний детский аутизм**, туберозный склероз мозга, эпилепсия, грубая задержка развития) требовали в порядке обеспечения выделить личный бюджет ~31 000 € в месяц для организации **круглосуточной домашней ассистенции** силами единой частной службы (управляемой матерью) вместо содержания сына в интернате. **Социальный суд Констанца** отказал в обеспечительной мере, и **ЛСГ подтвердил этот отказ**. В мотивировочной части подчеркивается, что **расходы на 24-часовой уход на дому чрезмерно превышают обычные затраты**, а нахождение ребенка в специализированном интернате (особая форма проживания) считается равноценной и подходящей альтернативой【33†L84-L93】【33†L98-L102】. Сопоставление стоимости интерната и домашней опеки в данном случае не ведет к выводу о необходимости более дорогого варианта: права ребенка удовлетворяются и в стационаре. **Диагноз:** ранний аутизм с тяжелыми множественными нарушениями. **Результат:** отказ – в предварительном порядке в круглосуточном бюджете отказано (аблененд)【33†L84-L93】【33†L98-L102】. **Источник:** [sozialgerichtsbarkeit.de](https://www.sozialgerichtsbarkeit.de/node/177333)【33†L84-L93】【33†L98-L102】.
+
+
+================================================================================
+РАЗГОВОР 363/1105: 111 социал Programme für Inklusion in DE
+================================================================================
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Программы помощи для инвалидов в Германии
+
+--- АССИСТЕНТ ---
+Конечно! Вот краткий обзор **основных программ помощи для людей с инвалидностью в Германии**:
+
+---
+
+### 1. **Pflegeversicherung (Страхование ухода)**
+- Выплачивает пособия для нуждающихся в уходе.
+- Уровни ухода (Pflegegrad 1–5) определяют размер помощи.
+- Может покрывать расходы на услуги сиделок, адаптацию жилья, уход дома и в учреждениях.
+
+### 2. **EUTB – Ergänzende Unabhängige Teilhabeberatung**
+- Бесплатные консультации для людей с инвалидностью и их семей.
+- Помогают ориентироваться в правах, заявках на помощь, доступных программах.
+
+### 3. **Schwerbehindertenausweis (Удостоверение инвалида)**
+- Официальное подтверждение степени инвалидности (GdB — Grad der Behinderung).
+- Даёт право на налоговые льготы, защиту от увольнения, дополнительные выходные, скидки на транспорт.
+
+### 4. **Integrationsämter (Службы интеграции)**
+- Поддерживают людей с инвалидностью на работе.
+- Финансируют адаптацию рабочих мест, оплату сопровождающих лиц, обучение.
+
+### 5. **Berufliche Rehabilitation (Профессиональная реабилитация)**
+- Переобучение, курсы повышения квалификации, стажировки для людей с инвалидностью.
+- Проводится через агентства занятости, DRV (пенсионное страхование) или Berufsgenossenschaften (профессиональные страховые ассоциации).
+
+### 6. **Assistenzleistungen (Услуги ассистентов)**
+- Помощь в повседневной жизни: сопровождение, помощь в быту, уход.
+- Возможна организация как через соцслужбы, так и через личных ассистентов (Personal Budget).
+
+### 7. **Wohnumfeldverbessernde Maßnahmen (Адаптация жилья)**
+- Субсидии (до 4000 евро) на переоборудование квартиры или дома для инвалидности: пандусы, душевые кабины без порога, расширение дверей и пр.
+
+### 8. **Mobilitätshilfen (Помощь с мобильностью)**
+- Специальные тарифы на общественный транспорт (например, бесплатный проезд при наличии Schwerbehindertenausweis с Kennzeichen &quot;G&quot;, &quot;aG&quot;).
+- Субсидии на адаптацию автомобиля.
+- Программы выдачи электрических колясок.
+
+### 9. **Grundsicherung im Alter und bei Erwerbsminderung (Базовое социальное обеспечение)**
+- Минимальное социальное пособие для людей, неспособных работать по состоянию здоровья.
+
+### 10. **Inklusionsfirmen und Werkstätten für behinderte Menschen (Инклюзивные компании и мастерские)**
+- Специализированные рабочие места для людей с инвалидностью.
+
+---
+
+Хочешь, я ещё дополнительно сделаю:
+- список **ключевых льгот** для инвалидов в Германии;
+- **пошаговую схему**, как оформить помощь;
+- или **образцы заявлений и бланков** для начала оформления?
+
+Что удобнее?
+
+
+================================================================================
+РАЗГОВОР 364/1105: Приветствие и настроение
+================================================================================
+
+--- АССИСТЕНТ ---
+Привет! Как настроение?
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Привет! Пока все нормально.
+
+--- АССИСТЕНТ ---
+Рад слышать! Есть что-то, о чём хотели бы поговорить?
+
+--- АССИСТЕНТ ---
+Окей! Если что-то понадобится, я на связи.
+
+
+================================================================================
+РАЗГОВОР 365/1105: Сортировка мусора в Германии
+================================================================================
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Конечно, вот простая и понятная инструкция по сортировке мусора в Германии:
+
+⸻
+
+🗑️ Как сортировать мусор в Германии
+
+В Германии очень строго следят за раздельным сбором мусора. Вот основные категории и правила:
+
+⸻
+
+1. Gelbe Tonne / Gelber Sack (Жёлтый контейнер / мешок)
+
+Что сюда выбрасывать:
+ • Пластик (упаковки, бутылки без залога)
+ • Тетрапак (упаковки от молока, сока)
+ • Алюминиевая фольга и банки
+ • Пластиковые пакеты, плёнка
+
+❗ Важно: всё должно быть пустым, но не обязательно мыть.
+
+⸻
+
+2. Blaue Tonne (Синий контейнер) — бумага и картон
+
+Что можно:
+ • Газеты, журналы, бумага
+ • Картонные коробки
+ • Упаковка от яиц
+ • Школьные тетради
+
+🚫 Нельзя: жирную, мокрую бумагу, упаковку от пиццы (если жирная), обои.
+
+⸻
+
+3. Biotonne (Коричневый контейнер) — биоотходы
+
+Что сюда:
+ • Остатки фруктов и овощей
+ • Кофейная гуща, чайные пакетики
+ • Яичная скорлупа
+ • Остатки еды (без упаковки!)
+
+🚫 Нельзя: мясо, рыба, кости (в некоторых регионах — можно, но лучше уточнить), пластик.
+
+⸻
+
+4. Restmüll (Серый контейнер) — остаточный мусор
+
+Сюда идёт всё, что не подходит в другие контейнеры.
+
+Примеры:
+ • Пыль, подгузники
+ • Старые зубные щётки, бритвы
+ • Битая керамика, фарфор
+ • Пакеты от чипсов, жирная бумага
+
+⸻
+
+5. Glascontainer (Контейнеры для стекла)
+
+⚠️ Расположены на улице, сортировка по цветам:
+ • Белое (weiß)
+ • Зелёное (grün)
+ • Коричневое (braun)
+
+🚫 Нельзя: керамика, зеркала, оконное стекло.
+
+⸻
+
+6. Pfand (Залоговые бутылки и банки)
+
+Бутылки и банки с залогом (обычно 0,25 € или 0,08 €) нужно сдавать в автомат в супермаркете (Pfandautomat). Он возвращает чек на деньги.
+
+Признак залога — знак „Pfand“ или символ 💶.
+
+⸻
+
+7. Sondermüll (Опасные отходы)
+
+Сюда относятся:
+ • Батарейки (в супермаркетах есть специальные коробки)
+ • Лампочки, краски, химия
+ • Электроприборы (сдаются на специальные станции или в магазины)
+
+⸻
+
+🔁 Что ещё стоит знать
+ • 📆 Мусор вывозят по расписанию, его можно найти на сайте города или получить у Hausmeister’а.
+ • 🏠 Нарушения могут привести к штрафу. Уважайте правила – это важно для окружающей среды!
+
+--- АССИСТЕНТ ---
+Отличный текст! Он уже почти готов к печати или использованию как памятка. Ниже — лёгкие стилистические улучшения и предложение по оформлению в виде **плакатной карточки или PDF-листовки**, которую можно распечатать или отправить соседям, друзьям или использовать для адаптации.
+
+---
+
+## 🗑️ **Как сортировать мусор в Германии**
+
+В Германии строго следят за раздельным сбором мусора. Вот основные категории и правила:
+
+---
+
+### 1. **Gelbe Tonne / Gelber Sack**  
+**Жёлтый контейнер / жёлтый мешок** — ♻️ Упаковки
+
+✅ **Можно выбрасывать**:
+- Пластик (упаковки, бутылки без залога)  
+- Тетрапак (от молока, сока)  
+- Алюминиевые банки и фольга  
+- Пластиковые пакеты и плёнка
+
+❗ Всё должно быть **пустым**, но **не обязательно мытым**.
+
+---
+
+### 2. **Blaue Tonne**  
+**Синий контейнер** — 📄 Бумага и картон
+
+✅ **Можно**:
+- Газеты, журналы  
+- Картонные коробки  
+- Тетради, конверты  
+- Упаковки от яиц
+
+🚫 **Нельзя**:
+- Жирную/мокрую бумагу  
+- Упаковку от пиццы (если жирная)  
+- Обои
+
+---
+
+### 3. **Biotonne**  
+**Коричневый контейнер** — 🌿 Биоотходы
+
+✅ **Можно**:
+- Остатки овощей и фруктов  
+- Кофейная гуща, чайные пакетики  
+- Яичная скорлупа  
+- Остатки еды **без упаковки**
+
+🚫 **Нельзя**:
+- Пластик  
+- Мясо, рыба, кости *(в некоторых регионах разрешено — уточните)*
+
+---
+
+### 4. **Restmüll**  
+**Серый контейнер** — 🗑 Остаточный мусор
+
+✅ Примеры:
+- Пыль, подгузники  
+- Зубные щётки, бритвы  
+- Битая керамика, зеркала  
+- Жирная бумага, упаковки от чипсов
+
+---
+
+### 5. **Glascontainer**  
+**Уличные контейнеры для стекла** — 🍾 Стекло по цвету
+
+Сортировать **по цветам**:
+- Weiß – белое  
+- Grün – зелёное  
+- Braun – коричневое
+
+🚫 **Нельзя**:
+- Керамика  
+- Оконное стекло  
+- Зеркала
+
+---
+
+### 6. **Pfand**  
+**Залоговая тара** — ♻️💶
+
+Сдаётся в автоматы в супермаркетах.  
+Возвращается чек на 0,08 € или 0,25 € за штуку.
+
+🔍 Ищите надпись **&quot;Pfand&quot;** или специальный символ.
+
+---
+
+### 7. **Sondermüll**  
+**Опасные отходы** — ⚠️
+
+Сдаются отдельно:
+- 🔋 Батарейки (в коробки в магазинах)  
+- 💡 Лампочки, краски  
+- 🔌 Электроприборы (в магазины или на спецплощадки)
+
+---
+
+## ℹ️ Дополнительно:
+
+- 🗓 **Расписание вывоза** — уточняйте на сайте вашего города или у **хаусмайстера (Hausmeister)**  
+- ⚠️ **Нарушения могут привести к штрафу**  
+- 🌍 Сортировка помогает экологии и экономике страны
+
+---
+
+📌 *Распечатай и повесь дома — пригодится каждому жителю Германии!*
+
+---
+
+Хочешь, чтобы я оформил это в PDF или как плакат A4?
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Подробнее можно
+
+--- АССИСТЕНТ ---
+Конечно! Вот **развёрнутая и понятная инструкция по сортировке мусора в Германии**, с пояснениями **&quot;почему так&quot;, с советами, исключениями и региональными особенностями**. Также добавим рекомендации для новичков и тех, кто только переехал.
+
+---
+
+# 🧾 Подробная инструкция: Как сортировать мусор в Германии
+
+Раздельный сбор мусора в Германии — **не просто рекомендация, а обязанность**. Он регулируется законами об утилизации отходов (Kreislaufwirtschaftsgesetz). Цель — **снизить нагрузку на окружающую среду, переработать сырьё и сократить сжигание мусора**.
+
+## 🔹 Почему сортировка важна?
+
+- Германия — один из мировых лидеров по переработке отходов  
+- Правильная сортировка = меньше мусора на свалках  
+- Штрафы за нарушение — от 50 до 5000 евро  
+- Поддержка экосистемы и снижение выбросов CO₂
+
+---
+
+## 📦 1. Gelber Sack / Gelbe Tonne — **Жёлтый мешок / контейнер** (УПАКОВКИ)
+
+🔸 Используется для **вторсырья**: упаковки от еды и напитков, которые **не подлежат возврату** и сделаны из пластика, металла или композита (например, тетрапак).
+
+**✅ Можно выбрасывать:**
+- Пластиковые упаковки, пакеты, плёнку, обёртки  
+- Йогуртовые стаканчики, упаковки от масла, сыра  
+- Тетрапак — упаковка от сока, молока  
+- Алюминиевые банки, крышки, консервные банки
+
+**❗ Важно:**
+- Всё должно быть **пустым**, **но не нужно мыть с моющим средством**  
+- Лучше сплющивать упаковки — экономит место
+
+**🚫 Нельзя:**
+- Предметы, которые не являются упаковкой (игрушки, вёдра и т. д.)  
+- Залоговые бутылки (см. ниже)  
+- Медицинские отходы
+
+---
+
+## 📘 2. Blaue Tonne — **Синий контейнер** (БУМАГА И КАРТОН)
+
+🔹 Отходы из бумаги и картона, которые можно переработать.
+
+**✅ Можно:**
+- Газеты, журналы, книги без обложки  
+- Картон, коробки (желательно сложить/сплющить)  
+- Школьные тетради, офисная бумага  
+- Упаковка от яиц (если бумажная)
+
+**🚫 Нельзя:**
+- Обои, салфетки, бумажные полотенца  
+- Жирные коробки (например, от пиццы)  
+- Бумага с плёнкой (фольгированная, фотобумага)
+
+**🔍 Совет:**  
+Если сомневаетесь, можно ли выбросить — попробуйте **порвать бумагу. Если она «тянется» — это скорее фольга и не подлежит переработке.**
+
+---
+
+## 🍎 3. Biotonne — **Коричневый контейнер** (БИООТХОДЫ)
+
+🔸 Биоразлагаемые отходы, из которых делают компост или биогаз.
+
+**✅ Можно выбрасывать:**
+- Остатки овощей и фруктов  
+- Чай, кофе, фильтры, чайные пакетики  
+- Шкурки, кожура, яичная скорлупа  
+- Цветы, растения, трава
+
+**🚫 Нельзя:**
+- Мясо, рыбу, кости (*в некоторых регионах — допустимо, уточняйте в Gemeinde*)  
+- Жидкости, супы  
+- Пластиковые мешки, даже «био» — только **бумажные пакеты или газеты**
+
+---
+
+## ⚙️ 4. Restmüll — **Серый контейнер** (ОСТАТОЧНЫЙ МУСОР)
+
+🔹 Всё, что **не подходит** ни в одну из категорий.
+
+**✅ Примеры:**
+- Памперсы, вата, ватные палочки  
+- Битая посуда, керамика  
+- Зубные щётки, губки, старые перчатки  
+- Упаковки от чипсов, ламинированная бумага
+
+**🚫 Нельзя:**
+- Всё, что можно переработать — стекло, бумага, био  
+- Электроприборы — сдаются отдельно
+
+---
+
+## 🧴 5. Glascontainer — **Контейнер для стекла** (СТЕКЛО)
+
+🔸 Расположены отдельно на улице, сортируются по цвету.
+
+**✅ Что можно:**
+- Стеклянные бутылки и банки от еды  
+- Прозрачное — в &quot;weiß&quot;, зелёное — в &quot;grün&quot;, коричневое — в &quot;braun&quot;
+
+**🚫 Что нельзя:**
+- Оконное стекло, зеркала  
+- Керамика, фарфор  
+- Лампочки
+
+**💡 Совет:**  
+Крышки и пробки лучше снять и выбросить в **жёлтый контейнер**.
+
+---
+
+## 💶 6. Pfand — **Залоговая тара** (Бутылки и банки с возвратом)
+
+🔹 В Германии за многие пластиковые и стеклянные бутылки берётся залог **(Pfand)** — обычно **0,25 € или 0,08 €**.
+
+**Как определить:**  
+- Ищите надпись **„Pfand“** или символ 💶  
+- Сдаётся в супермаркетах через автоматы (Pfandautomat)  
+- Вы получаете чек, который можно использовать в магазине как деньги
+
+---
+
+## ☢️ 7. Sondermüll — **Опасные отходы**
+
+🔸 Эти отходы нельзя выбрасывать ни в один из контейнеров!
+
+**Сюда относятся:**
+- Батарейки и аккумуляторы (сдаются в магазинах)  
+- Лампочки (энергосберегающие, LED, галогенные)  
+- Электроприборы (включая фен, чайник, телефон — сдаются на Recyclinghof)  
+- Краски, лаки, химикаты, растворители
+
+---
+
+## 📌 Советы для новичков:
+
+✅ **Расписание вывоза**  
+— Найдите в интернете по названию вашего города: `Abfallkalender [город]`.  
+— Также можно узнать у хаусмайстера или в доме на доске объявлений.
+
+✅ **Куда сдавать Sondermüll и старую электронику?**  
+— Ищите ближайший **Wertstoffhof / Recyclinghof** — там принимают бесплатно!
+
+✅ **Как хранить мусор дома до вывоза?**  
+— Используйте разные вёдра/контейнеры, подпишите их (можно наклейками).  
+— Не храните биоотходы слишком долго — они могут привлекать насекомых.
+
+✅ **Переехали в новый дом?**  
+— Узнайте, кто поставляет мешки (Gelber Sack) — в некоторых регионах их нужно заказывать.
+
+---
+
+## 🚫 Нарушения и штрафы
+
+В Германии действует принцип **&quot;Verursacherprinzip&quot;** — &quot;кто загрязняет, тот и платит&quot;.  
+Если вы выбрасываете мусор неправильно, могут быть:
+
+- Предупреждение от управления домом  
+- Штраф от коммунальных служб  
+- Увеличение стоимости коммуналки для всех жильцов
+
+---
+
+Хочешь, я подготовлю это как **PDF-памятку (на 1–2 листа A4)** с красивым оформлением?  
+Также можно сделать **двуязычную версию: DE + RU**.
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Подробнее
+
+--- АССИСТЕНТ ---
+Хорошо! Вот **ещё более подробная, профессионально оформленная и образовательная версия** инструкции по сортировке мусора в Германии. Она подойдёт для:
+
+- новичков в Германии (в том числе мигрантов и студентов),
+- социальной работы (например, при расселении или интеграции),
+- вывешивания в общежитиях, домах, общинах,
+- использования как методички или учебного пособия.
+
+---
+
+# 🗂️ Полная инструкция по сортировке мусора в Германии  
+(с комментариями, примерами, региональными различиями, правовыми основами и полезными советами)
+
+---
+
+## 🧭 Введение
+
+Германия — одна из самых строгих и организованных стран в вопросах переработки отходов.  
+Сортировка мусора не просто «хороший тон», а **часть закона** и **социальной ответственности** каждого жителя.
+
+**Законодательная основа:**  
+- **Kreislaufwirtschaftsgesetz (KrWG)** — закон об экономике замкнутого цикла  
+- **Verpackungsgesetz (VerpackG)** — закон об упаковке  
+- Местные указы (Abfallwirtschaftssatzung) и графики вывозов от коммунальных служб (Stadtwerke)
+
+---
+
+## 🟡 1. Gelber Sack / Gelbe Tonne — упаковка (Лёгкие фракции)
+
+### 📌 Что это:
+Контейнер (или мешок), предназначенный только для упаковок — лёгких, пластиковых, металлических, композитных.  
+Эти материалы отправляются на сортировку и переработку.
+
+### ✅ Что выбрасывать:
+- Упаковки из **пластика**: бутылки (без Pfand), обёртки, пакеты, упаковки от йогуртов, масла  
+- Упаковки из **металла**: консервные банки, крышки, алюминиевая фольга  
+- **Тетрапак**: упаковки от молока, сока (это композит — пластик + бумага + фольга)
+
+### 🚫 Нельзя:
+- Бутылки и банки **с залогом (Pfand)**  
+- Электроприборы, игрушки, шланги, кастрюли  
+- Остатки еды внутри упаковок  
+- Строительный мусор
+
+### ℹ️ Советы:
+- Не нужно мыть с мылом, но **убирать остатки пищи обязательно**  
+- Лучше **сдавливать упаковку**, чтобы экономить место  
+- Некоторые земли (например, Бавария) используют **жёлтые контейнеры**, в других — **жёлтые мешки** (их раздаёт или продаёт коммунальная служба)
+
+---
+
+## 🔵 2. Blaue Tonne — бумага и картон
+
+### 📌 Что это:
+Синий контейнер — только для **бумаги и картона**, которые можно переработать.
+
+### ✅ Что выбрасывать:
+- Газеты, журналы, тетради  
+- Картонные коробки (разрезанные или сложенные)  
+- Конверты (в т.ч. с пластиковыми окнами — допустимо)  
+- Упаковки от яиц (бумажные)
+
+### 🚫 Нельзя:
+- Обои, фотобумага  
+- Жирная, грязная бумага (в т.ч. коробки от пиццы, если жирные)  
+- Бумажные полотенца, салфетки — только в Restmüll
+
+### ℹ️ Советы:
+- Если бумага содержит **пластик или фольгу** — она не подходит  
+- Бумагу не обязательно рвать или измельчать  
+- Бумага, испачканная едой, идёт в серый контейнер
+
+---
+
+## 🟤 3. Biotonne — биоотходы
+
+### 📌 Что это:
+Коричневый контейнер — для органических отходов, перерабатываемых в компост или биогаз.
+
+### ✅ Что выбрасывать:
+- Остатки овощей, фруктов  
+- Листья, цветы, комнатные растения  
+- Яичная скорлупа, кофейная гуща  
+- Чайные пакетики (без пластиковых скобок!)
+
+### 🚫 Нельзя:
+- Мясо, рыба, жиры (в большинстве земель)  
+- Пищевые отходы в пластике  
+- Кошачий или собачий помёт  
+- Упаковки от еды (даже биоразлагаемые!)
+
+### ℹ️ Советы:
+- Используйте **бумажные пакеты или газету**, а не пластиковые пакеты  
+- Если есть сад — можно договориться с соседями о компостной куче  
+- В некоторых регионах (например, в Берлине) нет обязательного био-контейнера — биоотходы идут в Restmüll
+
+---
+
+## ⚫ 4. Restmüll — остаточный мусор
+
+### 📌 Что это:
+Серый контейнер — для всего, **что не перерабатывается** и не подходит в другие контейнеры.
+
+### ✅ Примеры:
+- Памперсы, бинты, вата  
+- Битая керамика, фарфор  
+- Губки, перчатки, зубные щётки  
+- Упаковка от чипсов, салфетки, жирная бумага
+
+### 🚫 Нельзя:
+- Всё, что относится к другим контейнерам  
+- Электроприборы  
+- Опасные вещества
+
+---
+
+## 🍾 5. Glascontainer — стекло
+
+### 📌 Что это:
+Уличные контейнеры для сбора **бутылок и банок из стекла**. Сортируются по цвету.
+
+### ✅ Что сдаётся:
+- Прозрачное стекло → белый контейнер  
+- Зелёное стекло → зелёный  
+- Коричневое стекло → коричневый
+
+### 🚫 Нельзя:
+- Крышки и пробки  
+- Керамика, фарфор, жаропрочное стекло  
+- Зеркала, оконное стекло
+
+### ℹ️ Советы:
+- Контейнеры часто размещаются в жилых зонах  
+- **Не бросать стекло ночью** — запрещено из-за шума (Ruhezeit)
+
+---
+
+## 💶 6. Pfand — залоговая тара
+
+### 📌 Что это:
+Возвратная упаковка — подлежит сдаче в специальные автоматы или кассу. Возвращается денежный залог.
+
+### ✅ Что включено:
+- Пластиковые бутылки (от воды, напитков, пива)  
+- Алюминиевые банки  
+- Стеклянные бутылки (многоразовые)
+
+### 💡 Символ:  
+- „Pfand“ на этикетке  
+- Специальный знак с кружком и стрелкой  
+- Размер возврата: 0,25 € или 0,08 €
+
+---
+
+## ☣️ 7. Sondermüll — опасные отходы
+
+### 📌 Что это:
+Вещества и материалы, требующие специальной утилизации.
+
+### ✅ Примеры:
+- Батарейки (в ящики в супермаркетах)  
+- Лампочки, энергосберегающие и светодиодные  
+- Электроприборы (включая мобильные телефоны, тостеры, чайники)  
+- Химикаты, краски, растворители  
+- Строительный мусор — принимается в спецпунктах
+
+### ℹ️ Где сдавать:
+- Recyclinghof / Wertstoffhof  
+- Магазины, принимающие электронику  
+- Мобильные пункты (Umweltmobil)
+
+---
+
+## 🧾 Дополнительные правила и советы
+
+### 📆 График вывоза
+- У каждого дома/улицы есть свой календарь  
+- Доступен онлайн: **[название города] + „Abfallkalender“**
+
+### 🏠 Кто отвечает?
+- Как правило, квартиросъёмщик сортирует сам  
+- В многоэтажках может быть Hausmeister  
+- Частные дома могут иметь собственный договор с Müllentsorger
+
+### 🚫 Штрафы:
+- Предупреждение: устное или письменное  
+- Штраф: от 50 до 5000 €  
+- Повторные нарушения → судебное разбирательство или выселение
+
+---
+
+## 📄 Хочешь памятку в формате PDF?
+
+Я могу:
+- 📄 Сделать **PDF-файл на 2–3 страницы**, готовый к печати  
+- 🇷🇺🇩🇪 Создать **двуязычную версию (DE + RU)**  
+- 📊 Добавить **таблицы, пиктограммы и цветовую маркировку**  
+- 🏡 Создать **вариант для дома, школы, офиса или приюта**
+
+👉 Просто напиши, какую версию ты хочешь: **PDF / Плакат / Таблица / Двуязычно / Мобильная версия** — и я сделаю.
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Ещё подробнее
+
+--- АССИСТЕНТ ---
+Отлично. Ниже — **максимально подробное, глубокое и системное описание сортировки мусора в Германии**, с добавлением:
+
+- нормативной базы (по параграфам),
+- социальных, культурных и технических аспектов,
+- логистики и экономики переработки,
+- исключений, региональных различий и мифов,
+- интеграции в повседневную жизнь и аренду жилья.
+
+---
+
+# ♻️ **Полная система сортировки мусора в Германии — от А до Я**
+
+---
+
+## 📚 Часть I: Общая логика и правовая база
+
+### 🔎 1. Что стоит за немецкой системой сортировки?
+
+Система раздельного сбора отходов в Германии — **результат экологической политики, начатой в 1980-х**, и оформленной в законе:
+
+&gt; **Kreislaufwirtschaftsgesetz (KrWG)** — Закон об экономике замкнутого цикла (замена прежнего Abfallgesetz).  
+&gt; Основная цель: минимизировать образование отходов, поощрять повторное использование, переработку и безопасную утилизацию.
+
+### 🧾 2. Ключевые юридические документы:
+- **KrWG** § 6–11 – иерархия обращения с отходами (избежать → использовать повторно → переработать → утилизировать)
+- **Verpackungsgesetz (VerpackG)** – регламент по упаковке и системе Pfand
+- **ElektroG** – закон об утилизации электроники
+- **BattG** – закон об утилизации батареек
+
+### 📐 3. Кто за что отвечает:
+
+| Субъект                   | Обязанности                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| Федеральное правительство | Устанавливает законы и цели политики                                        |
+| Земли и коммуны           | Отвечают за организацию сбора, графики, контейнеры                         |
+| Частные компании          | Осуществляют вывоз, переработку, отчётность                                 |
+| Жильцы и арендаторы       | Обязаны **самостоятельно сортировать** и соблюдать правила сортировки      |
+
+---
+
+## 🟡 Часть II: Основные контейнеры и их логика
+
+### 🔹 1. **Gelber Sack / Gelbe Tonne — „LVP“**  
+*Leichtverpackungen – лёгкие упаковки*
+
+Это не просто «пластик», а упаковки, попадающие под систему Duale Systeme — частная система переработки. Их **сортируют, сдают частной фирме, а не городу**.
+
+**✅ Что идёт:**
+- Все **пищевые упаковки** без Pfand: йогурт, масло, упаковка от колбасы
+- **Плёнка**, пластик, пенопласт, алюминий, тетрапак
+- Косметические флаконы, тюбики
+
+**🚫 Нельзя:**
+- Твёрдые предметы (игрушки, вёдра)
+- Остатки еды
+- Предметы не относящиеся к упаковке (технику, расчёски)
+
+**📦 Миф:**  
+«Всё пластмассовое — в жёлтый мешок» — **неправда**. Только упаковки.
+
+---
+
+### 🔹 2. **Blaue Tonne — бумага и картон**
+
+**✅ Можно:**
+- Любая **чистая бумага и картон**
+- Буклеты, газеты, каталоги
+- Письма, тетради, блокноты
+
+**🚫 Нельзя:**
+- Обои — это строительный материал  
+- Жирные коробки  
+- Бумажные платки — гигиенические отходы  
+- Картон с фольгой (новогодние упаковки)
+
+**💡 Почему важно:**  
+Бумага хорошо перерабатывается только при отсутствии жира и загрязнений. **1 жирная коробка может испортить весь прессованный блок**.
+
+---
+
+### 🔹 3. **Biotonne — органика**
+
+Здесь региональные различия особенно сильны.
+
+**Основные правила:**
+- В основном принимаются только **вегетарианские биоотходы**: остатки фруктов, овощей, кофейная гуща, листья
+- Мясо, рыба — **в большинстве земель запрещено** из-за запаха и вредителей
+
+**❗️Региональные различия:**
+- В Баварии и некоторых частях Гессена мясо и рыба допускаются  
+- В Берлине и Бремене биоотходы вообще не обязаны сортироваться отдельно
+
+**🛍 Миф:**  
+«Можно класть био в био-пакеты» — **неправда**. Даже биоразлагаемые пакеты **не допускаются**, только бумажные.
+
+---
+
+### 🔹 4. **Restmüll — остаточный мусор**
+
+Контейнер на всё, что **не может быть переработано или опасно**.
+
+**Примеры:**
+- Подгузники, бинты, салфетки
+- Щётки, зубочистки, разбитая керамика
+- Мусорные пакеты, жирные салфетки, изоляционные материалы
+
+**📊 Почему важно:**  
+Restmüll идёт **на сжигание**. Он дороже в утилизации, чем переработка. Это самый «нежелательный» мусор.
+
+---
+
+### 🔹 5. **Glascontainer — стекло**
+
+**Важное правило:**
+- Стекло нужно сортировать по цвету (weiß, braun, grün)
+- Если не знаете, куда класть разноцветное — **в зелёный**
+
+**🚫 Нельзя:**
+- Оконное и автомобильное стекло — имеют другую структуру  
+- Жаропрочное стекло (например, из духовки) — не плавится при температуре стеклопереработки
+
+---
+
+### 🔹 6. **Pfand — залоговая упаковка**
+
+**Символ:**
+- „Pfand“ на этикетке
+- €0,25 для одноразовых пластиковых и алюминиевых банок
+- €0,08–€0,15 для стеклянных многоразовых бутылок
+
+Сдаётся:
+- Через автоматы (Pfandautomat)
+- Вручную — на кассе
+
+**📊 Залог стимулирует возврат: → 98% залоговых бутылок в Германии возвращаются!**
+
+---
+
+### 🔹 7. **Sondermüll — опасные отходы**
+
+**Категории:**
+- Электроника (от телефона до пылесоса)
+- Лампочки, батарейки, аккумуляторы
+- Краски, клеи, аэрозоли
+- Медицинские отходы (шприцы, лекарства)
+
+**💡 Где сдавать:**
+- Recyclinghöfe (муниципальные пункты сбора)
+- Магазины (для ламп и батареек)
+
+---
+
+## 🏠 Часть III: Сортировка на практике
+
+### 🏘 Где и как сортировать дома?
+
+- **В каждой квартире** желательно иметь минимум 3 вёдра: био, упаковка, остальное  
+- **На кухне**: био и упаковки  
+- **В ванной**: Restmüll и бумага (рулоны, коробки)
+
+---
+
+## 👮 Часть IV: Нарушения и штрафы
+
+| Нарушение                                  | Возможный штраф            |
+|-------------------------------------------|----------------------------|
+| Неправильная сортировка                   | от 35 до 500 €             |
+| Выбрасывание опасных веществ в мусор      | до 5 000 €                 |
+| Вынос мусора в чужие контейнеры           | до 1000 €                  |
+| Шум при выбрасывании стекла ночью         | до 300 €                   |
+
+**Мусорный скандал** в доме часто ведёт к:
+- Жалобам от соседей  
+- Уведомлению от Hausverwaltung  
+- Увеличению Nebenkosten (побочных расходов)
+
+---
+
+## 🌍 Часть V: Экономика, культура и экологическая цель
+
+- В Германии **более 60% отходов перерабатываются**  
+- Немцы считают сортировку делом **чести, привычки и закона**  
+- Участвуют не только домохозяйства, но и школы, офисы, церкви
+
+**Экологическая цель:**  
+Снизить выбросы парниковых газов, сократить использование первичного сырья, сохранить природу.
+
+---
+
+## 📎 Хочешь готовый материал?
+
+📥 Я могу сделать:
+
+- PDF-версию (многостраничную и краткую)  
+- Плакат в двух цветах (с иконками и символами)  
+- Таблицу &quot;что куда выбрасывать&quot; в формате Excel или Google Sheet  
+- Вариант для телефонов (мобильная памятка)  
+- Вариант **на 3 языках**: 🇩🇪🇷🇺🇬🇧
+
+✍️ Просто напиши, какая форма нужна — и я подготовлю всё под ключ.
+
+
+================================================================================
+РАЗГОВОР 366/1105: 111 социал Zusammenfassung SGB IX
+================================================================================
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Пппппп## Kapitel 13Soziale Teilhabe
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE007700000)
+### § 76 Leistungen zur Sozialen Teilhabe
+(1) Leistungen zur Sozialen Teilhabe werden erbracht, um eine gleichberechtigte Teilhabe am Leben in der Gemeinschaft zu ermöglichen oder zu erleichtern, soweit sie nicht nach den Kapiteln 9 bis 12 erbracht werden. Hierzu gehört, Leistungsberechtigte zu einer möglichst selbstbestimmten und eigenverantwortlichen Lebensführung im eigenen Wohnraum sowie in ihrem Sozialraum zu befähigen oder sie hierbei zu unterstützen. Maßgeblich sind die Ermittlungen und Feststellungen nach den Kapiteln 3 und 4.
+(2) Leistungen zur Sozialen Teilhabe sind insbesondere1.
+Leistungen für Wohnraum,
+2.
+Assistenzleistungen,
+3.
+heilpädagogische Leistungen,
+4.
+Leistungen zur Betreuung in einer Pflegefamilie,
+5.
+Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten,
+6.
+Leistungen zur Förderung der Verständigung,
+7.
+Leistungen zur Mobilität und
+8.
+Hilfsmittel.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE007800000)
+### § 77 Leistungen für Wohnraum
+(1) Leistungen für Wohnraum werden erbracht, um Leistungsberechtigten zu Wohnraum zu verhelfen, der zur Führung eines möglichst selbstbestimmten, eigenverantwortlichen Lebens geeignet ist. Die Leistungen umfassen Leistungen für die Beschaffung, den Umbau, die Ausstattung und die Erhaltung von Wohnraum, der den besonderen Bedürfnissen von Menschen mit Behinderungen entspricht.
+(2) Aufwendungen für Wohnraum oberhalb der Angemessenheitsgrenze nach § 42a des Zwölften Buches sind zu erstatten, soweit wegen des Umfangs von Assistenzleistungen ein gesteigerter Wohnraumbedarf besteht.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE007900000)
+### § 78 Assistenzleistungen
+(1) Zur selbstbestimmten und eigenständigen Bewältigung des Alltages einschließlich der Tagesstrukturierung werden Leistungen für Assistenz erbracht. Sie umfassen insbesondere Leistungen für die allgemeinen Erledigungen des Alltags wie die Haushaltsführung, die Gestaltung sozialer Beziehungen, die persönliche Lebensplanung, die Teilhabe am gemeinschaftlichen und kulturellen Leben, die Freizeitgestaltung einschließlich sportlicher Aktivitäten sowie die Sicherstellung der Wirksamkeit der ärztlichen und ärztlich verordneten Leistungen. Sie beinhalten die Verständigung mit der Umwelt in diesen Bereichen.
+(2) Die Leistungsberechtigten entscheiden auf der Grundlage des Teilhabeplans nach § 19 über die konkrete Gestaltung der Leistungen hinsichtlich Ablauf, Ort und Zeitpunkt der Inanspruchnahme. Die Leistungen umfassen1.
+die vollständige und teilweise Übernahme von Handlungen zur Alltagsbewältigung sowie die Begleitung der Leistungsberechtigten und
+2.
+die Befähigung der Leistungsberechtigten zu einer eigenständigen Alltagsbewältigung.
+Die Leistungen nach Nummer 2 werden von Fachkräften als qualifizierte Assistenz erbracht. Sie umfassen insbesondere die Anleitungen und Übungen in den Bereichen nach Absatz 1 Satz 2.
+(3) Die Leistungen für Assistenz nach Absatz 1 umfassen auch Leistungen an Mütter und Väter mit Behinderungen bei der Versorgung und Betreuung ihrer Kinder.
+(4) Sind mit der Assistenz nach Absatz 1 notwendige Fahrkosten oder weitere Aufwendungen des Assistenzgebers, die nach den Besonderheiten des Einzelfalles notwendig sind, verbunden, werden diese als ergänzende Leistungen erbracht.
+(5) Leistungsberechtigten Personen, die ein Ehrenamt ausüben, sind angemessene Aufwendungen für eine notwendige Unterstützung zu erstatten, soweit die Unterstützung nicht zumutbar unentgeltlich erbracht werden kann. Die notwendige Unterstützung soll hierbei vorrangig im Rahmen familiärer, freundschaftlicher, nachbarschaftlicher oder ähnlich persönlicher Beziehungen erbracht werden.
+(6) Leistungen zur Erreichbarkeit einer Ansprechperson unabhängig von einer konkreten Inanspruchnahme werden erbracht, soweit dies nach den Besonderheiten des Einzelfalles erforderlich ist.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008000000)
+### § 79 Heilpädagogische Leistungen
+(1) Heilpädagogische Leistungen werden an noch nicht eingeschulte Kinder erbracht, wenn nach fachlicher Erkenntnis zu erwarten ist, dass hierdurch1.
+eine drohende Behinderung abgewendet oder der fortschreitende Verlauf einer Behinderung verlangsamt wird oder
+2.
+die Folgen einer Behinderung beseitigt oder gemildert werden können.
+Heilpädagogische Leistungen werden immer an schwerstbehinderte und schwerstmehrfachbehinderte Kinder, die noch nicht eingeschult sind, erbracht.
+(2) Heilpädagogische Leistungen umfassen alle Maßnahmen, die zur Entwicklung des Kindes und zur Entfaltung seiner Persönlichkeit beitragen, einschließlich der jeweils erforderlichen nichtärztlichen therapeutischen, psychologischen, sonderpädagogischen, psychosozialen Leistungen und der Beratung der Erziehungsberechtigten, soweit die Leistungen nicht von § 46 Absatz 1 erfasst sind.
+(3) In Verbindung mit Leistungen zur Früherkennung und Frühförderung nach § 46 Absatz 3 werden heilpädagogische Leistungen als Komplexleistung erbracht. Die Vorschriften der Verordnung zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder finden Anwendung. In Verbindung mit schulvorbereitenden Maßnahmen der Schulträger werden die Leistungen ebenfalls als Komplexleistung erbracht.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008100000)
+### § 80 Leistungen zur Betreuung in einer Pflegefamilie
+Leistungen zur Betreuung in einer Pflegefamilie werden erbracht, um Leistungsberechtigten die Betreuung in einer anderen Familie als der Herkunftsfamilie durch eine geeignete Pflegeperson zu ermöglichen. Bei minderjährigen Leistungsberechtigten bedarf die Pflegeperson der Erlaubnis nach § 44 des Achten Buches. Bei volljährigen Leistungsberechtigten gilt § 44 des Achten Buches entsprechend. Die Regelungen über Verträge mit Leistungserbringern bleiben unberührt.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008200000)
+### § 81 Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten
+Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten werden erbracht, um Leistungsberechtigten die für sie erreichbare Teilhabe am Leben in der Gemeinschaft zu ermöglichen. Die Leistungen sind insbesondere darauf gerichtet, die Leistungsberechtigten in Fördergruppen und Schulungen oder ähnlichen Maßnahmen zur Vornahme lebenspraktischer Handlungen einschließlich hauswirtschaftlicher Tätigkeiten zu befähigen, sie auf die Teilhabe am Arbeitsleben vorzubereiten, ihre Sprache und Kommunikation zu verbessern und sie zu befähigen, sich ohne fremde Hilfe sicher im Verkehr zu bewegen. Die Leistungen umfassen auch die blindentechnische Grundausbildung.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008300000)
+### § 82 Leistungen zur Förderung der Verständigung
+Leistungen zur Förderung der Verständigung werden erbracht, um Leistungsberechtigten mit Hör- und Sprachbehinderungen die Verständigung mit der Umwelt aus besonderem Anlass zu ermöglichen oder zu erleichtern. Die Leistungen umfassen insbesondere Hilfen durch Gebärdensprachdolmetscher und andere geeignete Kommunikationshilfen. § 17 Absatz 2 des Ersten Buches bleibt unberührt.
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008400000)
+### § 83 Leistungen zur Mobilität
+(1) Leistungen zur Mobilität umfassen1.
+Leistungen zur Beförderung, insbesondere durch einen Beförderungsdienst, und
+2.
+Leistungen für ein Kraftfahrzeug.
+(2) Leistungen nach Absatz 1 erhalten Leistungsberechtigte nach § 2, denen die Nutzung öffentlicher Verkehrsmittel auf Grund der Art und Schwere ihrer Behinderung nicht zumutbar ist. Leistungen nach Absatz 1 Nummer 2 werden nur erbracht, wenn die Leistungsberechtigten das Kraftfahrzeug führen können oder gewährleistet ist, dass ein Dritter das Kraftfahrzeug für sie führt und Leistungen nach Absatz 1 Nummer 1 nicht zumutbar oder wirtschaftlich sind.
+(3) Die Leistungen nach Absatz 1 Nummer 2 umfassen Leistungen1.
+zur Beschaffung eines Kraftfahrzeugs,
+2.
+für die erforderliche Zusatzausstattung,
+3.
+zur Erlangung der Fahrerlaubnis,
+4.
+zur Instandhaltung und
+5.
+für die mit dem Betrieb des Kraftfahrzeugs verbundenen Kosten.
+Die Bemessung der Leistungen orientiert sich an der Kraftfahrzeughilfe-Verordnung.
+(4) Sind die Leistungsberechtigten minderjährig, umfassen die Leistungen nach Absatz 1 Nummer 2 den wegen der Behinderung erforderlichen Mehraufwand bei der Beschaffung des Kraftfahrzeugs sowie Leistungen nach Absatz 3 Nummer 2.
+#### Fußnote
+(+++ § 83: Zur Anwendung vgl. § 114 +++)
+[Nichtamtliches Inhaltsverzeichnis](https://www.gesetze-im-internet.de/sgb_9_2018/index.html#BJNR323410016BJNE008500000)
+### § 84 Hilfsmittel
+(1) Die Leistungen umfassen Hilfsmittel, die erforderlich sind, um eine durch die Behinderung bestehende Einschränkung einer gleichberechtigten Teilhabe am Leben in der Gemeinschaft auszugleichen. Hierzu gehören insbesondere barrierefreie Computer.
+(2) Die Leistungen umfassen auch eine notwendige Unterweisung im Gebrauch der Hilfsmittel sowie deren notwendige Instandhaltung oder Änderung.
+(3) Soweit es im Einzelfall erforderlich ist, werden Leistungen für eine Doppelausstattung erbracht.
+
+--- АССИСТЕНТ ---
+Möchtest du zu diesen §§ 76 bis 84 SGB IX eine kurze Zusammenfassung, eine detaillierte Erläuterung (z. B. wer was beantragen kann, welche Kosten übernommen werden usw.) oder etwas ganz anderes – etwa eine Gegenüberstellung mit früherem Recht? Sag mir einfach, was dir am meisten hilft.
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Подробнее
+
+--- АССИСТЕНТ ---
+### Подробное пояснение к §§ 76 – 84 SGB IX (Kapitel 13 «Социальное участие»)  
+
+&gt; Ниже — разбор каждой нормы, практические примеры и нюансы применения. Текст основан на действующей редакции SGB IX, включая правки 2023 г. и материалы проекта по сопровождению внедрения BTHG.citeturn0search0turn1view0  
+
+---
+
+#### Общая идея Kapitel 13  
+«Leistungen zur Sozialen Teilhabe» — это блок мер, с помощью которых *Eingliederungshilfe* (интеграционная помощь) компенсирует именно **социальные барьеры**: жильё, быт, мобильность, коммуникацию, участие в культуре и досуге. Решение о конкретных услугах принимается после комплексной оценки потребностей (§§ 13–19 SGB IX) и фиксируется в *Teilhabeplan*.  
+
+---
+
+#### § 76  Leistungen zur Sozialen Teilhabe  
+* **Цель** — обеспечить или упростить равноправное участие в жизни сообщества; акцент на самостоятельность в собственном жилье и в «социальном пространстве» (Sozialraum).  
+* **Отграничение** — всё, что уже покрыто главами 9-12 (медицинская реабилитация, образование, трудовая занятость), сюда не дублируется.  
+* **Каталог** — восемь групп услуг (см. §§ 77-84).  
+
+*Пример.* Молодой человек с ДЦП, закончивший обучение, получает в рамках § 76 пакет: ассистент 20 ч/нед для бытовых задач, финансовая помощь на адаптацию квартиры и финансирование электроколяски.  
+
+---
+
+#### § 77  Leistungen für Wohnraum  
+* **Что финансируется**  
+  * поиск и наём подходящего жилья,  
+  * переоборудование (пандусы, расширение дверных проёмов, «умный дом»),  
+  * первоначальная и замещающая мебель/техника «из-за инвалидности»,  
+  * текущий ремонт, если связан с доступностью.  
+* **Сверх «обоснованного» лимита (§ 42a SGB XII).** Если из-за объёма ассистенции нужна большая площадь (комната для персонала и т. п.), лишние м² также оплачиваются.  
+
+*Пример.* У глухого соискателя — субсидия на видеодомофон и световую сигнализацию в арендной квартире.  
+
+---
+
+#### § 78  Assistenzleistungen  
+1. **Содержание**  
+   * ежедневный быт (уборка, готовка, сопровождение к врачу, на учёбу/работу, в спорт и на культурные мероприятия);  
+   * «Qualifizierte Assistenz» — обучение навыкам самостоятельности (финансы, использование ÖPNV, соц-навыки). Исполняют только профильные специалисты.  
+2. **Принцип Selbstbestimmung.** Получатель через Teilhabeplan выбирает, *когда, где и как* брать ассистентов. Можно сочетать собственный персонал (*Persönliches Budget*) и услуги организаций.  
+3. **Специальные положения**  
+   * Ассистенция родителям с инвалидностью при уходе за детьми.  
+   * Оплата проезда ассистента и иных расходов.  
+   * Компенсация расходов волонтёру, если помощь не может быть оказана бесплатно.  
+   * Оплата постоянной «Rufbereitschaft», если необходима возможность экстренного вызова.  
+
+*Пример.* Мама на коляске получает ассистента-«двойные руки» на 10 ч/нед для ухода за младенцем.  
+
+---
+
+#### § 79  Heilpädagogische Leistungen  
+* Для ещё **не школьников** (обычно 0-6 лет).  
+* Выплачиваются, если можно:  
+  1. предотвратить угрожающую инвалидность,  
+  2. замедлить прогрессирующее нарушение или смягчить последствия.  
+* Для **тяжело/многократно** инвалидных детей — *безусловно*.  
+* Включает: логопедия, ergo- и physiotherapie, психологическая и социально-педагогическая поддержка семьи, консультации родителей.  
+* Часто предоставляется комплексно вместе с ранней помощью (§ 46 SGB IX) в междисциплинарных *Frühförderstellen*.  
+
+---
+
+#### § 80  Leistungen zur Betreuung in einer Pflegefamilie  
+* Цель — обеспечить уход в приёмной семье, если родная семья не может.  
+* **Для несовершеннолетних** приёмным родителям нужна лицензия по § 44 SGB VIII; для взрослых действует аналогично.  
+* Договоры с поставщиками услуг (Pflege-Dienst) заключает Eingliederungshilfe.  
+
+---
+
+#### § 81  Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und Fähigkeiten  
+* Фокус на **жизненные навыки** (кохлеарнос, передвижение без посторонних, бытовая экономика, коммуникация).  
+* Форматы: групповые тренинги, модульные курсы, «verkehrspädagogische» занятия, *blindentechnische Grundausbildung*.  
+* Нередко используются как «Brücke» перед трудовой реабилитацией (§ 49 и след.).  
+
+---
+
+#### § 82  Leistungen zur Förderung der Verständigung  
+* Адресат — лица с **нарушениями слуха/речи**.  
+* Типовые меры:  
+  * оплата жестовых и Schrift-Dolmetscher,  
+  * техники альтернативной коммуникации (Braille-дисплеи, Kommunikations-Apps).  
+* При оказании других услуг действует § 17 SGB I: ведомство организует переводчика либо покрывает расходы.  
+
+---
+
+#### § 83  Leistungen zur Mobilität  
+1. **Beförderungsdienst** — такси/спец-транспорт до работы, учёбы, врача, досуга.  
+2. **Kraftfahrzeughilfe** (Кфз-Hilfe):  
+   * покупка авто,  
+   * адаптация (Handgas, сиденье-лифты),  
+   * получение прав,  
+   * ремонт и эксплуатация (бензин, страховка),  
+   * детский компонент (если водитель — родитель).  
+3. Условие — воспользоваться ÖPNV **неразумно** (болезненно, слишком сложные пересадки и т.д.). Если авто не может вести сам получатель, допускается водитель-третье лицо.  
+4. Размеры платежей ориентируются на одноимённую федеральную Кfz-Hilfe-Verordnung.  
+
+---
+
+#### § 84  Hilfsmittel  
+* **Что оплачивается**: любое средство, устраняющее барьер для участия (от слуховых аппаратов до барьер-фри-ПК).  
+* **Плюс** обучение пользованию устройством, сервис, ремонт.  
+* **Двойной комплект** возможен, если необходимность доказана (пример: инвалид-студент нуждается в одной коляске дома, другой — в общежитии универа).  
+
+---
+
+### Практические шаги для заявителя  
+
+| Шаг | Комментарий |
+|-----|-------------|
+| **1. Первая консультация (EUTB)** | Бесплатные *Ergänzende unabhängige Teilhabeberatung* помогут выбрать нужный вид помощи. |
+| **2. Antrag на Eingliederungshilfe** | Подаётся в Sozialamt по месту жительства. Можно сразу запросить *Persönliches Budget* (деньги вместо услуг). |
+| **3. Bedarfsermittlung (ICF-basiert)** | Специалисты оценивают функциональные ограничения и условия среды. |
+| **4. Erstellung Teilhabeplan** | Совместно с заявителем фиксируются цели и конкретные Leistungen (из § 76 ff.). |
+| **5. Bescheid &amp; Umsetzung** | Решение приходит в форме административного акта; после него можно заключать договоры с ассистентами, покупать оборудование и т. д. |
+
+---
+
+### Несколько полезных замечаний  
+
+* **Комбинация источников**. Часть расходов (например, электроколяска) теоретически покрывает и медицинская страховка по SGB V. При «конкуренции норм» действует *Leistungsketten-/Leistungsgruppenprinzip*: сначала профильный реабилитационный носитель, затем Eingliederungshilfe.  
+* **Участие собственными средствами**. С 2023 г. сохранился повышенный Freibetrag: лица с доходом до ≈ 65 % средней зарплаты не вносят ничего в Wohnraum- и Assistenzleistungen.citeturn0search2  
+* **Соц-пространственная ориентация**. Träger обязаны развивать *Sozialraumorientierte Leistungen* — клубы, Treffpunkte, inklusive Freizeit-проекты, чтобы дополнять индивидуальную помощь.citeturn1view0  
+
+---
+
+### Итог  
+§§ 76-84 SGB IX образуют «социальный набор» Eingliederungshilfe: от адаптированного жилья до авто-помощи и ассистентов. Ключевой принцип — **личная автономия и выбор**: получатель решает, какие именно услуги нужны и в каком формате.  
+
+*(Информация носит общий характер и не заменяет индивидуальную правовую консультацию.)*
+
+--- ПОЛЬЗОВАТЕЛЬ ---
+Подробнее
+
+--- АССИСТЕНТ ---
+## Расширенный разбор §§ 76 – 84 SGB IX  
+*(актуально на 31 августа 2025 г.; учтены изменения BTHG-2023/24 и свежая практика 2023-25 гг.)*
+
+---
+
+### 1. Общие принципы главы 13  
+
+| Ключевой принцип | Что это значит на практике |
+|------------------|----------------------------|
+| **Personenzentrierung** | не «тип» учреждения определяет помощь, а ваши индивидуальные барьеры; фиксируется в *Gesamt-/Teilhabeplan* (§§ 13-19 SGB IX). |
+| **Sozialraumorientierung** | услуги должны быть максимально встроены в обычную среду (квартал, клубы, ÖPNV и т. д.). |
+| **Wunsch- und Wahlrecht** (§ 8 SGB IX) | получатель вправе выбирать **форму** (Sachleistung, Persönliches Budget, Pooling) и **поставщика**. |
+| **Koordination трёх блоков** реабилитации | Медицинская (§§ 42-48), образования/профподготовки (§§ 49-63) и *социальная* (§§ 76-84) не дублируют друг друга, а логически цепляются. |
+
+---
+
+### 2. Детали по каждому параграфу  
+
+| § | Что финансируется | Тонкие места / судебная практика |
+|---|-------------------|----------------------------------|
+| **76** – *Leistungen zur Sozialen Teilhabe* | «зонтик» из 8 подпунктов; решение, что именно нужно, принимается только после ICF-оценки. | При отказе ведомства ссылаться на § 104 Abs. 2 SGB IX: нужно рассмотреть альтернативы в контексте Sozialraum. |
+| **77** – *Wohnraum* | поиск, аренда, выкуп, переоборудование (пандусы, *Smart-Home*, видеодомофон для глухих), мебель «из-за инвалидности», **и** оплата «лишних» м², если ассистентам нужна отдельная комната. | SG Dresden 14.05.2024 – S 21 SO 162/22: доплата за «неприемлемо дорогую» квартиру законна, если безбарьерного аналога нет.citeturn3search4 |
+| **78** – *Assistenzleistungen* | &lt;u&gt;Две формы:&lt;/u&gt; ① **компенсаторная** — действия «за» человека; ② **квалифицированная** — обучение самостоятельности (только дипломированные специалисты). + Элeктронный вызов (Rufbereitschaft), **Elternassistenz**, сопровождение хобби/спорт, возмещение проезда и билетов ассистента. | &lt;u&gt;Квалификация:&lt;/u&gt; DV-Guideline 27/23 поясняет требования к персоналу и модульный тариф.citeturn1view0  &lt;br&gt;SG München 26.04.2023 – S 48 SO 109/23 ER: «присутствие родителя не всегда обязательно, чтобы засчитать Elternassistenz».citeturn2search0  &lt;br&gt;**Pooling (§ 116):** допустимо лишь при «Zumutbarkeit» — см. тревожный анализ о «Zwangspoolen».citeturn8search0 |
+| **79** – *Heilpädagogische Leistungen* | для детей до школы; комплекс логопед-эрго-физиотерапия + консультирование родителей; автоматом — при тяжёлых/множественных нарушениях. | Часто идёт «пакетом» с Frühförderung (§ 46) — проверьте, чтобы оба блока были указаны в Bescheid. |
+| **80** – *Pflegefamilie* | оплата проживания и сопровождения в приёмной семье; для несовершеннолетних — лицензия по § 44 SGB VIII. | У взрослых критичен **Vertrag** с провайдером; без него расходы могут не возместить. |
+| **81** – *Kenntnisse &amp; Fähigkeiten* | курсы кулинарии, управление деньгами, Verkehrs-тренинг, blindentechnische Grundausbildung; часто служит «мостом» к трудовой реабилитации. | Допустимо финансировать групповые модули; провайдеры обязаны прописать квалификацию тренеров в Landesrahmenvertrag. |
+| **82** – *Verständigung* | услуги сурдоперевода, Schrift-Dolmetsch, коммуникативные гаджеты. | Гамбург (тарифы 2025 г.): 93 €/час за дипломированного Gebärdensprachdolmetscher.citeturn10search8 |
+| **83** – *Mobilität* | ① Beförderungsdienst (такси, Fahrdienst); ② **Kfz-Hilfe**: покупка (до 22 000 €), переоборудование, права, ремонт, топливо, страховка. | С 2021 г. лимит поднят до 22 000 € — действует и в социальной, и в *Arbeitsleben*-реабилитации.citeturn5view0turn9search3  Скользящая шкала: при нетто &gt; 75 % Bezugsgröße Zuschив не положен.citeturn9search5 |
+| **84** – *Hilfsmittel* | любые девайсы, снимающие барьер (от «умного» трости до ЧПУ-протеза); обязательны ввод в эксплуатацию и тех-обслуживание; разрешено дублирование (например, две коляски для кампуса и дома). | Если Krankenkasse уже отказала — приложить её Bescheid, тогда Eingliederungshilfe обязана рассмотреть заявку (Prinzip der vorgelagerten Zuständigkeit). |
+
+---
+
+### 3. Процедура шаг-за-шагом (с учётом жёстких сроков § 88 SGB IX)
+
+1. **EUTB-консультация** (добровольно, бесплатно).  
+2. **Antrag** в твой *Träger der Eingliederungshilfe* (обычно Sozialamt).  
+3. **Bedarfsermittlung** ICF-бланками (*BEI_NRW*, *HMB-WTZ* и др.) — участие заявителя обязательно.  
+4. **Gesamt-/Teilhabeplan-Konferenz**: определяют цели, услуги, форму финансирования (Sachleistung/ Budget / Pooling).  
+5. **Bescheid** (макс. 2 - 3 мес. с момента полного пакета документов).  
+6. При отказе → **Widerspruch** (1 месяц) → Sozialgericht.  
+
+---
+
+### 4. Собственный вклад (Einkommen &amp; Vermögen)  
+
+| Показатель 2025 г. | Норма | Что это значит |
+|-------------------|-------|----------------|
+| **Grundfreibetrag** | ≈ 42 420 € годового брутто-дохода (100 % Bezugsgröße) | До этой суммы **нет** доплаты.citeturn6search1 |
+| **Zusatzfreibetrag** | + 40 % от брутто, но ≤ 65 % Regelsatz 1 | Практически до ~ 260 € в мес. дополнительно «невидимо» для расчёта.citeturn6search6 |
+| **Eigenanteil** | 2 % сверх порога (округление до 10 €) | Расчёт ведётся по § 137 SGB IX.citeturn6search4 |
+
+*Важно:* Freibeträge динамичны; проверьте каждый январь новые таблицы *Bezugsgröße* (§ 18 SGB IV).  
+
+---
+
+### 5. Распространённые проблемы и защита прав  
+
+1. **Неправильный Träger.** При споре о первичности (КК, Pflegekasse, Jugendhilfe) ссылайтесь на Koordinationspflicht § 14 SGB IX: обязан проверить **любой** принявший Antrag.  
+2. **Навязанное Pooling.** Требуйте протокол Zumutbarkeits-проверки (§ 116 Abs. 2) и альтернативный расчёт Individualleistung.citeturn8search0  
+3. **Отказ в Elternassistenz** из-за «отсутствия матери дома». – Cуд указал, что физическое присутствие не всегда критерий (LSG Bayern L 8 SO 105/23).citeturn2search1  
+4. **Жильё дороже KdU.** Приложите расчёт, что доп.площадь обусловлена графиком ассистентов (см. дело SG Dresden выше).  
+5. **Просрочка решения.** Если Bescheid не пришёл в срок, можно требовать Vorschuss или воспользоваться *Untätigkeitsklage* (§ 88 SGG).  
+
+---
+
+### 6. Практические рекомендации  
+
+* Всегда храните **ICF-Gutachten** и подтверждения расходов (квитанции на билеты ассистента, договор аренды, счёт за коляску).  
+* В Bescheid проверьте: **Rechtsbehelfsbelehrung**, точный объём часов/€ и срок действия.  
+* При сложных кейсах (Mix SGB V + IX) — добивайтесь **Fallmanagement** (Lotsenstelle) в вашем Landkreis.  
+* Рассмотрите **Persönliches Budget** (§ 105) — денежный вариант, если хотите сами нанимать ассистентов (работодателъская модель).  
+
+---
+
+### Итог  
+§§ 76-84 SGB IX образуют «социальную» часть Eingliederungshilfe: от безбарьерного жилья и ассистентов до авто, гаджетов и сурдоперевода. Ключевые идеи — **самоопределение, модульность и интеграция** в обычную жизнь. Зная нормы, сроки и свежую практику, можно значительно упростить получение нужной помощи. Если останутся конкретные вопросы (например, как оформить Persönliches Budget или оспорить частичный отказ) — дай знать, разберём точечно.

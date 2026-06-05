@@ -46,14 +46,24 @@ pip install -e .
 kbtool all /path/to/repo
 
 # Отдельные команды
-kbtool inventory /path/to/repo     # статистика
-kbtool links     /path/to/repo     # битые markdown-ссылки
-kbtool structure /path/to/repo     # папки без README
-kbtool cluster   /path/to/repo     # темы (TF-IDF, «newsgroups»)
-kbtool dedup     /path/to/repo     # дублирующиеся абзацы
-kbtool concepts  /path/to/repo     # концепт-граф
-kbtool health    /path/to/repo     # один балл 0-100
-kbtool tree      /path/to/repo     # ХАОС → дерево папок по темам
+kbtool inventory /path/to/repo                    # статистика
+kbtool links     /path/to/repo                    # битые markdown-ссылки
+kbtool structure /path/to/repo                    # папки без README
+kbtool cluster   /path/to/repo                    # темы (TF-IDF, «newsgroups»)
+kbtool dedup     /path/to/repo                    # дублирующиеся абзацы
+kbtool concepts  /path/to/repo                    # концепт-граф
+kbtool health    /path/to/repo                    # один балл 0-100
+kbtool tree      /path/to/repo                    # ХАОС → дерево папок по темам
+
+# Поиск и вопросы по корпусу
+kbtool index     /path/to/repo                    # построить поисковый индекс (BM25)
+kbtool search    /path/to/repo "ключевые слова"   # найти документы
+kbtool ask       /path/to/repo "вопрос"           # ответ с цитатами
+
+# Сервисы
+kbtool watch     /path/to/repo --reindex          # инкрементальный re-audit
+kbtool serve     /path/to/repo --port 8765        # HTTP-дашборд + API
+kbtool semantic  /path/to/repo                    # опц. эмбеддинги (sentence-transformers)
 
 # Опции
 kbtool all . --exclude _audit node_modules   # исключить папки
@@ -155,13 +165,61 @@ kbtool — ядро. Опциональные тяжёлые возможнос�
 agent) можно добавить как плагины через `pip install kbtool[semantic]`, не ломая
 stdlib-ядро. Для production-RAG см. `docs-toolkit` lorenzo.
 
+## Поиск и Q&A по корпусу
+
+```bash
+kbtool index   /path/to/repo                 # построить индекс (1 JSON в .kbtool/)
+kbtool search  /path/to/repo "TetraDrone патент" -k 5 --method bm25
+kbtool ask     /path/to/repo "какие гранты для CareMate"
+```
+
+Индекс — один JSON-файл в `.kbtool/index.json` внутри корпуса. Метод по умолчанию
+BM25, есть keyword. Поиск возвращает doc_id, score, snippet, title. `ask`
+склеивает лучшие пассажи в extractive-ответ с пронумерованными цитатами.
+
+## HTTP-дашборд
+
+```bash
+kbtool serve /path/to/repo --port 8765
+# → http://127.0.0.1:8765
+```
+
+Эндпоинты:
+- `GET /` — HTML-дашборд с баллом, метриками, поиском
+- `GET /api/health` — JSON health
+- `GET /api/search?q=...&k=5&method=bm25` — поиск
+- `GET /api/ask?q=...&k=5` — extractive ответ с цитатами
+
+Stdlib `http.server`, без зависимостей.
+
+## Watch — инкрементальный re-audit
+
+```bash
+kbtool watch /path/to/repo --interval 2 --reindex
+```
+
+Поллит mtime, при изменениях печатает `[hh:mm:ss] +1 ~3 -0 health=95/100 …`,
+опционально перестраивает индекс. Ctrl+C — выход.
+
+## Semantic-плагин (опционально)
+
+```bash
+pip install kbtool[semantic]       # добавляет sentence-transformers
+kbtool semantic /path/to/repo      # строит эмбеддинги в .kbtool/embeddings.json
+```
+
+Без установки команда `semantic` сообщает статус и подсказывает — graceful
+fallback, ядро остаётся stdlib-only.
+
 ## Дорожная карта
 
-- [x] `kbtool tree` — построить дерево папок из кластеров (авто-реорганизация)
-- [ ] `kbtool watch` — инкрементальный re-audit при изменениях
-- [ ] `kbtool serve` — HTTP-дашборд health
-- [ ] semantic-плагин (sentence-transformers) для смысловой кластеризации
-- [ ] `kbtool rag` — вопросно-ответный режим по корпусу
+- [x] `kbtool tree` — авто-реорганизация хаоса в дерево
+- [x] `kbtool index` / `search` / `ask` — поисковый индекс + BM25 + extractive Q&A
+- [x] `kbtool watch` — инкрементальный re-audit
+- [x] `kbtool serve` — HTTP-дашборд + REST API
+- [x] semantic-плагин — опц. эмбеддинги
+- [ ] LLM-плагин (Anthropic/OpenAI/Ollama) для abstractive ответов через `ask`
+- [ ] Federation — мульти-репо поиск
 
 ## Лицензия
 

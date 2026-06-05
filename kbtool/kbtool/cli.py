@@ -32,6 +32,10 @@ from .checks import inventory, check_links, check_structure
 from .analyze import cluster, dedup, concept_graph
 from .health import score
 from .tree import plan_tree, render_plan, materialize, apply_inplace
+from .rag import build_index, load_index, search, answer, index_path
+from .watch import watch
+from .server import serve
+from . import semantic as semplugin
 
 
 def _profile(args) -> Profile:
@@ -212,6 +216,97 @@ def cmd_tree(args):
     print(f"  --apply --yes  переместить in-place (деструктивно)")
 
 
+def cmd_index(args):
+    docs = resolve_docs(args.path)
+    excl = set(getattr(args, "exclude", []))
+    idx = build_index(docs, _profile(args), excl)
+    print(f"Индекс построен: {len(idx['docs'])} документов → {index_path(docs)}")
+
+
+def cmd_search(args):
+    docs = resolve_docs(args.path)
+    idx = load_index(docs)
+    if idx is None:
+        print("Индекс не найден. Запустите: kbtool index <path>")
+        return
+    hits = search(idx, args.query, top_k=args.k, method=args.method)
+    if getattr(args, "json", False):
+        print(json.dumps([h.__dict__ for h in hits], ensure_ascii=False, indent=2))
+        return
+    for i, h in enumerate(hits, 1):
+        print(f"\n[{i}] {h.title}  (score {h.score})")
+        print(f"    {h.doc_id}")
+        print(f"    {h.snippet[:200]}…")
+
+
+def cmd_ask(args):
+    docs = resolve_docs(args.path)
+    idx = load_index(docs)
+    if idx is None:
+        print("Индекс не найден. Запустите: kbtool index <path>")
+        return
+    res = answer(idx, args.query, top_k=args.k)
+    if getattr(args, "json", False):
+        print(json.dumps(res, ensure_ascii=False, indent=2))
+        return
+    print(f"# {res['question']}\n\n{res['answer']}\n\n## Источники")
+    for c in res["citations"]:
+        print(f"  [{c['n']}] {c['title']}  ({c['doc_id']}, score {c['score']})")
+
+
+def cmd_watch(args):
+    docs = resolve_docs(args.path)
+    prof = _profile(args)
+    excl = set(getattr(args, "exclude", []))
+
+    def on_change(added, modified, removed):
+        from datetime import datetime
+        ts = datetime.now().strftime("%H:%M:%S")
+        delta = (f"+{len(added)} ~{len(modified)} -{len(removed)}")
+        # пересчёт health
+        corpus = load(docs, prof, exclude_dirs=excl)
+        inv = inventory(docs, excl); links = check_links(docs, excl)
+        struct = check_structure(docs, exclude=excl)
+        dups = dedup(corpus); cl = cluster(corpus, threshold=args.threshold)
+        h = score(inv, links, struct, dups, cl)
+        print(f"[{ts}] {delta}  health={h['overall']}/100  links_broken={links['counts']['broken']}")
+        if args.reindex:
+            build_index(docs, prof, excl)
+            print(f"           индекс обновлён")
+
+    watch(docs, excl, on_change, interval=args.interval)
+
+
+def cmd_serve(args):
+    docs = resolve_docs(args.path)
+    prof = _profile(args)
+    excl = set(getattr(args, "exclude", []))
+    serve(docs, args.port, excl, prof)
+
+
+def cmd_semantic(args):
+    print("semantic-плагин:")
+    print(f"  установлен: {semplugin.available()}")
+    if not semplugin.available():
+        print("  pip install kbtool[semantic]   # добавит sentence-transformers")
+        return
+    docs = resolve_docs(args.path)
+    prof = _profile(args)
+    excl = set(getattr(args, "exclude", []))
+    corpus = load(docs, prof, exclude_dirs=excl)
+    print(f"  Строю эмбеддинги для {len(corpus)} документов…")
+    vecs = semplugin.embed_texts([d.text[:2000] for d in corpus])
+    if not vecs:
+        print("  Не удалось построить эмбеддинги.")
+        return
+    out = docs / ".kbtool" / "embeddings.json"
+    out.parent.mkdir(exist_ok=True)
+    out.write_text(json.dumps(
+        {d.rel: v for d, v in zip(corpus, vecs)}, ensure_ascii=False
+    ), encoding="utf-8")
+    print(f"  Сохранено: {out}")
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(prog="kbtool",
                                  description="Переносимый аудит и структурирование больших хаотичных markdown-баз")
@@ -243,6 +338,45 @@ def build_parser() -> argparse.ArgumentParser:
     pt.add_argument("--misc-threshold", type=int, default=1,
                     help="кластеры размера <= N идут в 00_misc/")
     pt.set_defaults(func=cmd_tree)
+
+    # index — построить поисковый индекс
+    pi = sub.add_parser("index", help="построить поисковый индекс корпуса")
+    common(pi)
+    pi.set_defaults(func=cmd_index)
+
+    # search — найти документы
+    ps = sub.add_parser("search", help="поиск по корпусу")
+    common(ps)
+    ps.add_argument("query", help="ключевые слова")
+    ps.add_argument("-k", type=int, default=5)
+    ps.add_argument("--method", choices=["bm25", "keyword"], default="bm25")
+    ps.set_defaults(func=cmd_search)
+
+    # ask — вопросно-ответный режим
+    pa = sub.add_parser("ask", help="ответ с цитатами по корпусу")
+    common(pa)
+    pa.add_argument("query", help="вопрос")
+    pa.add_argument("-k", type=int, default=5)
+    pa.set_defaults(func=cmd_ask)
+
+    # watch — инкрементальный re-audit
+    pw = sub.add_parser("watch", help="следить за изменениями, пересчитывать health")
+    common(pw)
+    pw.add_argument("--interval", type=float, default=2.0)
+    pw.add_argument("--reindex", action="store_true", help="перестраивать индекс при изменениях")
+    pw.set_defaults(func=cmd_watch)
+
+    # serve — HTTP-дашборд
+    psrv = sub.add_parser("serve", help="HTTP-дашборд health + поиск")
+    common(psrv)
+    psrv.add_argument("--port", type=int, default=8765)
+    psrv.set_defaults(func=cmd_serve)
+
+    # semantic — опциональный плагин
+    psem = sub.add_parser("semantic", help="опциональные эмбеддинги (sentence-transformers)")
+    common(psem)
+    psem.set_defaults(func=cmd_semantic)
+
     return ap
 
 

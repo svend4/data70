@@ -10,6 +10,8 @@ from kbtool.checks import inventory, check_links, check_structure
 from kbtool.analyze import cluster, dedup, concept_graph
 from kbtool.health import score
 from kbtool.tree import plan_tree, materialize, _slug
+from kbtool.rag import build_index, load_index, search, answer
+from kbtool import semantic as semplugin
 
 
 def _fixture() -> Path:
@@ -97,3 +99,29 @@ def test_tree_materialize_is_nondestructive():
     # копия создана с деревом
     copied = list(out.rglob("*.md"))
     assert len(copied) == len(corpus)
+
+
+def test_index_search_ask():
+    d = _fixture()
+    prof = Profile(readme_is_content=True, min_tokens=5)
+    idx = build_index(d, prof)
+    assert idx["n"] == 3
+    assert (d / ".kbtool" / "index.json").exists()
+    # round-trip с диска
+    idx2 = load_index(d)
+    assert idx2 is not None
+    # поиск находит дрон-документы
+    hits = search(idx2, "TetraDrone Tetra Pak", top_k=2)
+    assert len(hits) >= 1
+    assert any("дрон" in h.snippet.lower() or "tetra" in h.snippet.lower()
+               for h in hits)
+    # ответ имеет цитаты
+    res = answer(idx2, "что такое TetraDrone")
+    assert res["citations"]
+
+
+def test_semantic_plugin_graceful():
+    # без установки sentence-transformers — graceful fallback
+    if not semplugin.available():
+        assert semplugin.embed_texts(["test"]) is None
+        assert semplugin.semantic_search("q", {}) == []

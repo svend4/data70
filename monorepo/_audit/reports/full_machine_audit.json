@@ -1,0 +1,2170 @@
+{
+  "docs": "/home/user/data70/monorepo",
+  "readme_as_content": true,
+  "total_scripts": 180,
+  "counts": {
+    "ok": 157,
+    "err": 21,
+    "timeout": 2,
+    "crash": 0
+  },
+  "duration_total_s": 312.12,
+  "results": [
+    {
+      "script": "improve_abbreviations.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.729,
+      "stdout_tail": [
+        "Словарь аббревиатур...",
+        "  wrote: monorepo/ABBREVIATIONS.md",
+        "  аббревиатур: 51"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_abstract.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.104,
+      "stdout_tail": [
+        "  Будет добавлено: 40",
+        "  Пропущено: 10",
+        "  Запустите с --apply для реальной записи."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_action_items.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.088,
+      "stdout_tail": [
+        "Извлечение action items...",
+        "  wrote: monorepo/ACTION_ITEMS.md",
+        "  элементов: 10"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_alerts.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.053,
+      "stdout_tail": [
+        "Добавление callout-блоков...",
+        "  wrote: monorepo/ALERTS.md",
+        "  добавлено callout: 46 (TIP=17, WARNING=2, IMPORTANT=2)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_audit_db.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.09,
+      "stdout_tail": [
+        "— MCP Write операции —",
+        "ℹ️  Лог .claude/mcp_write_log.jsonl не найден.",
+        "   Создаётся автоматически при первом write через MCP."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_auto_linker.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.03,
+      "stdout_tail": [
+        "   Типы сущностей: people, projects, tech",
+        "",
+        "  ⚠️  named_entities.json не найден. Запустите improve_named_entity_index.py"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_auto_summarize.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.102,
+      "stdout_tail": [
+        "      → tags=['rag']",
+        "",
+        "ℹ️  Запустите с --apply для применения изменений."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_auto_toc.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.052,
+      "stdout_tail": [
+        "  Пропущено (мало заголовков): 9",
+        "  Пропущено (ручной TOC): 0",
+        "  Запустите с --apply для реальной записи."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_autocorrect.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.093,
+      "stdout_tail": [
+        "Авто-исправление терминов [APPLY]...",
+        "",
+        "Итого: 0 замен в 0 файлах"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_autofill.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.028,
+      "stdout_tail": [
+        "   Обновлено: 0 файлов",
+        "",
+        "ℹ️  Все файлы уже обработаны — повторный запуск не нужен."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_backlinks.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.048,
+      "stdout_tail": [
+        "Строю индекс обратных ссылок...",
+        "  wrote: monorepo/BACKLINKS.md",
+        "  файлов с обратными ссылками: 16, обновлено: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_badges.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.048,
+      "stdout_tail": [
+        "  wrote: 7 badges → monorepo/badges/",
+        "  updated: README.md (badges inserted)",
+        "  wrote: monorepo/badges/README.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_benchmark.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.058,
+      "stdout_tail": [
+        "⏱  improve_benchmark.py — замер времени выполнения скриптов",
+        "❌ Нет скриптов для замера"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_broken_links.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.078,
+      "stdout_tail": [
+        "Проверка внутренних ссылок...",
+        "  wrote: monorepo/BROKEN_LINKS.md",
+        "  сломанных ссылок: 4, пропущено: 0, внешних URL: 5"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_bulk_decay.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.05,
+      "stdout_tail": [
+        "",
+        "✅ Кандидатов на автоматический decay не найдено.",
+        "   (Файлы слишком новые или содержат предложения/теги)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_card_graph.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.071,
+      "stdout_tail": [
+        "  0.422  in=  1 out=  0  Фаза 4 — Согласованность данных",
+        "  0.422  in=  1 out=  0  Фаза 5 — Сверка с первоисточниками (заглушка)",
+        "  0.422  in=  1 out=  0  Фаза 1a — Структура"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_card_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.074,
+      "stdout_tail": [
+        "  --dry-run            Показать план без записи файлов",
+        "  --incremental        Пропустить файлы без изменений (для --build)",
+        "  --verbose            Подробный вывод (для --build)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_card_promote.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.131,
+      "stdout_tail": [
+        "   raw=242 normalized=0 approved=0",
+        "",
+        "ℹ️  Запустите с --apply чтобы применить изменения."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_changelog.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.459,
+      "stdout_tail": [
+        "Генерация CHANGELOG из git-истории...",
+        "  коммитов найдено: 30"
+      ],
+      "stderr_tail": [
+        "         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "  File \"/usr/lib/python3.11/pathlib.py\", line 1044, in open",
+        "    return io.open(self, mode, buffering, encoding, errors, newline)",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "FileNotFoundError: [Errno 2] No such file or directory: '/home/user/data70/docs/CHANGELOG.md'"
+      ]
+    },
+    {
+      "script": "improve_changelog_auto.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.036,
+      "stdout_tail": [
+        "  коммитов: 30",
+        "  wrote: monorepo/CHANGELOG_AUTO.md",
+        "  месяцев: 4, последний: 2026-06"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_chunk_semantic.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.142,
+      "stdout_tail": [
+        "  Секций: 16",
+        "  Вывод: monorepo/chunks/",
+        "  Используйте all_chunks.jsonl для RAG-пайплайна."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_ci_config.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "",
+        "  Требуются секреты в GitHub:",
+        "  - ANTHROPIC_API_KEY (для LLM-скриптов, опционально)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_citation_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.044,
+      "stdout_tail": [
+        "  wrote: monorepo/CITATION_INDEX.md",
+        "  уникальных URL: 5, отфильтровано: 5",
+        "  топ домены: juris.de, sozialgerichtsbarkeit.de, bsg.bund.de"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_clusters.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.271,
+      "stdout_tail": [
+        "  документов для кластеризации: 249",
+        "  кластеров найдено: 116",
+        "  wrote: monorepo/CLUSTERS.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_collab_finder.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.065,
+      "stdout_tail": [
+        "  --type ТИП     Тип карточек для поиска (по умолч. project)",
+        "  --dry-run      Вывести кандидатов без записи файла",
+        "  --out ПУТЬ     Путь для отчёта (по умолч. monorepo/COLLAB_SUGGESTIONS.md)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_compare.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.305,
+      "stdout_tail": [
+        "Сравниваю с предыдущим коммитом...",
+        "  wrote: monorepo/COMPARE.md",
+        "  новых: 253, удалённых: 0, изменённых: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_compare_docs.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.029,
+      "stdout_tail": [
+        "Использование:",
+        "  python scripts/improve_compare_docs.py --a docs/file1.md --b docs/file2.md",
+        "  python scripts/improve_compare_docs.py --batch --section 05-habr-projects"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_complexity.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.118,
+      "stdout_tail": [
+        "Оценка читаемости...",
+        "  wrote: monorepo/COMPLEXITY.md",
+        "  простых: 138, средних: 113, сложных: 1"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_component_matrix.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "Генерация матрицы компонентов...",
+        "  wrote: monorepo/COMPONENT_MATRIX.md",
+        "  компонентов: 14, возможностей: 10"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_concept_graph.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.251,
+      "stdout_tail": [
+        "  wrote: monorepo/CONCEPT_GRAPH.md",
+        "  wrote: monorepo/concept_graph.json",
+        "  топ-5: уровень, готовности, каталога, caremate, тема"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_concepts.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.648,
+      "stdout_tail": [
+        "Извлечение определений понятий...",
+        "  wrote: monorepo/CONCEPTS.md",
+        "  понятий: 549"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_confluence.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.396,
+      "stdout_tail": [
+        "  Конвертировано: 257/257 файлов",
+        "  Вывод: monorepo/confluence/",
+        "  Формат: .wiki — Confluence Wiki Markup"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_consistency.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.704,
+      "stdout_tail": [
+        "Проверка согласованности терминов...",
+        "  wrote: monorepo/CONSISTENCY.md",
+        "  проблем найдено: 3"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_contact_personalize.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "✉️  Персонализированные черновики",
+        "   Сгенерировано: 0",
+        "   Пропущено: 0 (уже в контакте)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_contact_priority.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "📊 improve_contact_priority.py — ранжирование контактов",
+        "⚠️  CONTACTS.md не найден или пустой. Запустите improve_contacts.py"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_contact_status.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "               python scripts/improve_contact_status.py --bulk 'kk,spb' --studied",
+        "Флаги статуса: --studied | --messaged | --replied | --agreed",
+        "Заметка: --note 'текст'"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_contacts.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.115,
+      "stdout_tail": [
+        "Извлечение контактов из docs/...",
+        "  wrote: monorepo/CONTACTS.md",
+        "  авторов: 15, GitHub репо: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_content_gaps.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.101,
+      "stdout_tail": [
+        "  wrote: monorepo/CONTENT_GAPS.md",
+        "  пробелов: 137",
+        "  топ-3: CareMate, SGB, SozialPlaner"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_contradiction_check.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.683,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/CONTRADICTIONS.md",
+        "  противоречий: 220"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_cost.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.099,
+      "stdout_tail": [
+        "Оценка стоимости разработки MVP...",
+        "  wrote: monorepo/COST.md",
+        "  итого: 25 чел-недель, $86,400"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_coverage.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.028,
+      "stdout_tail": [
+        "  wrote: monorepo/COVERAGE.md",
+        "  файлов: 0, средний балл: 0.0/6",
+        "  низкое покрытие (<3): 0, полное: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_cross_section.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.204,
+      "stdout_tail": [
+        "    00_index ↔ superprojects: 0.458",
+        "    06_business_funding ↔ superprojects: 0.424",
+        "    00_index ↔ 99_archive_links: 0.372"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_crosslink_all.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.096,
+      "stdout_tail": [
+        "      1× monorepo/00_index/catalog_88_topics.md",
+        "",
+        "  Запустите с --apply для реальной записи."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_crossrefs.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.175,
+      "stdout_tail": [
+        "  wrote: monorepo/CROSSREFS.md",
+        "  проектов в индексе: 20",
+        "  файлов проиндексировано: 5"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_decay_checker.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.21,
+      "stdout_tail": [
+        "",
+        "✅ Отчёт сохранён: monorepo/DECAY_CANDIDATES.md",
+        "   Для применения: python scripts/mcp_server.py → decay_card"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_decisions.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.108,
+      "stdout_tail": [
+        "Извлечение решений и выводов...",
+        "  wrote: monorepo/DECISIONS.md",
+        "  решений: 7"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_dedup.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.156,
+      "stdout_tail": [
+        "  wrote: monorepo/DUPLICATES.md",
+        "  точных дублей: 0, похожих пар: 1",
+        "  Детальный отчёт с примерами совпадений: docs/DUPLICATES.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_density.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.271,
+      "stdout_tail": [
+        "Карта плотности тем...",
+        "  wrote: monorepo/DENSITY.md",
+        "  тем: 20, разделов: 6"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_dependabot.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.124,
+      "stdout_tail": [
+        "📦 improve_dependabot.py — мониторинг версий зависимостей",
+        "  wrote: monorepo/DEPENDABOT.md",
+        "  отслеживается: 4 пакетов + 4 OSS-проектов"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_dependency_map.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.028,
+      "stdout_tail": [
+        "Генерация карты зависимостей скриптов...",
+        "  wrote: monorepo/DEPENDENCY_MAP.md",
+        "  в карте: 126, в репо: 0, без карты: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_digest.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.062,
+      "stdout_tail": [
+        "Генерация дайджеста изменений...",
+        "  wrote: monorepo/DIGEST.md",
+        "  коммитов: 15, новых файлов: 8"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_digest_auto.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.062,
+      "stdout_tail": [
+        "   Файлов изменено: 54",
+        "   Анализирую diff... +0 слов, -0 слов",
+        "  wrote: monorepo/DIGEST_AUTO.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_digest_weekly.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.133,
+      "stdout_tail": [
+        "  Approved: 0  normalized: 0  raw: 274",
+        "",
+        "✅ monorepo/DIGEST_WEEKLY.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_duplicate_across.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.034,
+      "stdout_tail": [
+        "  --internal                          сравнить секции внутри docs/",
+        "  --other-dir /path/to/other/docs     сравнить с другой папкой",
+        "  --other-repo /path/to/other-repo    сравнить с другим репозиторием"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_embedding_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.058,
+      "stdout_tail": [
+        "  --stats               Статистика индекса",
+        "  --type ТИП            Фильтр по типу карточки (для --query)",
+        "  --top TOP             Число результатов"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_empty_sections.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.077,
+      "stdout_tail": [
+        "   Всего пустых секций: 327",
+        "   Файлов с ≥50% пустых: 26",
+        "  wrote: monorepo/EMPTY_SECTIONS.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_entities.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.946,
+      "stdout_tail": [
+        "Извлечение именованных сущностей...",
+        "  wrote: monorepo/ENTITIES.md",
+        "  людей: 4, проектов: 19, орг: 8, технологий: 24, GitHub URL: 4"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_epub.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.041,
+      "stdout_tail": [
+        "📚 improve_epub.py — сборка EPUB",
+        "  ❌ pandoc не найден. Установите: sudo apt install pandoc",
+        "  Запустите с --check для проверки."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_export_csv.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.061,
+      "stdout_tail": [
+        "    ENTITIES.md: 1",
+        "    STRUCTURE.md: 1",
+        "    _audit: 18"
+      ],
+      "stderr_tail": [
+        "/home/user/data70/monorepo/_audit/textkit/lib/improve_export_csv.py:78: FutureWarning: Possible set difference at position 12",
+        "  words = len(re.sub(r'[#*`>\\[\\]|<!--].*', '', text).split())"
+      ]
+    },
+    {
+      "script": "improve_export_html.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.095,
+      "stdout_tail": [
+        "Экспорт в HTML...",
+        "  wrote: monorepo/index.html (1029 KB)",
+        "  разделов: 19, файлов: 242"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_export_json.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.129,
+      "stdout_tail": [
+        "Экспорт в JSON...",
+        "  wrote: monorepo/export_full.json (476 KB)",
+        "  файлов: 277, слов: 106,053"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_export_report.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.073,
+      "stdout_tail": [
+        "  wrote: monorepo/REPORT.md",
+        "  корпус: 277 файлов, 106,053 слов",
+        "  метрики: здоровье=—, балл=—, STTR=—"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_external_compare.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.057,
+      "stdout_tail": [
+        "  --file docs/... --url https://...",
+        "  --query 'AgentFS' --url https://github.com/...",
+        "  --auto --section 05-habr-projects --limit 10"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_extract_code.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.046,
+      "stdout_tail": [
+        "    jinja2: 1",
+        "    json: 1",
+        "  wrote: monorepo/CODE_BLOCKS.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_extract_tables.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.061,
+      "stdout_tail": [
+        "Извлечение таблиц...",
+        "  wrote: monorepo/TABLES.md (393 таблиц)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_faceted_search.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.029,
+      "stdout_tail": [
+        "    --query \"текст\"",
+        "    --entity \"AgentFS\"",
+        "    --type projects|people|tech|orgs"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_faq.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.107,
+      "stdout_tail": [
+        "Строю FAQ...",
+        "  wrote: monorepo/FAQ.md",
+        "  вопросов: 6"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_feedback_loop.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.031,
+      "stdout_tail": [
+        "✅ monorepo/FEEDBACK_LOOP.md",
+        "",
+        "  (Лог пустой — запусти gateway.py и сделай несколько /api/ask запросов)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_footnotes.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.031,
+      "stdout_tail": [
+        "Добавление сносок к терминам...",
+        "  wrote: monorepo/FOOTNOTES.md",
+        "  файлов: 0, сносок: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_gap_filler.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.33,
+      "stdout_tail": [
+        "     ▸ H2 «Путь к окупаемости» → README.md (score: 14.25)",
+        "",
+        "  Запустите с --apply для вставки контента."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_github_issues.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.134,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/GITHUB_ISSUES.md",
+        "  источников: 3"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_github_tracker.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 3.11,
+      "stdout_tail": [
+        "Найдено событий: 0",
+        "",
+        "ℹ️  Запустите с --apply чтобы создать карточки (0 новых)"
+      ],
+      "stderr_tail": [
+        "  ⚠ Rate limit или приватный репо: https://api.github.com/repos/nlaik/research-docs/releases?per_page=5",
+        "  ⚠ Rate limit или приватный репо: https://api.github.com/repos/nlaik/research-docs/issues?since=2026-05-29T14:09:07Z&state=open&per_page=5",
+        "  ⚠ Rate limit или приватный репо: https://api.github.com/repos/nlaik/liteparse/commits?since=2026-05-29T14:09:07Z&per_page=10",
+        "  ⚠ Rate limit или приватный репо: https://api.github.com/repos/nlaik/liteparse/releases?per_page=5",
+        "  ⚠ Rate limit или приватный репо: https://api.github.com/repos/nlaik/liteparse/issues?since=2026-05-29T14:09:07Z&state=open&per_page=5"
+      ]
+    },
+    {
+      "script": "improve_glossary.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.475,
+      "stdout_tail": [
+        "Извлечение URL...",
+        "  wrote: monorepo/LINKS.md",
+        "Готово."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_graph.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.065,
+      "stdout_tail": [
+        "Строю граф связей проектов...",
+        "  пар с совместными упоминаниями: 253",
+        "  wrote: monorepo/GRAPH.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_graph_search.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "  python scripts/improve_graph_search.py --query \"knowledge graph\" --seeds 10 --alpha 0.5",
+        "  python scripts/improve_graph_search.py --stats   # graph statistics",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_heading_audit.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.095,
+      "stdout_tail": [
+        "  файлов с проблемами: 210",
+        "  🕳️  Пустая секция: 533",
+        "  ♊ Дублирующийся заголовок: 28"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_health.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.056,
+      "stdout_tail": [
+        "Генерация health dashboard...",
+        "  wrote: monorepo/HEALTH.md",
+        "  общий балл: 79/100"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_heatmap.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.026,
+      "stdout_tail": [
+        "Тепловая карта тем..."
+      ],
+      "stderr_tail": [
+        "                                ^",
+        "  File \"/home/user/data70/monorepo/_audit/textkit/lib/improve_heatmap.py\", line 78, in <dictcomp>",
+        "    topic: max(matrix[topic].values()) for topic in TOPICS",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "ValueError: max() arg is an empty sequence"
+      ]
+    },
+    {
+      "script": "improve_hot_cards.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.03,
+      "stdout_tail": [
+        "⚠  search_index.json не найден."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_index_master.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.062,
+      "stdout_tail": [
+        "Генерация главного индекса...",
+        "  wrote: monorepo/INDEX.md",
+        "  разделов: 5, мета-docs: 12, отчётов: 26"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_index_update.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.285,
+      "stdout_tail": [
+        "  изменённых файлов: 46",
+        "  wrote: monorepo/search_index.json (867 KB)",
+        "  всего: 292, добавлено: 292, обновлено: 0, удалено: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_keyword_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.479,
+      "stdout_tail": [
+        "  wrote: monorepo/KEYWORD_INDEX.md",
+        "  wrote: monorepo/keyword_index.json",
+        "  топ-5: связи, уровень, готовности, caremate, agents"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_knowledge_evolution.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.068,
+      "stdout_tail": [
+        "",
+        "✅ Обновлено: monorepo/KNOWLEDGE_EVOLUTION.md",
+        "   История: 1 снапшотов"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_knowledge_map.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.081,
+      "stdout_tail": [
+        "  wrote: monorepo/KNOWLEDGE_MAP.md",
+        "  корпус: 291 файлов, 147,426 слов",
+        "  секций: 16"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_knowledge_snapshot.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.08,
+      "stdout_tail": [
+        "",
+        "✅ monorepo/KNOWLEDGE_SNAPSHOT.md",
+        "✅ monorepo/snapshots/2026-06-05.json"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_kpi.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.284,
+      "stdout_tail": [
+        "Извлечение числовых KPI...",
+        "  wrote: monorepo/KPI.md",
+        "  KPI: 954"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_kpi_snapshot.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.065,
+      "stdout_tail": [
+        "  дата: 2026-06-05, всего снапшотов: 1",
+        "  wrote: monorepo/KPI_HISTORY.md",
+        "  docs: 297, words: 156,669, scoring: 96%"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_language_split.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.21,
+      "stdout_tail": [
+        "   Неожиданный язык: 0",
+        "",
+        "  wrote: monorepo/LANGUAGE_STATS.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_link_preview.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 19.918,
+      "stdout_tail": [
+        "   Проверено новых: 14",
+        "  wrote: monorepo/LINK_PREVIEW.md",
+        "  ✅ 7 | 🔄 0 | ❌ 7"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_mcp_dashboard.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.029,
+      "stdout_tail": [
+        "Лог не найден: /home/user/data70/.claude/mcp_calls.jsonl"
+      ],
+      "stderr_tail": [
+        "         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "  File \"/usr/lib/python3.11/pathlib.py\", line 1044, in open",
+        "    return io.open(self, mode, buffering, encoding, errors, newline)",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "FileNotFoundError: [Errno 2] No such file or directory: '/home/user/data70/docs/MCP_DASHBOARD.md'"
+      ]
+    },
+    {
+      "script": "improve_mcp_test.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.041,
+      "stdout_tail": [
+        "",
+        "==================================================",
+        "Passed: 0, Failed: 10"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_merge_by_topic.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 3.399,
+      "stdout_tail": [
+        "",
+        "  Было бы объединено ~79,371 слов в 12 файлов",
+        "  Запустите с --apply для реального слияния."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_merge_short.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.077,
+      "stdout_tail": [
+        "",
+        "Итого: 0 файлов слито."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_metrics.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.14,
+      "stdout_tail": [
+        "Метрики качества документации...",
+        "  wrote: monorepo/METRICS.md",
+        "  файлов: 297, средний балл: 40.8/100"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_migrate_contacts.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "❌ /home/user/data70/docs/contacts не найден"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_mindmap.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.026,
+      "stdout_tail": [
+        "  wrote: monorepo/MINDMAP.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_missing.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.687,
+      "stdout_tail": [
+        "Анализ пробелов в документации...",
+        "  wrote: monorepo/MISSING.md",
+        "  ✅ 13  ⚠️ 5  ❌ 7"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_multi_query.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.039,
+      "stdout_tail": [
+        "  python scripts/improve_multi_query.py --decompose \"агент память MCP SQLite\"  # show split only",
+        "  python scripts/improve_multi_query.py --eval   # compare multi vs single query on eval set",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_named_entity_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 1.115,
+      "stdout_tail": [
+        "  🏢 orgs: 6",
+        "  👤 people: 6",
+        "  📅 dates: 5"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_narrative.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.025,
+      "stdout_tail": [
+        "Строю нарративную линию...",
+        "  wrote: monorepo/NARRATIVE.md",
+        "  глав в нарративе: 11"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_network.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.275,
+      "stdout_tail": [
+        "  wrote: monorepo/NETWORK.md",
+        "  wrote: monorepo/network.dot",
+        "  узлов: 20, связей: 137"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_obsidian.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.142,
+      "stdout_tail": [
+        "  Обработано: 303/303 файлов",
+        "  Obsidian vault: monorepo/obsidian/",
+        "  Откройте папку docs/obsidian/ как vault в Obsidian."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_onboarding.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.025,
+      "stdout_tail": [
+        "Генерация руководства для новых участников...",
+        "  wrote: monorepo/ONBOARDING.md",
+        "  разделов: 5, файлов: 0, слов: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_orphans.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.098,
+      "stdout_tail": [
+        "Поиск изолированных документов...",
+        "  wrote: monorepo/ORPHANS.md",
+        "  изолированных: 131 из 163"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_outline.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.154,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/OUTLINE.md",
+        "  секций: 17, файлов: 302"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_pagerank.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.558,
+      "stdout_tail": [
+        "Running PageRank…",
+        "",
+        "Saved: /home/user/data70/monorepo/pagerank.json  (661 entries)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_paragraph_quality.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.232,
+      "stdout_tail": [
+        "  🔁 Повтор начала: 839",
+        "  ♊ Дубль: 206",
+        "  📏 Длинное предложение: 20"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_passage_retrieval.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.322,
+      "stdout_tail": [
+        "   wrote: monorepo/passages.json",
+        "",
+        "  Используйте --query \"текст\" для поиска."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_passive_voice.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.244,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/PASSIVE_VOICE.md",
+        "  файлов с высоким пассивом (>15%): 4"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_pre_commit.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.034,
+      "stdout_tail": [
+        "  Для установки хуков:",
+        "  pip install pre-commit && pre-commit install",
+        "  или: python scripts/improve_pre_commit.py --install"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_precision_eval.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 4.39,
+      "stdout_tail": [
+        "  Сохранено: monorepo/PRECISION_EVAL.md",
+        "",
+        "  ⚠ Hit Rate@10 = 0.000 < 0.70"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_priorities.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.171,
+      "stdout_tail": [
+        "  топ-1: monorepo/TABLES.md (score=78.88)",
+        "  топ-2: monorepo/obsidian/TABLES.md (score=78.87)",
+        "  топ-3: monorepo/MINDMAP.md (score=32.36)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_progress.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.064,
+      "stdout_tail": [
+        "Трекер прогресса MVP...",
+        "  wrote: monorepo/PROGRESS.md",
+        "  milestone: 5/10, чеклисты: 0/80"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_progress_sync.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.036,
+      "stdout_tail": [
+        "",
+        "✅ monorepo/PROGRESS.md обновлён",
+        "   Следующий шаг: Определена архитектура Svyazi 2.0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_progressive_summarize.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.11,
+      "stdout_tail": [
+        "      0ch → 125ch",
+        "",
+        "ℹ️  Запустите с --apply для применения."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_proposal_gen.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.041,
+      "stdout_tail": [
+        "❌ Проектные файлы не найдены в /home/user/data70/monorepo/05-habr-projects"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_qa.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.051,
+      "stdout_tail": [
+        "  wrote: monorepo/QA.md",
+        "Готово: 0 Q&A файлов создано"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_quality_patch.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.159,
+      "stdout_tail": [
+        "Патч качества документов...",
+        "  патч применён: 311, уже 100: 2"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_query_log.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.028,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "  File \"/usr/lib/python3.11/pathlib.py\", line 1044, in open",
+        "    return io.open(self, mode, buffering, encoding, errors, newline)",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "FileNotFoundError: [Errno 2] No such file or directory: '/home/user/data70/docs/QUERY_ANALYTICS.md'"
+      ]
+    },
+    {
+      "script": "improve_question_extractor.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.388,
+      "stdout_tail": [
+        "   🔓 Открытый вопрос: 1",
+        "",
+        "  wrote: monorepo/QUESTIONS.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_questions.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.555,
+      "stdout_tail": [
+        "Извлечение открытых вопросов...",
+        "  wrote: monorepo/QUESTIONS.md",
+        "  вопросов: 7"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_readability_v2.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.409,
+      "stdout_tail": [
+        "  wrote: monorepo/READABILITY.md",
+        "  средний FRE: 0.7/100",
+        "  сложных (<30): 613"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_reading_list.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.275,
+      "stdout_tail": [
+        "   Общее время чтения: ~377 мин (6ч 17м)",
+        "",
+        "  wrote: monorepo/READING_LIST.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_reading_order.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.025,
+      "stdout_tail": [
+        "Строю порядок чтения...",
+        "  wrote: monorepo/READING_ORDER.md",
+        "  документов в порядке чтения: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_reading_time.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.212,
+      "stdout_tail": [
+        "  wrote: monorepo/READING_TIME.md",
+        "  документов: 597, слов: 178,969",
+        "  время всей базы: 19ч 25мин"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_readmes.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.084,
+      "stdout_tail": [
+        "  README: monorepo/obsidian/_audit/README.md",
+        "  README: monorepo/obsidian/_audit/reports/README.md",
+        "  README: monorepo/README.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_recipe.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.041,
+      "stdout_tail": [
+        "  python scripts/improve_recipe.py --info <name>",
+        "  python scripts/improve_recipe.py --run  <name> [--dry-run]",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_reclassify.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.121,
+      "stdout_tail": [
+        "",
+        "  Запустите с --apply для реального перемещения файлов.",
+        "  ВНИМАНИЕ: перемещение обновит все внутренние ссылки только вручную!"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_registry.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.028,
+      "stdout_tail": [
+        "→ monorepo/REGISTRY.md",
+        "  Скриптов: 0, шаблонов: 0, скилов: 0",
+        "  MCP-серверов: 0, манифестов: 0, контактов: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_report.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.076,
+      "stdout_tail": [
+        "Генерация executive report...",
+        "  wrote: monorepo/REPORT.md",
+        "  файлов: 626, слов: 364,613, скриптов: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_rfc_tracker.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.032,
+      "stdout_tail": [
+        "RFC пока нет. Создайте первый:",
+        "  python scripts/improve_rfc_tracker.py --new \"Название\" --author \"ник\""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_risk_register.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.053,
+      "stdout_tail": [
+        "Генерация реестра рисков...",
+        "  wrote: monorepo/RISK_REGISTER.md",
+        "  рисков: 10, из docs: 15"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_rss.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.055,
+      "stdout_tail": [
+        "  Коммитов: 0",
+        "  wrote: monorepo/feed.rss",
+        "  wrote: monorepo/feed.atom"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_run_all.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.044,
+      "stdout_tail": [
+        "============================================================",
+        "Итог: ✅ 0 успешно  ❌ 167 ошибок  ⏩ 0 пропущено  ⏱ 0с",
+        "============================================================"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_schedule.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.024,
+      "stdout_tail": [
+        "Строю расписание проекта...",
+        "  wrote: monorepo/SCHEDULE.md",
+        "  вех: 10, выполнено: 3"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_scoring.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.199,
+      "stdout_tail": [
+        "Оценка готовности проекта (Go/No-Go)...",
+        "  wrote: monorepo/SCORING.md",
+        "  балл: 75/164 (45%) — 🔴 NO-GO"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_scripts_catalog.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.031,
+      "stdout_tail": [
+        "→ monorepo/SCRIPTS_CATALOG.md",
+        "→ monorepo/scripts_catalog.json",
+        "  Скриптов: 0, групп: 0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_search_index.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.419,
+      "stdout_tail": [
+        "  всего слов: 291,685",
+        "  wrote: monorepo/search_index.json (2515 KB)",
+        "  wrote: docs/SEARCH.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_search_repl.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.477,
+      "stdout_tail": [
+        "",
+        "  > ",
+        "  Выход."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_see_also.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.383,
+      "stdout_tail": [
+        "Добавление 'See Also' блоков...",
+        "  wrote: monorepo/SEE_ALSO.md",
+        "  вставлено блоков: 107, файлов в карте: 107"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_self.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.048,
+      "stdout_tail": [
+        "  🟡 yellow     0  ",
+        "  🔴 red        0  ",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_semantic_search.py",
+      "status": "err",
+      "rc": 2,
+      "duration_s": 0.055,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "usage: improve_semantic_search.py [-h] --query ТЕКСТ",
+        "                                  [--mode {hybrid,semantic,bm25,full}]",
+        "                                  [--type ТИП] [--section РАЗДЕЛ] [--top TOP]",
+        "                                  [--json]",
+        "improve_semantic_search.py: error: the following arguments are required: --query"
+      ]
+    },
+    {
+      "script": "improve_sentiment.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.278,
+      "stdout_tail": [
+        "Тональный анализ...",
+        "  wrote: monorepo/SENTIMENT.md",
+        "  файлов: 593"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_sentinel_check.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.619,
+      "stdout_tail": [
+        "  wrote: monorepo/SENTINEL.md",
+        "  PII: 4, код: 0, creds: 0, HTTP: 21, лицензии: 0",
+        "  ⚠️  Итого критических: 4"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_similar.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 5.411,
+      "stdout_tail": [
+        "Поиск похожих документов...",
+        "  wrote: monorepo/SIMILAR.md",
+        "  похожих пар: 1268, обновлено файлов: 623"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_similar_passages.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 1.546,
+      "stdout_tail": [
+        "  wrote: monorepo/SIMILAR_PASSAGES.md",
+        "  похожих пар: 2138",
+        "  топ сходство: 1.0"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_sitemap.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.105,
+      "stdout_tail": [
+        "  wrote: monorepo/SITEMAP.md",
+        "  wrote: monorepo/sitemap.xml",
+        "  мета-файлов: 502, разделов: 14, всего в XML: 637"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_skill_dashboard.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.03,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "  File \"/usr/lib/python3.11/pathlib.py\", line 1044, in open",
+        "    return io.open(self, mode, buffering, encoding, errors, newline)",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "FileNotFoundError: [Errno 2] No such file or directory: '/home/user/data70/docs/SKILL_DASHBOARD.md'"
+      ]
+    },
+    {
+      "script": "improve_skill_metrics.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.033,
+      "stdout_tail": [
+        "⚠ Директория скилов не найдена: /home/user/data70/.claude/skills"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_source_map.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 3.506,
+      "stdout_tail": [
+        "  wrote: monorepo/SOURCE_MAP.md",
+        "  категории: {'✍️ Ручной': 632}",
+        "  авторов: 3"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_spellcheck.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.168,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/SPELLCHECK.md",
+        "  файлов с проблемами: 22"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_staleness.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 2.185,
+      "stdout_tail": [
+        "🕰  improve_staleness.py — поиск устаревших документов (порог: 30д)",
+        "  wrote: monorepo/STALENESS.md",
+        "  устаревших: 213, без метаданных: 316, коротких: 3"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_stats.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.294,
+      "stdout_tail": [
+        "Детальная статистика разделов...",
+        "  wrote: monorepo/STATS.md",
+        "  файлов: 636, слов: 391,908, разделов: 18"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_status_badges.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.056,
+      "stdout_tail": [
+        "",
+        "→ monorepo/BADGES.md",
+        "→ docs/badges/ (7 SVG)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_subtopic_fill.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.978,
+      "stdout_tail": [
+        "",
+        "  Будет дополнено: 13 файлов  |  Пропущено: 0",
+        "  Запустите с --apply для реальной записи."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_summaries.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.228,
+      "stdout_tail": [
+        "Обновлено: 122 файлов, пропущено: 128"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_summary_extender.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.055,
+      "stdout_tail": [
+        "  Мало контента:    0",
+        "",
+        "ℹ️  Запустите с --apply для применения."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_tags.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.098,
+      "stdout_tail": [
+        "  wrote: monorepo/TAGS.md",
+        "Тегировано: 112 файлов, 473 тег-записей"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_task_codegen.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.032,
+      "stdout_tail": [
+        "❌ /home/user/data70/tasks не найден"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_tech_radar.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.027,
+      "stdout_tail": [
+        "Генерация Tech Radar...",
+        "  wrote: monorepo/TECH_RADAR.md",
+        "  позиций: 22 (ADOPT: 6, TRIAL: 6, ASSESS: 6, HOLD: 4)"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_template_init.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.029,
+      "stdout_tail": [
+        "    python scripts/improve_template_init.py --list           # список шаблонов",
+        "    python scripts/improve_template_init.py --type rfc --show  # показать сырой шаблон",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_template_integrity.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.025,
+      "stdout_tail": [
+        "❌ /home/user/data70/docs/templates не найден"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_template_migrate.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.032,
+      "stdout_tail": [
+        "❌ Нет схем в /home/user/data70/monorepo/templates/_schemas"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_templates.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.026,
+      "stdout_tail": [
+        "  wrote: monorepo/templates/contact-outreach.md",
+        "  wrote: monorepo/templates/README.md",
+        "  шаблонов: 5"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_text_segmenter.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.077,
+      "stdout_tail": [
+        "      3. 27. 🔢 Числовое — 10.0 vs 40.0 (уверенность: 0.8) (188 сл.)",
+        "",
+        "  Запустите с --apply для реальной записи."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_textrank.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.511,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/SUMMARIES.md",
+        "  Запустите с --apply для вставки резюме в файлы."
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_timeline.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.433,
+      "stdout_tail": [
+        "Извлечение дат и временных маркеров...",
+        "  найдено записей: 579",
+        "  wrote: monorepo/TIMELINE.md"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_timeline_events.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.521,
+      "stdout_tail": [
+        "  2025: 16",
+        "  2026: 75",
+        "  2027: 4"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_toc.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.12,
+      "stdout_tail": [
+        "  toc: monorepo/obsidian/_audit/reports/machine_contradictions.md",
+        "",
+        "Добавлено TOC: 87, пропущено: 162"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_topic_model.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.501,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/TOPIC_MODEL.md",
+        "  тем: 6, документов: 644"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_validate.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.273,
+      "stdout_tail": [
+        "Валидация структуры репозитория...",
+        "  wrote: monorepo/VALIDATION.md",
+        "  ошибок: 5, предупреждений: 2, ок: 18"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_validate_templates.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.029,
+      "stdout_tail": [
+        "⚠️  Не найдено схем в /home/user/data70/monorepo/templates/_schemas"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_version_diff.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.038,
+      "stdout_tail": [
+        "  Изменённых файлов: 0",
+        "  wrote: monorepo/VERSION_DIFF.md",
+        "  +0 / -0 слов"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_vocabulary_richness.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.291,
+      "stdout_tail": [
+        "",
+        "  wrote: monorepo/VOCABULARY.md",
+        "  файлов с бедным словарём (STTR < 0.55): 30"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_watch.py",
+      "status": "timeout",
+      "rc": -1,
+      "duration_s": 120.062,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "TIMEOUT"
+      ]
+    },
+    {
+      "script": "improve_watcher.py",
+      "status": "timeout",
+      "rc": -1,
+      "duration_s": 120.104,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "TIMEOUT"
+      ]
+    },
+    {
+      "script": "improve_word_cloud.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.233,
+      "stdout_tail": [
+        "  wrote: monorepo/WORD_CLOUD.svg",
+        "  wrote: monorepo/WORD_CLOUD.md",
+        "  слов в облаке: 80, размещено: 80"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_word_freq.py",
+      "status": "ok",
+      "rc": 0,
+      "duration_s": 0.349,
+      "stdout_tail": [
+        "Частотный анализ слов...",
+        "  wrote: monorepo/WORD_FREQ.md",
+        "  уникальных слов: 11,029"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_workflow_run.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.036,
+      "stdout_tail": [
+        "    python scripts/improve_workflow_run.py --task audit-corpus --dry-run",
+        "    python scripts/improve_workflow_run.py --list",
+        ""
+      ],
+      "stderr_tail": []
+    },
+    {
+      "script": "improve_workflow_v2.py",
+      "status": "err",
+      "rc": 1,
+      "duration_s": 0.05,
+      "stdout_tail": [
+        "  python scripts/improve_workflow_v2.py --resume <run_id>",
+        "  python scripts/improve_workflow_v2.py --history --task audit-corpus",
+        ""
+      ],
+      "stderr_tail": []
+    }
+  ]
+}

@@ -28,16 +28,6 @@
     "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
   },
   {
-    "card": "02_ai_agents",
-    "cluster": "02_ai_agents",
-    "primary_sources": [
-      "analysis_ai_topics.md",
-      "part10_deep_analysis.md",
-      "part10_new_topics.md"
-    ],
-    "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
-  },
-  {
     "card": "02_ai_agents/16_exo_p2p/README.md",
     "cluster": "02_ai_agents",
     "primary_sources": [
@@ -125,15 +115,6 @@
     "primary_sources": [
       "analysis_02_top_projects.md",
       "analysis_03_inventions.md"
-    ],
-    "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
-  },
-  {
-    "card": "05_software_automation",
-    "cluster": "05_software_automation",
-    "primary_sources": [
-      "analysis_02_top_projects.md",
-      "part13_tech_stacks.md"
     ],
     "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
   },
@@ -301,15 +282,6 @@
     "cluster": "09_media_newsroom",
     "primary_sources": [
       "part10_new_topics.md"
-    ],
-    "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
-  },
-  {
-    "card": "10_health_accessibility",
-    "cluster": "10_health_accessibility",
-    "primary_sources": [
-      "analysis_04_social_law.md",
-      "analysis_02_top_projects.md"
     ],
     "llm_prompt_template": "Сравни карточку `{card}` с первоисточниками: {sources}.\nПроверь:\n1) Не выдумано ли число/факт, отсутствующий в источнике?\n2) Совпадает ли заявленный приоритет / бюджет / срок?\n3) Нет ли важной информации из источника, упущенной в карточке?\nВерни структурированный JSON: {{distortions: [], omissions: [], confirmations: []}}."
   },

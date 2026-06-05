@@ -28,14 +28,14 @@
 | 20 | Виртуальный учитель | D | 08_knowledge_methodology/06_lms_slm_phi2 |
 | 21 | ВикиИИпедия | F | 08_knowledge_methodology/05_wikiii_pedia |
 | 22 | Виртуальный офис-бюро | E | 05_software_automation/09_virtual_office |
-| 23 | ИИ-скрининг стартапов | E | 05_software_automation (через 08_b2b_neuronet) |
+| 23 | ИИ-скрининг стартапов | E | 05_software_automation/08_b2b_neuronet |
 | 24 | Роботы в сельском хозяйстве | G | 04_robotics_caremate/08_agro_robots |
 | 25 | Мобильный умный дом-ЦОД | J | 06_business_funding/11_digital_caravan |
 | 26 | ИИ в Pflege | D | 04_robotics_caremate/10_pflege_ai |
 | 27 | Цифровой спутник жизни | D | 10_health_accessibility/11_digital_satellite_companion |
 | 28 | ИИ-Тамагочи / Лампа Аладдина | D | 07_inventions_patents/13_digital_satellite |
-| 29 | Игровая симуляция обучения ИИ | E | 05_software_automation (см. 16_mvp_backlog) |
-| 30 | Автоматизация бытовых задач | D | 10_health_accessibility (через CareMate) |
+| 29 | Игровая симуляция обучения ИИ | E | 05_software_automation/08_b2b_neuronet |
+| 30 | Автоматизация бытовых задач | D | 10_health_accessibility/05_aging_in_place |
 | 31 | KBLaM Microsoft | A | 02_ai_agents/08_kblam |
 | 32 | Трёхуровневая архитектура нейросетей | A/B | 02_ai_agents/13_three_level_arch |
 | 33 | Древо Жизни (Сефирот) | H | 07_inventions_patents/21_sephirot_tree |
@@ -76,7 +76,7 @@
 | 68 | «Баба Яга» — тяжёлый дрон | G | 03_drones_skymediahub/05_baba_yaga |
 | 69 | Милогия Беляева + кубическая арифметика | H | 07_inventions_patents/19_milogiya_belyaev |
 | 70 | Микрофраншизы | E/I | 06_business_funding/07_microfranchise |
-| 71 | OpenAI Prism | B/C | 02_ai_agents (см. 25_ollama_local и 09_dat_rag) |
+| 71 | OpenAI Prism | B/C | 02_ai_agents/25_ollama_local |
 | 72 | VAST AI OS | B | 02_ai_agents/23_vast_ai_os |
 | 73 | Cloud.ru Evolution Stack AI | B | 02_ai_agents/24_cloud_ru_evolution |
 | 74 | Манифест «Компьютер 3.0» | F | 05_software_automation/13_oslo_manual_recombinant |

@@ -214,10 +214,10 @@
         "★★★★★"
       ],
       "paragraphs": [
-        "§ 8 SGB IX",
         "§ 78 SGB IX",
         "§ 14 SGB IX",
-        "§ 29 SGB IX"
+        "§ 29 SGB IX",
+        "§ 8 SGB IX"
       ],
       "mrr": []
     },
@@ -232,9 +232,9 @@
         "★★★★★"
       ],
       "paragraphs": [
-        "§ 8 SGB IX",
-        "§ 14 SGB IX",
         "Art. 19 UN-BRK",
+        "§ 14 SGB IX",
+        "§ 8 SGB IX",
         "§ 35 SGB X"
       ],
       "mrr": []
@@ -277,10 +277,10 @@
         "★★★★"
       ],
       "paragraphs": [
-        "§ 8 SGB IX",
-        "Art. 19 UN-BRK",
-        "§ 14 SGB IX",
         "§ 29 SGB IX",
+        "Art. 19 UN-BRK",
+        "§ 8 SGB IX",
+        "§ 14 SGB IX",
         "§ 35 SGB X"
       ],
       "mrr": []
@@ -294,10 +294,10 @@
         "★★★★"
       ],
       "paragraphs": [
-        "§ 45 SGB X",
         "§ 24 SGB X",
-        "§ 48 SGB X",
+        "§ 45 SGB X",
         "§ 43 SGB X",
+        "§ 48 SGB X",
         "§ 14 SGB IX",
         "§ 35 SGB X"
       ],
@@ -355,11 +355,11 @@
         "★★★"
       ],
       "paragraphs": [
-        "§ 219 SGB IX",
         "§ 99 SGB IX",
-        "§ 40 SGB XI",
+        "§ 219 SGB IX",
+        "§ 29 SGB IX",
         "§ 84 SGB IX",
-        "§ 29 SGB IX"
+        "§ 40 SGB XI"
       ],
       "mrr": []
     },
@@ -385,13 +385,13 @@
         "★★★★"
       ],
       "paragraphs": [
-        "§ 78 SGB IX",
-        "§ 64b SGB XII",
-        "§ 49 SGB IX",
-        "§ 36 SGB XII",
         "§ 14 SGB XI",
         "§ 113 SGB IX",
-        "§ 40 SGB XI"
+        "§ 64b SGB XII",
+        "§ 78 SGB IX",
+        "§ 49 SGB IX",
+        "§ 40 SGB XI",
+        "§ 36 SGB XII"
       ],
       "mrr": []
     },

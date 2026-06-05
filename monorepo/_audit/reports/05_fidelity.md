@@ -2,7 +2,7 @@
 
 ## Сводка
 
-- Файлов на проверку: **41**
+- Файлов на проверку: **38**
 - LLM-вызовы: не выполнены (требуется ключ Claude/Ollama)
 
 ## Стратегия
@@ -21,7 +21,6 @@
 | `00_index/three_waves_roadmap.md` | 00_index | 0 |
 | `01_social_law/README.md` | 01_social_law | 1 |
 | `01_social_law/next_steps.md` | 01_social_law | 1 |
-| `02_ai_agents` | 02_ai_agents | 3 |
 | `02_ai_agents/16_exo_p2p/README.md` | 02_ai_agents | 3 |
 | `03_drones_skymediahub/01_skymediahub_bavaria/README.md` | 03_drones_skymediahub | 2 |
 | `03_drones_skymediahub/02_tetradrone/README.md` | 03_drones_skymediahub | 2 |
@@ -32,7 +31,6 @@
 | `04_robotics_caremate/01_15_robot_zoo/README.md` | 04_robotics_caremate | 2 |
 | `04_robotics_caremate/08_agro_robots/README.md` | 04_robotics_caremate | 2 |
 | `04_robotics_caremate/09_105_care_scenarios/README.md` | 04_robotics_caremate | 2 |
-| `05_software_automation` | 05_software_automation | 2 |
 | `05_software_automation/01_internet_function_os/README.md` | 05_software_automation | 2 |
 | `05_software_automation/02_smart_office_proto/README.md` | 05_software_automation | 2 |
 | `05_software_automation/08_b2b_neuronet/README.md` | 05_software_automation | 2 |
@@ -52,10 +50,8 @@
 | `07_inventions_patents/map.md` | 07_inventions_patents | 1 |
 | `08_knowledge_methodology/next_steps.md` | 08_knowledge_methodology | 1 |
 | `09_media_newsroom/next_steps.md` | 09_media_newsroom | 1 |
-| `10_health_accessibility` | 10_health_accessibility | 2 |
 | `superprojects/01_neuro_os/README.md` | superprojects | 3 |
 | `superprojects/02_digital_caravan/README.md` | superprojects | 3 |
 | `superprojects/03_caremate_total/README.md` | superprojects | 3 |
 | `superprojects/04_neuroportal/README.md` | superprojects | 3 |
-
-_…ещё 1 — см. queues/fidelity_jobs.json_
+| `superprojects/05_forth_swarm/README.md` | superprojects | 3 |

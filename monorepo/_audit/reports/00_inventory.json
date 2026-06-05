@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T11:22:07.579395Z",
+  "generated_at": "2026-06-05T11:29:08.786625Z",
   "root": "/home/user/data70/monorepo",
   "clusters": {
     "00_index": {
@@ -9,7 +9,7 @@
       "has_next_steps": true,
       "topics": {},
       "markdown_files": 10,
-      "bytes": 43694,
+      "bytes": 43648,
       "lines": 617
     },
     "01_social_law": {
@@ -345,14 +345,14 @@
           "path": "02_ai_agents/25_ollama_local",
           "has_readme": true,
           "markdown_files": 1,
-          "bytes": 2957,
-          "lines": 73,
+          "bytes": 3439,
+          "lines": 77,
           "extra_files": []
         }
       },
       "markdown_files": 28,
-      "bytes": 86641,
-      "lines": 1632
+      "bytes": 87123,
+      "lines": 1636
     },
     "03_drones_skymediahub": {
       "path": "03_drones_skymediahub",
@@ -690,8 +690,8 @@
           "path": "05_software_automation/08_b2b_neuronet",
           "has_readme": true,
           "markdown_files": 1,
-          "bytes": 3861,
-          "lines": 81,
+          "bytes": 4427,
+          "lines": 86,
           "extra_files": []
         },
         "09_virtual_office": {
@@ -760,8 +760,8 @@
         }
       },
       "markdown_files": 19,
-      "bytes": 65122,
-      "lines": 1409
+      "bytes": 65688,
+      "lines": 1414
     },
     "06_business_funding": {
       "path": "06_business_funding",
@@ -1417,8 +1417,8 @@
           "path": "10_health_accessibility/05_aging_in_place",
           "has_readme": true,
           "markdown_files": 1,
-          "bytes": 2455,
-          "lines": 50,
+          "bytes": 2904,
+          "lines": 54,
           "extra_files": []
         },
         "06_euthanasia_de_2025": {
@@ -1495,8 +1495,8 @@
         }
       },
       "markdown_files": 17,
-      "bytes": 38911,
-      "lines": 893
+      "bytes": 39360,
+      "lines": 897
     },
     "88_topics_full": {
       "path": "88_topics_full",
@@ -1575,7 +1575,7 @@
     "clusters": 13,
     "topic_dirs": 172,
     "markdown_files": 214,
-    "total_bytes": 692627,
-    "total_lines": 13903
+    "total_bytes": 694078,
+    "total_lines": 13916
   }
 }

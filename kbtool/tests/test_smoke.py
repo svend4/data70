@@ -9,6 +9,7 @@ from kbtool.corpus import load, tokenize
 from kbtool.checks import inventory, check_links, check_structure
 from kbtool.analyze import cluster, dedup, concept_graph
 from kbtool.health import score
+from kbtool.tree import plan_tree, materialize, _slug
 
 
 def _fixture() -> Path:
@@ -70,3 +71,29 @@ def test_pipeline():
 def test_resolve_paths():
     d = _fixture()
     assert resolve_docs(str(d)) == d.resolve()
+
+
+def test_slug_transliterates():
+    assert _slug(["дрон", "беспилотник"]) == "dron_bespilotnik"
+    assert _slug(["the", "это"]) == "misc"  # стопслова → misc
+
+
+def test_tree_materialize_is_nondestructive():
+    d = _fixture()
+    prof = Profile(readme_is_content=True, min_tokens=5)
+    corpus = load(d, prof)
+    cl = cluster(corpus, threshold=0.05)
+    plan = plan_tree(corpus, cl, misc_threshold=0)
+    assert len(plan) == len(corpus)
+    # все dst уникальны
+    dsts = [p["dst"] for p in plan]
+    assert len(dsts) == len(set(dsts))
+
+    out = Path(tempfile.mkdtemp(prefix="kbtool_tree_"))
+    n = materialize(plan, d, out)
+    assert n == len(corpus)
+    # оригинал цел
+    assert (d / "a" / "README.md").exists()
+    # копия создана с деревом
+    copied = list(out.rglob("*.md"))
+    assert len(copied) == len(corpus)

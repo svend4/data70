@@ -31,6 +31,7 @@ from .corpus import load
 from .checks import inventory, check_links, check_structure
 from .analyze import cluster, dedup, concept_graph
 from .health import score
+from .tree import plan_tree, render_plan, materialize, apply_inplace
 
 
 def _profile(args) -> Profile:
@@ -172,6 +173,45 @@ def cmd_all(args):
     print(f"Отчёт: {out}")
 
 
+def cmd_tree(args):
+    docs = resolve_docs(args.path)
+    prof = _profile(args)
+    excl = set(getattr(args, "exclude", []))
+    corpus = load(docs, prof, exclude_dirs=excl)
+    cl = cluster(corpus, threshold=args.threshold)
+    plan = plan_tree(corpus, cl, misc_threshold=args.misc_threshold)
+
+    if getattr(args, "json", False):
+        print(json.dumps({"plan": plan}, ensure_ascii=False, indent=2))
+        return
+
+    # Режим 1: материализовать копию (безопасно)
+    if args.out:
+        n = materialize(plan, docs, Path(args.out))
+        print(f"Скопировано {n} файлов в новое дерево: {args.out}")
+        print(f"Оригинал {docs} НЕ изменён.")
+        # план рядом
+        (Path(args.out) / "_TREE_PLAN.md").write_text(render_plan(plan), encoding="utf-8")
+        return
+
+    # Режим 2: применить in-place (деструктивно)
+    if args.apply:
+        print(f"⚠ ВНИМАНИЕ: будет перемещено {len(plan)} файлов IN-PLACE в {docs}")
+        if not args.yes:
+            print("Добавьте --yes для подтверждения. Сейчас показан только план:")
+            print(render_plan(plan))
+            return
+        n = apply_inplace(plan, docs, use_git=not args.no_git)
+        print(f"Перемещено {n} файлов in-place. Проверьте git status.")
+        return
+
+    # Режим 3 (по умолчанию): dry-run
+    print(render_plan(plan))
+    print(f"\n[dry-run] Ничего не перемещено. Используйте:")
+    print(f"  --out DIR   материализовать копию (безопасно)")
+    print(f"  --apply --yes  переместить in-place (деструктивно)")
+
+
 def build_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(prog="kbtool",
                                  description="Переносимый аудит и структурирование больших хаотичных markdown-баз")
@@ -193,6 +233,16 @@ def build_parser() -> argparse.ArgumentParser:
         p = sub.add_parser(name)
         common(p)
         p.set_defaults(func=fn)
+
+    # tree — отдельные опции (реорганизация)
+    pt = sub.add_parser("tree", help="разложить хаос в дерево по темам")
+    common(pt)
+    pt.add_argument("--apply", action="store_true", help="переместить in-place (деструктивно)")
+    pt.add_argument("--yes", action="store_true", help="подтвердить --apply")
+    pt.add_argument("--no-git", action="store_true", help="не использовать git mv")
+    pt.add_argument("--misc-threshold", type=int, default=1,
+                    help="кластеры размера <= N идут в 00_misc/")
+    pt.set_defaults(func=cmd_tree)
     return ap
 
 

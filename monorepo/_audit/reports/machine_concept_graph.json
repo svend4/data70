@@ -1,0 +1,3282 @@
+{
+  "nodes": [
+    {
+      "id": "уровень",
+      "count": 141,
+      "files": 141,
+      "category": "other"
+    },
+    {
+      "id": "готовности",
+      "count": 137,
+      "files": 137,
+      "category": "other"
+    },
+    {
+      "id": "каталога",
+      "count": 80,
+      "files": 80,
+      "category": "other"
+    },
+    {
+      "id": "caremate",
+      "count": 72,
+      "files": 72,
+      "category": "other"
+    },
+    {
+      "id": "тема",
+      "count": 68,
+      "files": 68,
+      "category": "other"
+    },
+    {
+      "id": "кластер",
+      "count": 66,
+      "files": 66,
+      "category": "other"
+    },
+    {
+      "id": "business",
+      "count": 44,
+      "files": 44,
+      "category": "other"
+    },
+    {
+      "id": "через",
+      "count": 42,
+      "files": 42,
+      "category": "other"
+    },
+    {
+      "id": "agents",
+      "count": 40,
+      "files": 40,
+      "category": "agent"
+    },
+    {
+      "id": "social",
+      "count": 39,
+      "files": 39,
+      "category": "other"
+    },
+    {
+      "id": "skymediahub",
+      "count": 39,
+      "files": 39,
+      "category": "other"
+    },
+    {
+      "id": "категория",
+      "count": 39,
+      "files": 39,
+      "category": "other"
+    },
+    {
+      "id": "funding",
+      "count": 37,
+      "files": 37,
+      "category": "other"
+    },
+    {
+      "id": "inventions",
+      "count": 36,
+      "files": 36,
+      "category": "other"
+    },
+    {
+      "id": "применение",
+      "count": 36,
+      "files": 36,
+      "category": "other"
+    },
+    {
+      "id": "robotics",
+      "count": 32,
+      "files": 32,
+      "category": "other"
+    },
+    {
+      "id": "newsroom",
+      "count": 31,
+      "files": 31,
+      "category": "other"
+    },
+    {
+      "id": "концепция",
+      "count": 31,
+      "files": 31,
+      "category": "other"
+    },
+    {
+      "id": "темы",
+      "count": 30,
+      "files": 30,
+      "category": "other"
+    },
+    {
+      "id": "модель",
+      "count": 29,
+      "files": 29,
+      "category": "other"
+    },
+    {
+      "id": "patents",
+      "count": 29,
+      "files": 29,
+      "category": "other"
+    },
+    {
+      "id": "связь",
+      "count": 28,
+      "files": 28,
+      "category": "other"
+    },
+    {
+      "id": "saas",
+      "count": 28,
+      "files": 28,
+      "category": "other"
+    },
+    {
+      "id": "срок",
+      "count": 28,
+      "files": 28,
+      "category": "other"
+    },
+    {
+      "id": "карточка",
+      "count": 28,
+      "files": 28,
+      "category": "other"
+    },
+    {
+      "id": "бизнес",
+      "count": 27,
+      "files": 27,
+      "category": "other"
+    },
+    {
+      "id": "forth",
+      "count": 27,
+      "files": 27,
+      "category": "other"
+    },
+    {
+      "id": "статус",
+      "count": 27,
+      "files": 27,
+      "category": "other"
+    },
+    {
+      "id": "автора",
+      "count": 27,
+      "files": 27,
+      "category": "other"
+    },
+    {
+      "id": "новизна",
+      "count": 25,
+      "files": 25,
+      "category": "other"
+    },
+    {
+      "id": "применимость",
+      "count": 25,
+      "files": 25,
+      "category": "other"
+    },
+    {
+      "id": "приоритет",
+      "count": 25,
+      "files": 25,
+      "category": "other"
+    },
+    {
+      "id": "суть",
+      "count": 25,
+      "files": 25,
+      "category": "other"
+    },
+    {
+      "id": "модели",
+      "count": 24,
+      "files": 24,
+      "category": "other"
+    },
+    {
+      "id": "бюджет",
+      "count": 23,
+      "files": 23,
+      "category": "other"
+    },
+    {
+      "id": "sozialplaner",
+      "count": 23,
+      "files": 23,
+      "category": "other"
+    },
+    {
+      "id": "tetradrone",
+      "count": 22,
+      "files": 22,
+      "category": "other"
+    },
+    {
+      "id": "источник",
+      "count": 21,
+      "files": 21,
+      "category": "other"
+    },
+    {
+      "id": "патентная",
+      "count": 21,
+      "files": 21,
+      "category": "other"
+    },
+    {
+      "id": "budget",
+      "count": 20,
+      "files": 20,
+      "category": "other"
+    }
+  ],
+  "edges": [
+    {
+      "source": "business",
+      "target": "caremate",
+      "weight": 18
+    },
+    {
+      "source": "business",
+      "target": "inventions",
+      "weight": 14
+    },
+    {
+      "source": "business",
+      "target": "newsroom",
+      "weight": 12
+    },
+    {
+      "source": "business",
+      "target": "skymediahub",
+      "weight": 15
+    },
+    {
+      "source": "business",
+      "target": "social",
+      "weight": 12
+    },
+    {
+      "source": "business",
+      "target": "бизнес",
+      "weight": 14
+    },
+    {
+      "source": "business",
+      "target": "кластер",
+      "weight": 13
+    },
+    {
+      "source": "business",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "caremate",
+      "target": "inventions",
+      "weight": 17
+    },
+    {
+      "source": "caremate",
+      "target": "newsroom",
+      "weight": 12
+    },
+    {
+      "source": "caremate",
+      "target": "skymediahub",
+      "weight": 16
+    },
+    {
+      "source": "caremate",
+      "target": "social",
+      "weight": 13
+    },
+    {
+      "source": "caremate",
+      "target": "бизнес",
+      "weight": 12
+    },
+    {
+      "source": "caremate",
+      "target": "кластер",
+      "weight": 17
+    },
+    {
+      "source": "caremate",
+      "target": "модели",
+      "weight": 5
+    },
+    {
+      "source": "inventions",
+      "target": "newsroom",
+      "weight": 9
+    },
+    {
+      "source": "inventions",
+      "target": "skymediahub",
+      "weight": 14
+    },
+    {
+      "source": "inventions",
+      "target": "social",
+      "weight": 9
+    },
+    {
+      "source": "inventions",
+      "target": "бизнес",
+      "weight": 6
+    },
+    {
+      "source": "inventions",
+      "target": "кластер",
+      "weight": 11
+    },
+    {
+      "source": "inventions",
+      "target": "модели",
+      "weight": 3
+    },
+    {
+      "source": "newsroom",
+      "target": "skymediahub",
+      "weight": 15
+    },
+    {
+      "source": "newsroom",
+      "target": "social",
+      "weight": 8
+    },
+    {
+      "source": "newsroom",
+      "target": "бизнес",
+      "weight": 6
+    },
+    {
+      "source": "newsroom",
+      "target": "кластер",
+      "weight": 9
+    },
+    {
+      "source": "newsroom",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "skymediahub",
+      "target": "social",
+      "weight": 8
+    },
+    {
+      "source": "skymediahub",
+      "target": "бизнес",
+      "weight": 6
+    },
+    {
+      "source": "skymediahub",
+      "target": "кластер",
+      "weight": 14
+    },
+    {
+      "source": "skymediahub",
+      "target": "модели",
+      "weight": 3
+    },
+    {
+      "source": "social",
+      "target": "бизнес",
+      "weight": 2
+    },
+    {
+      "source": "social",
+      "target": "кластер",
+      "weight": 23
+    },
+    {
+      "source": "бизнес",
+      "target": "кластер",
+      "weight": 3
+    },
+    {
+      "source": "бизнес",
+      "target": "модели",
+      "weight": 5
+    },
+    {
+      "source": "кластер",
+      "target": "модели",
+      "weight": 16
+    },
+    {
+      "source": "agents",
+      "target": "business",
+      "weight": 14
+    },
+    {
+      "source": "agents",
+      "target": "caremate",
+      "weight": 12
+    },
+    {
+      "source": "agents",
+      "target": "forth",
+      "weight": 5
+    },
+    {
+      "source": "agents",
+      "target": "funding",
+      "weight": 14
+    },
+    {
+      "source": "agents",
+      "target": "inventions",
+      "weight": 9
+    },
+    {
+      "source": "agents",
+      "target": "newsroom",
+      "weight": 9
+    },
+    {
+      "source": "agents",
+      "target": "patents",
+      "weight": 8
+    },
+    {
+      "source": "agents",
+      "target": "robotics",
+      "weight": 9
+    },
+    {
+      "source": "agents",
+      "target": "модель",
+      "weight": 8
+    },
+    {
+      "source": "agents",
+      "target": "тема",
+      "weight": 13
+    },
+    {
+      "source": "business",
+      "target": "forth",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "funding",
+      "weight": 37
+    },
+    {
+      "source": "business",
+      "target": "patents",
+      "weight": 10
+    },
+    {
+      "source": "business",
+      "target": "robotics",
+      "weight": 11
+    },
+    {
+      "source": "business",
+      "target": "модель",
+      "weight": 11
+    },
+    {
+      "source": "business",
+      "target": "тема",
+      "weight": 12
+    },
+    {
+      "source": "caremate",
+      "target": "forth",
+      "weight": 13
+    },
+    {
+      "source": "caremate",
+      "target": "funding",
+      "weight": 16
+    },
+    {
+      "source": "caremate",
+      "target": "patents",
+      "weight": 14
+    },
+    {
+      "source": "caremate",
+      "target": "robotics",
+      "weight": 28
+    },
+    {
+      "source": "caremate",
+      "target": "модель",
+      "weight": 6
+    },
+    {
+      "source": "caremate",
+      "target": "тема",
+      "weight": 20
+    },
+    {
+      "source": "forth",
+      "target": "funding",
+      "weight": 4
+    },
+    {
+      "source": "forth",
+      "target": "inventions",
+      "weight": 9
+    },
+    {
+      "source": "forth",
+      "target": "newsroom",
+      "weight": 3
+    },
+    {
+      "source": "forth",
+      "target": "patents",
+      "weight": 8
+    },
+    {
+      "source": "forth",
+      "target": "robotics",
+      "weight": 8
+    },
+    {
+      "source": "forth",
+      "target": "модель",
+      "weight": 4
+    },
+    {
+      "source": "forth",
+      "target": "тема",
+      "weight": 9
+    },
+    {
+      "source": "funding",
+      "target": "inventions",
+      "weight": 12
+    },
+    {
+      "source": "funding",
+      "target": "newsroom",
+      "weight": 9
+    },
+    {
+      "source": "funding",
+      "target": "patents",
+      "weight": 9
+    },
+    {
+      "source": "funding",
+      "target": "robotics",
+      "weight": 9
+    },
+    {
+      "source": "funding",
+      "target": "модель",
+      "weight": 6
+    },
+    {
+      "source": "funding",
+      "target": "тема",
+      "weight": 11
+    },
+    {
+      "source": "inventions",
+      "target": "patents",
+      "weight": 29
+    },
+    {
+      "source": "inventions",
+      "target": "robotics",
+      "weight": 14
+    },
+    {
+      "source": "inventions",
+      "target": "модель",
+      "weight": 4
+    },
+    {
+      "source": "inventions",
+      "target": "тема",
+      "weight": 7
+    },
+    {
+      "source": "newsroom",
+      "target": "patents",
+      "weight": 6
+    },
+    {
+      "source": "newsroom",
+      "target": "robotics",
+      "weight": 7
+    },
+    {
+      "source": "newsroom",
+      "target": "модель",
+      "weight": 4
+    },
+    {
+      "source": "newsroom",
+      "target": "тема",
+      "weight": 7
+    },
+    {
+      "source": "patents",
+      "target": "robotics",
+      "weight": 14
+    },
+    {
+      "source": "patents",
+      "target": "модель",
+      "weight": 4
+    },
+    {
+      "source": "patents",
+      "target": "тема",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "модель",
+      "weight": 6
+    },
+    {
+      "source": "robotics",
+      "target": "тема",
+      "weight": 7
+    },
+    {
+      "source": "модель",
+      "target": "тема",
+      "weight": 12
+    },
+    {
+      "source": "agents",
+      "target": "skymediahub",
+      "weight": 7
+    },
+    {
+      "source": "agents",
+      "target": "social",
+      "weight": 6
+    },
+    {
+      "source": "agents",
+      "target": "tetradrone",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "бизнес",
+      "weight": 8
+    },
+    {
+      "source": "agents",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "agents",
+      "target": "уровень",
+      "weight": 19
+    },
+    {
+      "source": "business",
+      "target": "tetradrone",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "уровень",
+      "weight": 20
+    },
+    {
+      "source": "caremate",
+      "target": "tetradrone",
+      "weight": 8
+    },
+    {
+      "source": "caremate",
+      "target": "уровень",
+      "weight": 37
+    },
+    {
+      "source": "funding",
+      "target": "skymediahub",
+      "weight": 13
+    },
+    {
+      "source": "funding",
+      "target": "social",
+      "weight": 11
+    },
+    {
+      "source": "funding",
+      "target": "tetradrone",
+      "weight": 4
+    },
+    {
+      "source": "funding",
+      "target": "бизнес",
+      "weight": 7
+    },
+    {
+      "source": "funding",
+      "target": "кластер",
+      "weight": 12
+    },
+    {
+      "source": "funding",
+      "target": "уровень",
+      "weight": 18
+    },
+    {
+      "source": "inventions",
+      "target": "tetradrone",
+      "weight": 11
+    },
+    {
+      "source": "inventions",
+      "target": "уровень",
+      "weight": 16
+    },
+    {
+      "source": "newsroom",
+      "target": "tetradrone",
+      "weight": 5
+    },
+    {
+      "source": "newsroom",
+      "target": "уровень",
+      "weight": 20
+    },
+    {
+      "source": "patents",
+      "target": "skymediahub",
+      "weight": 10
+    },
+    {
+      "source": "patents",
+      "target": "social",
+      "weight": 5
+    },
+    {
+      "source": "patents",
+      "target": "tetradrone",
+      "weight": 9
+    },
+    {
+      "source": "patents",
+      "target": "бизнес",
+      "weight": 5
+    },
+    {
+      "source": "patents",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "patents",
+      "target": "уровень",
+      "weight": 14
+    },
+    {
+      "source": "robotics",
+      "target": "skymediahub",
+      "weight": 10
+    },
+    {
+      "source": "robotics",
+      "target": "social",
+      "weight": 8
+    },
+    {
+      "source": "robotics",
+      "target": "tetradrone",
+      "weight": 6
+    },
+    {
+      "source": "robotics",
+      "target": "бизнес",
+      "weight": 9
+    },
+    {
+      "source": "robotics",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "уровень",
+      "weight": 9
+    },
+    {
+      "source": "skymediahub",
+      "target": "tetradrone",
+      "weight": 17
+    },
+    {
+      "source": "skymediahub",
+      "target": "уровень",
+      "weight": 13
+    },
+    {
+      "source": "social",
+      "target": "tetradrone",
+      "weight": 2
+    },
+    {
+      "source": "social",
+      "target": "уровень",
+      "weight": 26
+    },
+    {
+      "source": "tetradrone",
+      "target": "бизнес",
+      "weight": 4
+    },
+    {
+      "source": "tetradrone",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "tetradrone",
+      "target": "уровень",
+      "weight": 9
+    },
+    {
+      "source": "бизнес",
+      "target": "уровень",
+      "weight": 10
+    },
+    {
+      "source": "кластер",
+      "target": "уровень",
+      "weight": 47
+    },
+    {
+      "source": "forth",
+      "target": "tetradrone",
+      "weight": 8
+    },
+    {
+      "source": "forth",
+      "target": "категория",
+      "weight": 7
+    },
+    {
+      "source": "forth",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "forth",
+      "target": "новизна",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "применимость",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "статус",
+      "weight": 5
+    },
+    {
+      "source": "inventions",
+      "target": "категория",
+      "weight": 10
+    },
+    {
+      "source": "inventions",
+      "target": "концепция",
+      "weight": 7
+    },
+    {
+      "source": "inventions",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "patents",
+      "target": "категория",
+      "weight": 9
+    },
+    {
+      "source": "patents",
+      "target": "концепция",
+      "weight": 5
+    },
+    {
+      "source": "patents",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "tetradrone",
+      "target": "категория",
+      "weight": 5
+    },
+    {
+      "source": "tetradrone",
+      "target": "концепция",
+      "weight": 3
+    },
+    {
+      "source": "tetradrone",
+      "target": "новизна",
+      "weight": 2
+    },
+    {
+      "source": "tetradrone",
+      "target": "применимость",
+      "weight": 2
+    },
+    {
+      "source": "tetradrone",
+      "target": "статус",
+      "weight": 3
+    },
+    {
+      "source": "категория",
+      "target": "концепция",
+      "weight": 9
+    },
+    {
+      "source": "категория",
+      "target": "новизна",
+      "weight": 25
+    },
+    {
+      "source": "категория",
+      "target": "применимость",
+      "weight": 25
+    },
+    {
+      "source": "категория",
+      "target": "статус",
+      "weight": 25
+    },
+    {
+      "source": "концепция",
+      "target": "новизна",
+      "weight": 6
+    },
+    {
+      "source": "концепция",
+      "target": "применимость",
+      "weight": 6
+    },
+    {
+      "source": "концепция",
+      "target": "статус",
+      "weight": 6
+    },
+    {
+      "source": "новизна",
+      "target": "применимость",
+      "weight": 25
+    },
+    {
+      "source": "новизна",
+      "target": "статус",
+      "weight": 25
+    },
+    {
+      "source": "применимость",
+      "target": "статус",
+      "weight": 25
+    },
+    {
+      "source": "agents",
+      "target": "темы",
+      "weight": 9
+    },
+    {
+      "source": "business",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "funding",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "inventions",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "social",
+      "target": "темы",
+      "weight": 2
+    },
+    {
+      "source": "caremate",
+      "target": "saas",
+      "weight": 10
+    },
+    {
+      "source": "caremate",
+      "target": "бюджет",
+      "weight": 10
+    },
+    {
+      "source": "caremate",
+      "target": "связь",
+      "weight": 12
+    },
+    {
+      "source": "caremate",
+      "target": "срок",
+      "weight": 9
+    },
+    {
+      "source": "caremate",
+      "target": "темы",
+      "weight": 8
+    },
+    {
+      "source": "forth",
+      "target": "saas",
+      "weight": 3
+    },
+    {
+      "source": "forth",
+      "target": "бизнес",
+      "weight": 6
+    },
+    {
+      "source": "forth",
+      "target": "бюджет",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "модели",
+      "weight": 9
+    },
+    {
+      "source": "forth",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "forth",
+      "target": "срок",
+      "weight": 7
+    },
+    {
+      "source": "forth",
+      "target": "темы",
+      "weight": 4
+    },
+    {
+      "source": "robotics",
+      "target": "saas",
+      "weight": 3
+    },
+    {
+      "source": "robotics",
+      "target": "бюджет",
+      "weight": 8
+    },
+    {
+      "source": "robotics",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "robotics",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "robotics",
+      "target": "срок",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "темы",
+      "weight": 2
+    },
+    {
+      "source": "saas",
+      "target": "бизнес",
+      "weight": 9
+    },
+    {
+      "source": "saas",
+      "target": "бюджет",
+      "weight": 12
+    },
+    {
+      "source": "saas",
+      "target": "модели",
+      "weight": 5
+    },
+    {
+      "source": "saas",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "saas",
+      "target": "срок",
+      "weight": 15
+    },
+    {
+      "source": "saas",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "бизнес",
+      "target": "бюджет",
+      "weight": 11
+    },
+    {
+      "source": "бизнес",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "бизнес",
+      "target": "срок",
+      "weight": 11
+    },
+    {
+      "source": "бизнес",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "бюджет",
+      "target": "модели",
+      "weight": 3
+    },
+    {
+      "source": "бюджет",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "бюджет",
+      "target": "срок",
+      "weight": 19
+    },
+    {
+      "source": "бюджет",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "модели",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "срок",
+      "weight": 4
+    },
+    {
+      "source": "модели",
+      "target": "темы",
+      "weight": 8
+    },
+    {
+      "source": "связь",
+      "target": "срок",
+      "weight": 4
+    },
+    {
+      "source": "связь",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "срок",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "budget",
+      "target": "business",
+      "weight": 5
+    },
+    {
+      "source": "budget",
+      "target": "caremate",
+      "weight": 5
+    },
+    {
+      "source": "budget",
+      "target": "funding",
+      "weight": 5
+    },
+    {
+      "source": "budget",
+      "target": "saas",
+      "weight": 7
+    },
+    {
+      "source": "budget",
+      "target": "skymediahub",
+      "weight": 4
+    },
+    {
+      "source": "budget",
+      "target": "sozialplaner",
+      "weight": 8
+    },
+    {
+      "source": "budget",
+      "target": "бюджет",
+      "weight": 4
+    },
+    {
+      "source": "budget",
+      "target": "источник",
+      "weight": 2
+    },
+    {
+      "source": "budget",
+      "target": "срок",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "saas",
+      "weight": 6
+    },
+    {
+      "source": "business",
+      "target": "sozialplaner",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "бюджет",
+      "weight": 8
+    },
+    {
+      "source": "business",
+      "target": "источник",
+      "weight": 6
+    },
+    {
+      "source": "business",
+      "target": "срок",
+      "weight": 11
+    },
+    {
+      "source": "caremate",
+      "target": "sozialplaner",
+      "weight": 9
+    },
+    {
+      "source": "caremate",
+      "target": "источник",
+      "weight": 7
+    },
+    {
+      "source": "funding",
+      "target": "saas",
+      "weight": 3
+    },
+    {
+      "source": "funding",
+      "target": "sozialplaner",
+      "weight": 5
+    },
+    {
+      "source": "funding",
+      "target": "бюджет",
+      "weight": 4
+    },
+    {
+      "source": "funding",
+      "target": "срок",
+      "weight": 7
+    },
+    {
+      "source": "saas",
+      "target": "skymediahub",
+      "weight": 3
+    },
+    {
+      "source": "saas",
+      "target": "sozialplaner",
+      "weight": 12
+    },
+    {
+      "source": "saas",
+      "target": "источник",
+      "weight": 7
+    },
+    {
+      "source": "skymediahub",
+      "target": "sozialplaner",
+      "weight": 6
+    },
+    {
+      "source": "skymediahub",
+      "target": "бюджет",
+      "weight": 5
+    },
+    {
+      "source": "skymediahub",
+      "target": "источник",
+      "weight": 5
+    },
+    {
+      "source": "skymediahub",
+      "target": "срок",
+      "weight": 6
+    },
+    {
+      "source": "sozialplaner",
+      "target": "бюджет",
+      "weight": 5
+    },
+    {
+      "source": "sozialplaner",
+      "target": "источник",
+      "weight": 3
+    },
+    {
+      "source": "sozialplaner",
+      "target": "срок",
+      "weight": 5
+    },
+    {
+      "source": "бюджет",
+      "target": "источник",
+      "weight": 7
+    },
+    {
+      "source": "источник",
+      "target": "срок",
+      "weight": 7
+    },
+    {
+      "source": "budget",
+      "target": "social",
+      "weight": 10
+    },
+    {
+      "source": "budget",
+      "target": "готовности",
+      "weight": 9
+    },
+    {
+      "source": "budget",
+      "target": "каталога",
+      "weight": 2
+    },
+    {
+      "source": "budget",
+      "target": "кластер",
+      "weight": 12
+    },
+    {
+      "source": "budget",
+      "target": "тема",
+      "weight": 3
+    },
+    {
+      "source": "budget",
+      "target": "уровень",
+      "weight": 9
+    },
+    {
+      "source": "budget",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "social",
+      "target": "готовности",
+      "weight": 24
+    },
+    {
+      "source": "social",
+      "target": "каталога",
+      "weight": 2
+    },
+    {
+      "source": "social",
+      "target": "тема",
+      "weight": 4
+    },
+    {
+      "source": "social",
+      "target": "через",
+      "weight": 5
+    },
+    {
+      "source": "готовности",
+      "target": "каталога",
+      "weight": 59
+    },
+    {
+      "source": "готовности",
+      "target": "кластер",
+      "weight": 47
+    },
+    {
+      "source": "готовности",
+      "target": "тема",
+      "weight": 49
+    },
+    {
+      "source": "готовности",
+      "target": "уровень",
+      "weight": 136
+    },
+    {
+      "source": "готовности",
+      "target": "через",
+      "weight": 28
+    },
+    {
+      "source": "каталога",
+      "target": "кластер",
+      "weight": 23
+    },
+    {
+      "source": "каталога",
+      "target": "тема",
+      "weight": 55
+    },
+    {
+      "source": "каталога",
+      "target": "уровень",
+      "weight": 60
+    },
+    {
+      "source": "каталога",
+      "target": "через",
+      "weight": 20
+    },
+    {
+      "source": "кластер",
+      "target": "тема",
+      "weight": 23
+    },
+    {
+      "source": "кластер",
+      "target": "через",
+      "weight": 6
+    },
+    {
+      "source": "тема",
+      "target": "уровень",
+      "weight": 48
+    },
+    {
+      "source": "тема",
+      "target": "через",
+      "weight": 12
+    },
+    {
+      "source": "уровень",
+      "target": "через",
+      "weight": 29
+    },
+    {
+      "source": "budget",
+      "target": "автора",
+      "weight": 4
+    },
+    {
+      "source": "social",
+      "target": "автора",
+      "weight": 6
+    },
+    {
+      "source": "автора",
+      "target": "готовности",
+      "weight": 20
+    },
+    {
+      "source": "автора",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "автора",
+      "target": "уровень",
+      "weight": 21
+    },
+    {
+      "source": "saas",
+      "target": "social",
+      "weight": 9
+    },
+    {
+      "source": "saas",
+      "target": "готовности",
+      "weight": 8
+    },
+    {
+      "source": "saas",
+      "target": "кластер",
+      "weight": 8
+    },
+    {
+      "source": "saas",
+      "target": "уровень",
+      "weight": 8
+    },
+    {
+      "source": "social",
+      "target": "sozialplaner",
+      "weight": 5
+    },
+    {
+      "source": "sozialplaner",
+      "target": "готовности",
+      "weight": 11
+    },
+    {
+      "source": "sozialplaner",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "sozialplaner",
+      "target": "уровень",
+      "weight": 11
+    },
+    {
+      "source": "budget",
+      "target": "применение",
+      "weight": 2
+    },
+    {
+      "source": "social",
+      "target": "применение",
+      "weight": 5
+    },
+    {
+      "source": "автора",
+      "target": "применение",
+      "weight": 5
+    },
+    {
+      "source": "автора",
+      "target": "тема",
+      "weight": 8
+    },
+    {
+      "source": "готовности",
+      "target": "применение",
+      "weight": 25
+    },
+    {
+      "source": "кластер",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "применение",
+      "target": "тема",
+      "weight": 18
+    },
+    {
+      "source": "применение",
+      "target": "уровень",
+      "weight": 25
+    },
+    {
+      "source": "business",
+      "target": "готовности",
+      "weight": 19
+    },
+    {
+      "source": "funding",
+      "target": "готовности",
+      "weight": 17
+    },
+    {
+      "source": "social",
+      "target": "источник",
+      "weight": 4
+    },
+    {
+      "source": "готовности",
+      "target": "источник",
+      "weight": 10
+    },
+    {
+      "source": "источник",
+      "target": "кластер",
+      "weight": 4
+    },
+    {
+      "source": "источник",
+      "target": "уровень",
+      "weight": 9
+    },
+    {
+      "source": "social",
+      "target": "срок",
+      "weight": 4
+    },
+    {
+      "source": "готовности",
+      "target": "срок",
+      "weight": 3
+    },
+    {
+      "source": "кластер",
+      "target": "срок",
+      "weight": 9
+    },
+    {
+      "source": "срок",
+      "target": "уровень",
+      "weight": 3
+    },
+    {
+      "source": "caremate",
+      "target": "готовности",
+      "weight": 35
+    },
+    {
+      "source": "caremate",
+      "target": "каталога",
+      "weight": 24
+    },
+    {
+      "source": "newsroom",
+      "target": "готовности",
+      "weight": 19
+    },
+    {
+      "source": "newsroom",
+      "target": "каталога",
+      "weight": 6
+    },
+    {
+      "source": "saas",
+      "target": "автора",
+      "weight": 4
+    },
+    {
+      "source": "saas",
+      "target": "каталога",
+      "weight": 5
+    },
+    {
+      "source": "saas",
+      "target": "тема",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "каталога",
+      "weight": 11
+    },
+    {
+      "source": "готовности",
+      "target": "модели",
+      "weight": 14
+    },
+    {
+      "source": "каталога",
+      "target": "модели",
+      "weight": 18
+    },
+    {
+      "source": "модели",
+      "target": "тема",
+      "weight": 15
+    },
+    {
+      "source": "модели",
+      "target": "уровень",
+      "weight": 14
+    },
+    {
+      "source": "forth",
+      "target": "готовности",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "каталога",
+      "weight": 8
+    },
+    {
+      "source": "forth",
+      "target": "кластер",
+      "weight": 7
+    },
+    {
+      "source": "forth",
+      "target": "приоритет",
+      "weight": 2
+    },
+    {
+      "source": "forth",
+      "target": "уровень",
+      "weight": 5
+    },
+    {
+      "source": "готовности",
+      "target": "приоритет",
+      "weight": 24
+    },
+    {
+      "source": "каталога",
+      "target": "приоритет",
+      "weight": 22
+    },
+    {
+      "source": "кластер",
+      "target": "приоритет",
+      "weight": 10
+    },
+    {
+      "source": "модели",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "приоритет",
+      "target": "тема",
+      "weight": 18
+    },
+    {
+      "source": "приоритет",
+      "target": "уровень",
+      "weight": 24
+    },
+    {
+      "source": "saas",
+      "target": "через",
+      "weight": 10
+    },
+    {
+      "source": "автора",
+      "target": "через",
+      "weight": 6
+    },
+    {
+      "source": "готовности",
+      "target": "модель",
+      "weight": 15
+    },
+    {
+      "source": "каталога",
+      "target": "модель",
+      "weight": 19
+    },
+    {
+      "source": "кластер",
+      "target": "модель",
+      "weight": 7
+    },
+    {
+      "source": "модели",
+      "target": "модель",
+      "weight": 8
+    },
+    {
+      "source": "модель",
+      "target": "приоритет",
+      "weight": 4
+    },
+    {
+      "source": "модель",
+      "target": "уровень",
+      "weight": 15
+    },
+    {
+      "source": "готовности",
+      "target": "концепция",
+      "weight": 22
+    },
+    {
+      "source": "каталога",
+      "target": "концепция",
+      "weight": 15
+    },
+    {
+      "source": "кластер",
+      "target": "концепция",
+      "weight": 5
+    },
+    {
+      "source": "концепция",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "концепция",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "концепция",
+      "target": "тема",
+      "weight": 10
+    },
+    {
+      "source": "концепция",
+      "target": "уровень",
+      "weight": 24
+    },
+    {
+      "source": "готовности",
+      "target": "темы",
+      "weight": 16
+    },
+    {
+      "source": "каталога",
+      "target": "темы",
+      "weight": 24
+    },
+    {
+      "source": "кластер",
+      "target": "темы",
+      "weight": 7
+    },
+    {
+      "source": "модели",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "модель",
+      "target": "темы",
+      "weight": 7
+    },
+    {
+      "source": "модель",
+      "target": "через",
+      "weight": 5
+    },
+    {
+      "source": "темы",
+      "target": "уровень",
+      "weight": 17
+    },
+    {
+      "source": "темы",
+      "target": "через",
+      "weight": 11
+    },
+    {
+      "source": "caremate",
+      "target": "автора",
+      "weight": 6
+    },
+    {
+      "source": "caremate",
+      "target": "приоритет",
+      "weight": 9
+    },
+    {
+      "source": "автора",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "приоритет",
+      "target": "темы",
+      "weight": 4
+    },
+    {
+      "source": "inventions",
+      "target": "готовности",
+      "weight": 15
+    },
+    {
+      "source": "inventions",
+      "target": "каталога",
+      "weight": 5
+    },
+    {
+      "source": "patents",
+      "target": "готовности",
+      "weight": 13
+    },
+    {
+      "source": "patents",
+      "target": "каталога",
+      "weight": 5
+    },
+    {
+      "source": "каталога",
+      "target": "применение",
+      "weight": 19
+    },
+    {
+      "source": "применение",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "sozialplaner",
+      "target": "категория",
+      "weight": 2
+    },
+    {
+      "source": "sozialplaner",
+      "target": "концепция",
+      "weight": 2
+    },
+    {
+      "source": "готовности",
+      "target": "категория",
+      "weight": 13
+    },
+    {
+      "source": "категория",
+      "target": "кластер",
+      "weight": 2
+    },
+    {
+      "source": "категория",
+      "target": "модель",
+      "weight": 5
+    },
+    {
+      "source": "категория",
+      "target": "уровень",
+      "weight": 13
+    },
+    {
+      "source": "концепция",
+      "target": "модель",
+      "weight": 4
+    },
+    {
+      "source": "тема",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "business",
+      "target": "каталога",
+      "weight": 11
+    },
+    {
+      "source": "business",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "через",
+      "weight": 7
+    },
+    {
+      "source": "funding",
+      "target": "каталога",
+      "weight": 10
+    },
+    {
+      "source": "funding",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "funding",
+      "target": "через",
+      "weight": 6
+    },
+    {
+      "source": "приоритет",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "концепция",
+      "target": "применение",
+      "weight": 6
+    },
+    {
+      "source": "концепция",
+      "target": "через",
+      "weight": 8
+    },
+    {
+      "source": "модели",
+      "target": "применение",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "применение",
+      "target": "через",
+      "weight": 6
+    },
+    {
+      "source": "agents",
+      "target": "sozialplaner",
+      "weight": 6
+    },
+    {
+      "source": "agents",
+      "target": "готовности",
+      "weight": 18
+    },
+    {
+      "source": "agents",
+      "target": "каталога",
+      "weight": 20
+    },
+    {
+      "source": "sozialplaner",
+      "target": "каталога",
+      "weight": 6
+    },
+    {
+      "source": "sozialplaner",
+      "target": "тема",
+      "weight": 5
+    },
+    {
+      "source": "agents",
+      "target": "saas",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "модели",
+      "weight": 5
+    },
+    {
+      "source": "agents",
+      "target": "срок",
+      "weight": 6
+    },
+    {
+      "source": "inventions",
+      "target": "срок",
+      "weight": 4
+    },
+    {
+      "source": "patents",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "patents",
+      "target": "срок",
+      "weight": 4
+    },
+    {
+      "source": "forth",
+      "target": "skymediahub",
+      "weight": 9
+    },
+    {
+      "source": "skymediahub",
+      "target": "готовности",
+      "weight": 12
+    },
+    {
+      "source": "tetradrone",
+      "target": "готовности",
+      "weight": 8
+    },
+    {
+      "source": "tetradrone",
+      "target": "каталога",
+      "weight": 4
+    },
+    {
+      "source": "tetradrone",
+      "target": "тема",
+      "weight": 5
+    },
+    {
+      "source": "каталога",
+      "target": "категория",
+      "weight": 17
+    },
+    {
+      "source": "категория",
+      "target": "тема",
+      "weight": 14
+    },
+    {
+      "source": "inventions",
+      "target": "патентная",
+      "weight": 3
+    },
+    {
+      "source": "inventions",
+      "target": "применение",
+      "weight": 3
+    },
+    {
+      "source": "patents",
+      "target": "патентная",
+      "weight": 3
+    },
+    {
+      "source": "patents",
+      "target": "применение",
+      "weight": 3
+    },
+    {
+      "source": "готовности",
+      "target": "патентная",
+      "weight": 3
+    },
+    {
+      "source": "категория",
+      "target": "патентная",
+      "weight": 20
+    },
+    {
+      "source": "категория",
+      "target": "применение",
+      "weight": 13
+    },
+    {
+      "source": "патентная",
+      "target": "применение",
+      "weight": 8
+    },
+    {
+      "source": "патентная",
+      "target": "уровень",
+      "weight": 3
+    },
+    {
+      "source": "inventions",
+      "target": "бюджет",
+      "weight": 5
+    },
+    {
+      "source": "inventions",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "inventions",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "patents",
+      "target": "бюджет",
+      "weight": 5
+    },
+    {
+      "source": "patents",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "patents",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "бюджет",
+      "target": "готовности",
+      "weight": 2
+    },
+    {
+      "source": "бюджет",
+      "target": "уровень",
+      "weight": 2
+    },
+    {
+      "source": "бюджет",
+      "target": "через",
+      "weight": 5
+    },
+    {
+      "source": "готовности",
+      "target": "связь",
+      "weight": 12
+    },
+    {
+      "source": "категория",
+      "target": "связь",
+      "weight": 7
+    },
+    {
+      "source": "категория",
+      "target": "через",
+      "weight": 6
+    },
+    {
+      "source": "патентная",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "патентная",
+      "target": "через",
+      "weight": 5
+    },
+    {
+      "source": "связь",
+      "target": "уровень",
+      "weight": 13
+    },
+    {
+      "source": "связь",
+      "target": "через",
+      "weight": 10
+    },
+    {
+      "source": "каталога",
+      "target": "связь",
+      "weight": 12
+    },
+    {
+      "source": "концепция",
+      "target": "связь",
+      "weight": 8
+    },
+    {
+      "source": "связь",
+      "target": "тема",
+      "weight": 13
+    },
+    {
+      "source": "robotics",
+      "target": "готовности",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "категория",
+      "weight": 8
+    },
+    {
+      "source": "tetradrone",
+      "target": "источник",
+      "weight": 3
+    },
+    {
+      "source": "skymediahub",
+      "target": "автора",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "применение",
+      "weight": 3
+    },
+    {
+      "source": "skymediahub",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "автора",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "применение",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "skymediahub",
+      "target": "статус",
+      "weight": 6
+    },
+    {
+      "source": "skymediahub",
+      "target": "тема",
+      "weight": 6
+    },
+    {
+      "source": "skymediahub",
+      "target": "через",
+      "weight": 5
+    },
+    {
+      "source": "tetradrone",
+      "target": "через",
+      "weight": 3
+    },
+    {
+      "source": "статус",
+      "target": "тема",
+      "weight": 12
+    },
+    {
+      "source": "статус",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "newsroom",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "business",
+      "target": "связь",
+      "weight": 4
+    },
+    {
+      "source": "funding",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "tetradrone",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "tetradrone",
+      "target": "срок",
+      "weight": 6
+    },
+    {
+      "source": "срок",
+      "target": "тема",
+      "weight": 2
+    },
+    {
+      "source": "caremate",
+      "target": "категория",
+      "weight": 8
+    },
+    {
+      "source": "caremate",
+      "target": "концепция",
+      "weight": 10
+    },
+    {
+      "source": "forth",
+      "target": "источник",
+      "weight": 4
+    },
+    {
+      "source": "inventions",
+      "target": "источник",
+      "weight": 3
+    },
+    {
+      "source": "patents",
+      "target": "источник",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "категория",
+      "weight": 4
+    },
+    {
+      "source": "источник",
+      "target": "концепция",
+      "weight": 5
+    },
+    {
+      "source": "приоритет",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "caremate",
+      "target": "применение",
+      "weight": 9
+    },
+    {
+      "source": "caremate",
+      "target": "через",
+      "weight": 10
+    },
+    {
+      "source": "skymediahub",
+      "target": "каталога",
+      "weight": 3
+    },
+    {
+      "source": "skymediahub",
+      "target": "категория",
+      "weight": 6
+    },
+    {
+      "source": "автора",
+      "target": "категория",
+      "weight": 4
+    },
+    {
+      "source": "saas",
+      "target": "приоритет",
+      "weight": 2
+    },
+    {
+      "source": "social",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "business",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "funding",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "применение",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "бюджет",
+      "target": "кластер",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "business",
+      "target": "категория",
+      "weight": 3
+    },
+    {
+      "source": "funding",
+      "target": "категория",
+      "weight": 3
+    },
+    {
+      "source": "бизнес",
+      "target": "готовности",
+      "weight": 9
+    },
+    {
+      "source": "бизнес",
+      "target": "каталога",
+      "weight": 11
+    },
+    {
+      "source": "бизнес",
+      "target": "категория",
+      "weight": 2
+    },
+    {
+      "source": "бизнес",
+      "target": "модель",
+      "weight": 14
+    },
+    {
+      "source": "бизнес",
+      "target": "тема",
+      "weight": 6
+    },
+    {
+      "source": "agents",
+      "target": "применение",
+      "weight": 7
+    },
+    {
+      "source": "agents",
+      "target": "приоритет",
+      "weight": 5
+    },
+    {
+      "source": "agents",
+      "target": "через",
+      "weight": 7
+    },
+    {
+      "source": "sozialplaner",
+      "target": "применение",
+      "weight": 6
+    },
+    {
+      "source": "sozialplaner",
+      "target": "приоритет",
+      "weight": 3
+    },
+    {
+      "source": "sozialplaner",
+      "target": "через",
+      "weight": 9
+    },
+    {
+      "source": "newsroom",
+      "target": "приоритет",
+      "weight": 2
+    },
+    {
+      "source": "newsroom",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "saas",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "бизнес",
+      "target": "приоритет",
+      "weight": 2
+    },
+    {
+      "source": "концепция",
+      "target": "темы",
+      "weight": 5
+    },
+    {
+      "source": "robotics",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "бизнес",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "бюджет",
+      "weight": 4
+    },
+    {
+      "source": "источник",
+      "target": "через",
+      "weight": 3
+    },
+    {
+      "source": "срок",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "sozialplaner",
+      "target": "бизнес",
+      "weight": 2
+    },
+    {
+      "source": "бизнес",
+      "target": "через",
+      "weight": 3
+    },
+    {
+      "source": "бизнес",
+      "target": "применение",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "связь",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "концепция",
+      "weight": 3
+    },
+    {
+      "source": "бизнес",
+      "target": "источник",
+      "weight": 6
+    },
+    {
+      "source": "категория",
+      "target": "темы",
+      "weight": 2
+    },
+    {
+      "source": "sozialplaner",
+      "target": "автора",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "бюджет",
+      "weight": 2
+    },
+    {
+      "source": "автора",
+      "target": "срок",
+      "weight": 2
+    },
+    {
+      "source": "saas",
+      "target": "модель",
+      "weight": 6
+    },
+    {
+      "source": "бюджет",
+      "target": "модель",
+      "weight": 10
+    },
+    {
+      "source": "источник",
+      "target": "модель",
+      "weight": 6
+    },
+    {
+      "source": "модель",
+      "target": "срок",
+      "weight": 10
+    },
+    {
+      "source": "robotics",
+      "target": "источник",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "связь",
+      "weight": 2
+    },
+    {
+      "source": "newsroom",
+      "target": "saas",
+      "weight": 4
+    },
+    {
+      "source": "newsroom",
+      "target": "бюджет",
+      "weight": 2
+    },
+    {
+      "source": "newsroom",
+      "target": "источник",
+      "weight": 3
+    },
+    {
+      "source": "newsroom",
+      "target": "срок",
+      "weight": 3
+    },
+    {
+      "source": "skymediahub",
+      "target": "модель",
+      "weight": 2
+    },
+    {
+      "source": "tetradrone",
+      "target": "бюджет",
+      "weight": 4
+    },
+    {
+      "source": "tetradrone",
+      "target": "модель",
+      "weight": 2
+    },
+    {
+      "source": "skymediahub",
+      "target": "карточка",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "новизна",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "патентная",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "применимость",
+      "weight": 4
+    },
+    {
+      "source": "skymediahub",
+      "target": "суть",
+      "weight": 4
+    },
+    {
+      "source": "карточка",
+      "target": "каталога",
+      "weight": 14
+    },
+    {
+      "source": "карточка",
+      "target": "категория",
+      "weight": 24
+    },
+    {
+      "source": "карточка",
+      "target": "новизна",
+      "weight": 24
+    },
+    {
+      "source": "карточка",
+      "target": "патентная",
+      "weight": 19
+    },
+    {
+      "source": "карточка",
+      "target": "применение",
+      "weight": 12
+    },
+    {
+      "source": "карточка",
+      "target": "применимость",
+      "weight": 24
+    },
+    {
+      "source": "карточка",
+      "target": "статус",
+      "weight": 24
+    },
+    {
+      "source": "карточка",
+      "target": "суть",
+      "weight": 23
+    },
+    {
+      "source": "карточка",
+      "target": "тема",
+      "weight": 12
+    },
+    {
+      "source": "карточка",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "каталога",
+      "target": "новизна",
+      "weight": 12
+    },
+    {
+      "source": "каталога",
+      "target": "патентная",
+      "weight": 8
+    },
+    {
+      "source": "каталога",
+      "target": "применимость",
+      "weight": 12
+    },
+    {
+      "source": "каталога",
+      "target": "статус",
+      "weight": 12
+    },
+    {
+      "source": "каталога",
+      "target": "суть",
+      "weight": 11
+    },
+    {
+      "source": "категория",
+      "target": "суть",
+      "weight": 23
+    },
+    {
+      "source": "новизна",
+      "target": "патентная",
+      "weight": 18
+    },
+    {
+      "source": "новизна",
+      "target": "применение",
+      "weight": 11
+    },
+    {
+      "source": "новизна",
+      "target": "суть",
+      "weight": 23
+    },
+    {
+      "source": "новизна",
+      "target": "тема",
+      "weight": 11
+    },
+    {
+      "source": "новизна",
+      "target": "через",
+      "weight": 3
+    },
+    {
+      "source": "патентная",
+      "target": "применимость",
+      "weight": 18
+    },
+    {
+      "source": "патентная",
+      "target": "статус",
+      "weight": 18
+    },
+    {
+      "source": "патентная",
+      "target": "суть",
+      "weight": 18
+    },
+    {
+      "source": "патентная",
+      "target": "тема",
+      "weight": 7
+    },
+    {
+      "source": "применение",
+      "target": "применимость",
+      "weight": 11
+    },
+    {
+      "source": "применение",
+      "target": "статус",
+      "weight": 11
+    },
+    {
+      "source": "применение",
+      "target": "суть",
+      "weight": 10
+    },
+    {
+      "source": "применимость",
+      "target": "суть",
+      "weight": 23
+    },
+    {
+      "source": "применимость",
+      "target": "тема",
+      "weight": 11
+    },
+    {
+      "source": "применимость",
+      "target": "через",
+      "weight": 3
+    },
+    {
+      "source": "статус",
+      "target": "суть",
+      "weight": 23
+    },
+    {
+      "source": "суть",
+      "target": "тема",
+      "weight": 11
+    },
+    {
+      "source": "суть",
+      "target": "через",
+      "weight": 4
+    },
+    {
+      "source": "карточка",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "новизна",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "применимость",
+      "target": "связь",
+      "weight": 5
+    },
+    {
+      "source": "связь",
+      "target": "статус",
+      "weight": 5
+    },
+    {
+      "source": "связь",
+      "target": "суть",
+      "weight": 5
+    },
+    {
+      "source": "robotics",
+      "target": "карточка",
+      "weight": 8
+    },
+    {
+      "source": "robotics",
+      "target": "новизна",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "патентная",
+      "weight": 6
+    },
+    {
+      "source": "robotics",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "robotics",
+      "target": "применимость",
+      "weight": 7
+    },
+    {
+      "source": "robotics",
+      "target": "статус",
+      "weight": 8
+    },
+    {
+      "source": "robotics",
+      "target": "суть",
+      "weight": 6
+    },
+    {
+      "source": "caremate",
+      "target": "карточка",
+      "weight": 8
+    },
+    {
+      "source": "caremate",
+      "target": "новизна",
+      "weight": 6
+    },
+    {
+      "source": "caremate",
+      "target": "патентная",
+      "weight": 5
+    },
+    {
+      "source": "caremate",
+      "target": "применимость",
+      "weight": 6
+    },
+    {
+      "source": "caremate",
+      "target": "статус",
+      "weight": 7
+    },
+    {
+      "source": "caremate",
+      "target": "суть",
+      "weight": 5
+    },
+    {
+      "source": "карточка",
+      "target": "концепция",
+      "weight": 6
+    },
+    {
+      "source": "концепция",
+      "target": "патентная",
+      "weight": 4
+    },
+    {
+      "source": "концепция",
+      "target": "суть",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "карточка",
+      "weight": 5
+    },
+    {
+      "source": "forth",
+      "target": "патентная",
+      "weight": 3
+    },
+    {
+      "source": "forth",
+      "target": "суть",
+      "weight": 5
+    },
+    {
+      "source": "business",
+      "target": "концепция",
+      "weight": 4
+    },
+    {
+      "source": "business",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "funding",
+      "target": "концепция",
+      "weight": 3
+    },
+    {
+      "source": "funding",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "карточка",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "категория",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "новизна",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "патентная",
+      "weight": 2
+    },
+    {
+      "source": "agents",
+      "target": "применимость",
+      "weight": 4
+    },
+    {
+      "source": "agents",
+      "target": "статус",
+      "weight": 5
+    },
+    {
+      "source": "agents",
+      "target": "суть",
+      "weight": 3
+    },
+    {
+      "source": "суть",
+      "target": "темы",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "карточка",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "новизна",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "применимость",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "статус",
+      "weight": 3
+    },
+    {
+      "source": "автора",
+      "target": "суть",
+      "weight": 3
+    },
+    {
+      "source": "источник",
+      "target": "карточка",
+      "weight": 3
+    },
+    {
+      "source": "источник",
+      "target": "новизна",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "патентная",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "применение",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "применимость",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "суть",
+      "weight": 2
+    },
+    {
+      "source": "карточка",
+      "target": "модель",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "новизна",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "патентная",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "применимость",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "модель",
+      "target": "суть",
+      "weight": 3
+    },
+    {
+      "source": "robotics",
+      "target": "каталога",
+      "weight": 6
+    },
+    {
+      "source": "карточка",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "категория",
+      "target": "модели",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "новизна",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "патентная",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "применимость",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "статус",
+      "weight": 2
+    },
+    {
+      "source": "модели",
+      "target": "суть",
+      "weight": 3
+    },
+    {
+      "source": "agents",
+      "target": "автора",
+      "weight": 3
+    },
+    {
+      "source": "newsroom",
+      "target": "применение",
+      "weight": 4
+    },
+    {
+      "source": "автора",
+      "target": "модель",
+      "weight": 2
+    },
+    {
+      "source": "business",
+      "target": "автора",
+      "weight": 2
+    },
+    {
+      "source": "newsroom",
+      "target": "автора",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "каталога",
+      "weight": 2
+    },
+    {
+      "source": "источник",
+      "target": "тема",
+      "weight": 4
+    },
+    {
+      "source": "готовности",
+      "target": "карточка",
+      "weight": 2
+    },
+    {
+      "source": "карточка",
+      "target": "уровень",
+      "weight": 2
+    },
+    {
+      "source": "newsroom",
+      "target": "sozialplaner",
+      "weight": 2
+    },
+    {
+      "source": "sozialplaner",
+      "target": "tetradrone",
+      "weight": 2
+    },
+    {
+      "source": "бюджет",
+      "target": "каталога",
+      "weight": 5
+    },
+    {
+      "source": "каталога",
+      "target": "срок",
+      "weight": 5
+    }
+  ],
+  "generated": "2026-06-05"
+}

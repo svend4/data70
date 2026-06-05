@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kbtool"
+version = "0.1.0"
+description = "Portable, dependency-free CLI to audit and structure large chaotic markdown/text knowledge bases"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "svend4" }]
+keywords = ["knowledge-base", "markdown", "audit", "clustering", "rag", "documentation"]
+dependencies = []  # stdlib-only by design
+
+[project.optional-dependencies]
+# Эти включают расширенные функции, но ядро работает без них
+semantic = ["sentence-transformers"]
+dev = ["pytest"]
+
+[project.scripts]
+kbtool = "kbtool.cli:main"
+
+[project.urls]
+Repository = "https://github.com/svend4/data70"
+
+[tool.setuptools.packages.find]
+include = ["kbtool*"]

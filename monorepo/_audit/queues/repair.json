@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "cluster": "contacts",
+    "issues": [
+      "missing_README.md"
+    ]
+  },
+  {
+    "cluster": "snapshots",
+    "issues": [
+      "missing_README.md"
+    ]
+  }
+]

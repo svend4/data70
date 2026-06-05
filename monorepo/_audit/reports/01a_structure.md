@@ -2,8 +2,8 @@
 
 ## Сводка
 
-- Кластеров проверено: **14**
-- Кластеров с дефектами: **0**
+- Кластеров проверено: **16**
+- Кластеров с дефектами: **2**
 - Кластеров OK: **14**
 
 ## По кластерам
@@ -23,8 +23,14 @@
 | `10_health_accessibility` | full | 14 | OK |
 | `88_topics_full` | misc | 0 | OK |
 | `99_archive_links` | misc | 0 | OK |
+| `contacts` | misc | 0 | 1 issues |
+| `snapshots` | misc | 0 | 1 issues |
 | `superprojects` | misc | 5 | OK |
 
 ## Дефекты
 
-Не обнаружено.
+### `contacts`
+- missing_README.md
+
+### `snapshots`
+- missing_README.md

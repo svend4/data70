@@ -6,12 +6,14 @@ _Создан оркестратором_
 
 - Кластеров: **13**
 - Подпапок-тем: **172**
-- Markdown-файлов: **214**
-- Объём: **694,078** байт
+- Markdown-файлов: **215**
+- Объём: **699,551** байт
 
 ## 2. Структура (Фаза 1a)
 
-- Кластеров с дефектами: **0**
+- Кластеров с дефектами: **2**
+  - `contacts`: missing_README.md
+  - `snapshots`: missing_README.md
 
 ## 3. Ссылки (Фаза 1b)
 
@@ -62,3 +64,11 @@ _Создан оркестратором_
 - [05_fidelity.md](05_fidelity.md)
 - [05_fidelity_findings.md](05_fidelity_findings.md)
 - [06_completeness.md](06_completeness.md)
+- [06_completeness_findings.md](06_completeness_findings.md)
+- [MACHINE_AUDIT.md](MACHINE_AUDIT.md)
+- [full_machine_audit.md](full_machine_audit.md)
+- [machine_broken_links.md](machine_broken_links.md)
+- [machine_clusters.md](machine_clusters.md)
+- [machine_concept_graph.md](machine_concept_graph.md)
+- [machine_contradictions.md](machine_contradictions.md)
+- [machine_duplicates.md](machine_duplicates.md)

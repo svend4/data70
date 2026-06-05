@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T11:29:08.786625Z",
+  "generated_at": "2026-06-05T14:15:43.638008Z",
   "root": "/home/user/data70/monorepo",
   "clusters": {
     "00_index": {
@@ -1504,9 +1504,9 @@
       "has_map": false,
       "has_next_steps": false,
       "topics": {},
-      "markdown_files": 1,
-      "bytes": 4091,
-      "lines": 77
+      "markdown_files": 2,
+      "bytes": 9564,
+      "lines": 126
     },
     "99_archive_links": {
       "path": "99_archive_links",
@@ -1517,6 +1517,28 @@
       "markdown_files": 1,
       "bytes": 4029,
       "lines": 77
+    },
+    "contacts": {
+      "path": "contacts",
+      "has_readme": false,
+      "has_map": false,
+      "has_next_steps": false,
+      "topics": {},
+      "markdown_files": 0,
+      "bytes": 0,
+      "lines": 0,
+      "misc": true
+    },
+    "snapshots": {
+      "path": "snapshots",
+      "has_readme": false,
+      "has_map": false,
+      "has_next_steps": false,
+      "topics": {},
+      "markdown_files": 0,
+      "bytes": 0,
+      "lines": 0,
+      "misc": true
     },
     "superprojects": {
       "path": "superprojects",
@@ -1574,8 +1596,8 @@
   "totals": {
     "clusters": 13,
     "topic_dirs": 172,
-    "markdown_files": 214,
-    "total_bytes": 694078,
-    "total_lines": 13916
+    "markdown_files": 215,
+    "total_bytes": 699551,
+    "total_lines": 13965
   }
 }

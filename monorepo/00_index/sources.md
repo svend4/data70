@@ -50,8 +50,8 @@
 
 ```markdown
 [Источник: analysis_03_inventions.md](../../analysis_03_inventions.md)
-[Каталог 88 тем](../../00_index/catalog_88_topics.md)
-[Папка 01_social_law](../../01_social_law/)
+[Каталог 88 тем](catalog_88_topics.md)
+[Папка 01_social_law](../01_social_law/)
 ```
 
 ## Что НЕ делается

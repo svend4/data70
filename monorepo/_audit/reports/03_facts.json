@@ -1,0 +1,7975 @@
+{
+  "by_file": [
+    {
+      "path": "00_index/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SkyMediaHub"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/catalog_88_topics.md",
+      "entities": [
+        "CareMate",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/clusters_overview.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "RobotZoo",
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★",
+        "★★★★",
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/inventions_index.md",
+      "entities": [
+        "CareMate",
+        "FlamberRotor",
+        "ForthSwarm",
+        "NeuroOS",
+        "NeuroPortal",
+        "RobotZoo",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★★★",
+        "★★★★★",
+        "★★★",
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/map.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "NeuroOS",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/superprojects.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "ForthSwarm",
+        "NeuroOS",
+        "NeuroPortal",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "100-150K",
+        "35-50K",
+        "140-200K",
+        "25-35K",
+        "150-220K",
+        "40K",
+        "150-200K",
+        "35K",
+        "150-200K",
+        "15-40K",
+        "100-150K",
+        "35-50K",
+        "140-200K",
+        "25-35K",
+        "150-220K",
+        "40K",
+        "150-200K",
+        "35K",
+        "150-200K",
+        "15-40K"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "24",
+        "5-6",
+        "24",
+        "5-6",
+        "24",
+        "4-5",
+        "24",
+        "6-8",
+        "24",
+        "4-5",
+        "24",
+        "5-6",
+        "28",
+        "5-6",
+        "24",
+        "4-5",
+        "30",
+        "6-8",
+        "28"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "00_index/three_waves_roadmap.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "RobotZoo",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "0 ",
+        "1",
+        "200-500 ",
+        "1-3K",
+        "0 ",
+        "250-150",
+        "20-40K",
+        "3-5K",
+        "5-10K",
+        "100-150K",
+        "500K",
+        "150-220K",
+        "200K",
+        "0",
+        "30K",
+        "500",
+        "150K",
+        "0",
+        "10K",
+        "200K"
+      ],
+      "timelines_mes": [
+        "0-6",
+        "6-18",
+        "4-5",
+        "3-4",
+        "3",
+        "4-5",
+        "18-36",
+        "18",
+        "12",
+        "24-36",
+        "5",
+        "12",
+        "18",
+        "3",
+        "36",
+        "1",
+        "2",
+        "3",
+        "12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/01_persoenliches_budget/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "19\n\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 8 SGB IX",
+        "§ 78 SGB IX",
+        "§ 14 SGB IX",
+        "§ 29 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/02_widerspruch_templates/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [
+        "1"
+      ],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 8 SGB IX",
+        "§ 14 SGB IX",
+        "Art. 19 UN-BRK",
+        "§ 35 SGB X"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/03_klage_sozialgericht/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [
+        "1",
+        "1"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/04_pflege_assistenz/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 78 SGB IX",
+        "§ 84 SGB IX",
+        "§ 64b SGB XII"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/05_sgb_paragraphs/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 8 SGB IX",
+        "Art. 19 UN-BRK",
+        "§ 14 SGB IX",
+        "§ 29 SGB IX",
+        "§ 35 SGB X"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/06_kostenschieberei/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 45 SGB X",
+        "§ 24 SGB X",
+        "§ 48 SGB X",
+        "§ 43 SGB X",
+        "§ 14 SGB IX",
+        "§ 35 SGB X"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/07_master_dossier/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/08_70_modules_catalog/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/09_bsg_judgements/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB IX",
+        "§ 84 SGB IX",
+        "§ 90 SGB XII"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/10_ru_de_comparison/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [
+        "§ 219 SGB IX",
+        "§ 99 SGB IX",
+        "§ 40 SGB XI",
+        "§ 84 SGB IX",
+        "§ 29 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/11_medical_letters/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB XI"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/12_assistive_services_50/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 78 SGB IX",
+        "§ 64b SGB XII",
+        "§ 49 SGB IX",
+        "§ 36 SGB XII",
+        "§ 14 SGB XI",
+        "§ 113 SGB IX",
+        "§ 40 SGB XI"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/13_legal_strategy/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [
+        "1",
+        "1",
+        "1"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB IX",
+        "§ 35 SGB X"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/14_un_brk_agg/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [
+        "Art. 19 UN-BRK"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/15_kindergeld_ao/README.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [
+        "§ 90 SGB XII"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "29-99"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [
+        "§ 14 SGB IX",
+        "§ 29 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/map.md",
+      "entities": [],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★★",
+        "★★★★",
+        "★★★★★",
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB IX",
+        "§ 29 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "01_social_law/next_steps.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "29-49\n   ",
+        "50-150 ",
+        "29-99",
+        "150K",
+        "500-200",
+        "299"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12",
+        "4-5",
+        "12-24"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/01_micro_agents/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/02_local_offline_models/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/03_one_bit_llm/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/04_mcp_protocol/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/05_collaboration_llm/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/06_sparse_moe/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/07_lcm_cognitive/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/08_kblam/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/09_dat_rag/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/10_neurosymbolic/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/12_kolmogorov_nn/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/13_three_level_arch/README.md",
+      "entities": [
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/14_bees_ants_bio/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/15_warmwind_os/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/16_exo_p2p/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "0\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/17_helix_parallelism/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/18_cim_chips/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/19_npu_risc_v/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/20_decentralized_compute/README.md",
+      "entities": [
+        "DigitalCaravan"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/21_livemcp_bench/README.md",
+      "entities": [
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/22_semantic_bus/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/23_vast_ai_os/README.md",
+      "entities": [
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/24_cloud_ru_evolution/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/25_ollama_local/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/map.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "02_ai_agents/next_steps.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "100-150K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12",
+        "12-36"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+      "entities": [
+        "FlamberRotor",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "500-200",
+        "200K"
+      ],
+      "timelines_mes": [
+        "12-24",
+        "6-12"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/02_tetradrone/README.md",
+      "entities": [
+        "TetraDrone"
+      ],
+      "budgets": [
+        "5",
+        "5 ",
+        "5 ",
+        "100-200 ",
+        "50-100 ",
+        "30-50 ",
+        "20-40 ",
+        "350-500 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/03_flamberrotor/README.md",
+      "entities": [
+        "FlamberRotor"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★",
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/05_baba_yaga/README.md",
+      "entities": [
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/08_4k_compound_camera/README.md",
+      "entities": [
+        "ForthSwarm",
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/11_agro_scout/README.md",
+      "entities": [
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "500-200",
+        "2-5 ",
+        "500-200",
+        "49-199"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/14_dual_use_concept/README.md",
+      "entities": [
+        "FlamberRotor",
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "5M",
+        "4M",
+        "0",
+        "15M",
+        "200K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/15_partner_letters/README.md",
+      "entities": [
+        "FlamberRotor",
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "200K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/16_fraunhofer_techhub/README.md",
+      "entities": [
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/17_bundeswehr_conversion/README.md",
+      "entities": [
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/README.md",
+      "entities": [
+        "FlamberRotor",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "200K",
+        "2"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "03_drones_skymediahub/next_steps.md",
+      "entities": [
+        "FlamberRotor",
+        "ForthSwarm",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "50",
+        "100",
+        "200",
+        "200K",
+        "500-200",
+        "500K",
+        "500K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12",
+        "12-36",
+        "18"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/01_15_robot_zoo/README.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo"
+      ],
+      "budgets": [
+        "30 000 ",
+        "100 000 ",
+        "50-500 ",
+        "750-750"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/02_caremate_hub/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "20-40K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/03_wuxing_architecture/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/04_orchestrator_ros2/README.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/07_table_chef_robot/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "150",
+        "150",
+        "100K",
+        "150"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/08_agro_robots/README.md",
+      "entities": [
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "5K",
+        "10-50",
+        "99-499",
+        "2-5"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/09_105_care_scenarios/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "19\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB XI"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/10_pflege_ai/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "50",
+        "20-40K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/11_robot_limbs_principle/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/12_yaml_manifests/README.md",
+      "entities": [
+        "RobotZoo"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/13_swarm_charging_safety/README.md",
+      "entities": [
+        "RobotZoo"
+      ],
+      "budgets": [
+        "5-15K",
+        "10-25K",
+        "10-20K",
+        "4K",
+        "20-40K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/14_contract_net_protocol/README.md",
+      "entities": [
+        "RobotZoo"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/README.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo",
+        "WILOS"
+      ],
+      "budgets": [
+        "50-500",
+        "50 000\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/map.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★",
+        "★★★",
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "04_robotics_caremate/next_steps.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo"
+      ],
+      "budgets": [
+        "1-3K",
+        "3-5K",
+        "5-15K",
+        "99-499\n   ",
+        "100K",
+        "150-220K",
+        "0",
+        "500K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12",
+        "12-36"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/01_internet_function_os/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "100-150K",
+        "0 ",
+        "9",
+        "19",
+        "499"
+      ],
+      "timelines_mes": [
+        "1",
+        "1",
+        "2-3",
+        "1",
+        "1",
+        "1",
+        "6-9"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/02_smart_office_proto/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "3-5K",
+        "16K",
+        "0 ",
+        "9-19",
+        "29-49"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/03_n8n_marketplace/README.md",
+      "entities": [],
+      "budgets": [
+        "0 ",
+        "5-15 ",
+        "15-50 ",
+        "50-200 ",
+        "9-29",
+        "9-29",
+        "100-200",
+        "49"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/04_make_red_hat/README.md",
+      "entities": [],
+      "budgets": [
+        "499",
+        "1",
+        "5K",
+        "2-5K",
+        "299-999 ",
+        "299\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/05_pdfgenie_docpilot/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/06_yaml_infoconveyor/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/07_bytebot_desktop/README.md",
+      "entities": [
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/08_b2b_neuronet/README.md",
+      "entities": [
+        "NeuroOS",
+        "NeuroPortal"
+      ],
+      "budgets": [
+        "0 ",
+        "29",
+        "99",
+        "499"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/09_virtual_office/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "29 ",
+        "99 ",
+        "499 "
+      ],
+      "timelines_mes": [
+        "10-30"
+      ],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/10_dropshipping_make/README.md",
+      "entities": [],
+      "budgets": [
+        "19 ",
+        "39 ",
+        "79 ",
+        "299 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/11_smartphone_microserver/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "ForthSwarm",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "200",
+        "200"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/12_warmwind_browser_os/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/13_oslo_manual_recombinant/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/14_function_registry/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "0"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/15_blueprints_oneclick/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/16_mvp_backlog/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "80-120K",
+        "2-5K",
+        "0 ",
+        "100-150K",
+        "150K",
+        "150",
+        "72K",
+        "30K"
+      ],
+      "timelines_mes": [
+        "6-9",
+        "1",
+        "1",
+        "2-3",
+        "1",
+        "1",
+        "1",
+        "5",
+        "1",
+        "5",
+        "4-5",
+        "5"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "05_software_automation/next_steps.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "5-10K",
+        "3-5K",
+        "100-150K",
+        "1K",
+        "300K",
+        "5K",
+        "5K",
+        "15-30K",
+        "20-50K",
+        "10-20K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3",
+        "3-4",
+        "3-12",
+        "12-36"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/01_three_waves_strategy/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "RobotZoo",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "1",
+        "1-3K",
+        "250-150",
+        "0-500\n",
+        "30K",
+        "150K",
+        "3-5K",
+        "5-10K",
+        "100-150K",
+        "500K",
+        "150-220K",
+        "200K",
+        "300K",
+        "1M",
+        "0",
+        "30K",
+        "500",
+        "150K",
+        "0",
+        "10K"
+      ],
+      "timelines_mes": [
+        "0-6",
+        "6-18",
+        "18-36",
+        "4-5",
+        "3-4",
+        "3",
+        "4-5",
+        "18",
+        "12",
+        "24-36",
+        "12-18",
+        "5",
+        "12",
+        "18",
+        "3",
+        "36"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/02_exist_gruenderstipendium/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "150 000 ",
+        "3 000",
+        "2 500",
+        "2 000",
+        "1 000",
+        "100K",
+        "30K",
+        "150",
+        "100K",
+        "30K",
+        "130K",
+        "28K"
+      ],
+      "timelines_mes": [
+        "12",
+        "12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/03_bayern_innovativ/README.md",
+      "entities": [
+        "FlamberRotor",
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "200 000\n",
+        "500K",
+        "100K",
+        "200K",
+        "200K",
+        "200K",
+        "4M",
+        "0"
+      ],
+      "timelines_mes": [
+        "12-18"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/04_horizon_eic/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "NeuroOS",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "95",
+        "2",
+        "15M",
+        "4M",
+        "2",
+        "15M",
+        "4M",
+        "2",
+        "500K",
+        "2-4M",
+        "500K",
+        "10-30K"
+      ],
+      "timelines_mes": [
+        "18-24"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/05_aal_programme/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "500 000 ",
+        "25-30M",
+        "500K",
+        "20-40K",
+        "0"
+      ],
+      "timelines_mes": [
+        "24-36"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/06_kickstarter/README.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "30K",
+        "99-199 ",
+        "149-299 ",
+        "30K",
+        "299-599\n",
+        "100K",
+        "499-999\n",
+        "50K",
+        "100K",
+        "60-70K"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/07_microfranchise/README.md",
+      "entities": [
+        "DigitalCaravan"
+      ],
+      "budgets": [
+        "5-50",
+        "19 ",
+        "39 ",
+        "99 ",
+        "299 ",
+        "199 ",
+        "19-99\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/08_b2b_metaworld/README.md",
+      "entities": [],
+      "budgets": [
+        "0 ",
+        "99",
+        "299",
+        "999"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/09_token_monetization/README.md",
+      "entities": [
+        "DigitalCaravan",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/10_geoarb/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan"
+      ],
+      "budgets": [
+        "80-150",
+        "500-150",
+        "500-100",
+        "100",
+        "200",
+        "350"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/11_digital_caravan/README.md",
+      "entities": [
+        "DigitalCaravan"
+      ],
+      "budgets": [
+        "5-20 ",
+        "2-10 ",
+        "14",
+        "8K",
+        "25-35K",
+        "100-140K",
+        "15-25K",
+        "3-5K",
+        "140-200K"
+      ],
+      "timelines_mes": [
+        "5",
+        "12"
+      ],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": [
+        "8K",
+        "25-35K"
+      ]
+    },
+    {
+      "path": "06_business_funding/12_invest_zuschuss/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "100K",
+        "10 000 ",
+        "100K",
+        "10K",
+        "500K",
+        "100K",
+        "300K",
+        "50K",
+        "100K"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/13_sozialplaner_saas/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "29-99",
+        "30K",
+        "29-49",
+        "29-49 ",
+        "99",
+        "500-200",
+        "19-29",
+        "29",
+        "49",
+        "99",
+        "499"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "4-5"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/14_persoenliches_budget_book/README.md",
+      "entities": [],
+      "budgets": [
+        "29-49\n",
+        "0 ",
+        "1 500 ",
+        "10 000",
+        "29 ",
+        "29 ",
+        "49 ",
+        "99 ",
+        "29 ",
+        "1 450 ",
+        "29 ",
+        "4 350 ",
+        "39 ",
+        "11 700 "
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [
+        "§ 14 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/15_telegram_bot_sozialhelper/README.md",
+      "entities": [],
+      "budgets": [
+        "4",
+        "200-500\n",
+        "1-3K",
+        "0 ",
+        "4",
+        "19",
+        "10-20",
+        "4",
+        "245",
+        "980",
+        "29",
+        "29-99"
+      ],
+      "timelines_mes": [
+        "3",
+        "3",
+        "3",
+        "12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/16_consulting_upwork/README.md",
+      "entities": [],
+      "budgets": [
+        "50-150 ",
+        "250-150",
+        "50-80 ",
+        "60-90 ",
+        "120-180 ",
+        "150-300 ",
+        "200-400 ",
+        "60-100 "
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-6",
+        "6-12",
+        "2-3"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/17_gruendergeld_sachsen/README.md",
+      "entities": [],
+      "budgets": [
+        "25 000\n",
+        "25K",
+        "100K",
+        "25K",
+        "100K",
+        "5M",
+        "10K"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/18_neuro_os_freemium/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "100-150K",
+        "0 ",
+        "9",
+        "19",
+        "499",
+        "5-50 ",
+        "10-100 ",
+        "0",
+        "1",
+        "12K",
+        "35-50K",
+        "40K",
+        "80-120K",
+        "2-5K",
+        "1-3K",
+        "100-150K"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "24",
+        "5"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "12K",
+        "35-50K",
+        "40K"
+      ]
+    },
+    {
+      "path": "06_business_funding/19_caremate_b2b2c/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "150-220K",
+        "14",
+        "29",
+        "4",
+        "99-299\n",
+        "50-100",
+        "50",
+        "2-5 м",
+        "8K",
+        "40K",
+        "100-140K",
+        "5-10K",
+        "20-40K",
+        "1-3K",
+        "150-220K",
+        "20-40K",
+        "5-15K",
+        "50-200K",
+        "500K",
+        "150K"
+      ],
+      "timelines_mes": [
+        "5-6",
+        "3-12",
+        "6-18",
+        "3-6"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "8K",
+        "40K"
+      ]
+    },
+    {
+      "path": "06_business_funding/20_neuroportal_content/README.md",
+      "entities": [
+        "NeuroPortal"
+      ],
+      "budgets": [
+        "150-200K",
+        "0 ",
+        "7",
+        "19",
+        "199-999",
+        "5K",
+        "12K",
+        "35K",
+        "50K",
+        "120-160K",
+        "3-8K",
+        "1-3K",
+        "150-200K"
+      ],
+      "timelines_mes": [
+        "4-5"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "5K",
+        "12K",
+        "35K"
+      ]
+    },
+    {
+      "path": "06_business_funding/21_forth_swarm_hardware/README.md",
+      "entities": [
+        "ForthSwarm",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "150-200K",
+        "2 500-5 000 ",
+        "8 000-15 000 ",
+        "49-199",
+        "1-5 ",
+        "500-200",
+        "2-5",
+        "15M",
+        "50-150 ",
+        "500-200",
+        "5\n\n",
+        "15K",
+        "40K",
+        "120-160K",
+        "10-20K",
+        "5-10K",
+        "150-200K",
+        "200K",
+        "0",
+        "2M"
+      ],
+      "timelines_mes": [
+        "6-8",
+        "3-6"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "15K",
+        "40K"
+      ]
+    },
+    {
+      "path": "06_business_funding/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "ForthSwarm",
+        "NeuroOS",
+        "NeuroPortal",
+        "SkyMediaHub",
+        "SozialPlaner",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "150K",
+        "200K",
+        "2",
+        "500K",
+        "25K",
+        "150K",
+        "200K",
+        "2",
+        "500K",
+        "25K"
+      ],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/map.md",
+      "entities": [
+        "CareMate",
+        "ForthSwarm"
+      ],
+      "budgets": [
+        "0",
+        "2K",
+        "1",
+        "200-500",
+        "1-3K",
+        "0",
+        "250-150",
+        "30K",
+        "150K",
+        "3-5K",
+        "5-10K",
+        "100-150K",
+        "200K",
+        "0",
+        "30-100K",
+        "150-200K",
+        "150K",
+        "25K",
+        "200K",
+        "500K"
+      ],
+      "timelines_mes": [
+        "0-6",
+        "0-12",
+        "0-12",
+        "6-18",
+        "12-24",
+        "12-24"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "06_business_funding/next_steps.md",
+      "entities": [
+        "CareMate",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [
+        "6"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/01_tetradrone/README.md",
+      "entities": [
+        "TetraDrone"
+      ],
+      "budgets": [
+        "500-3K"
+      ],
+      "timelines_mes": [
+        "18"
+      ],
+      "stars": [
+        "★★★★",
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/02_flamberrotor/README.md",
+      "entities": [
+        "FlamberRotor"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/03_optofiber_drone_chain/README.md",
+      "entities": [],
+      "budgets": [
+        "4M"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/06_robot_zoo_15/README.md",
+      "entities": [
+        "RobotZoo"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/09_wilos_dsl/README.md",
+      "entities": [
+        "ForthSwarm",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/10_pyramid_knowledge/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "19-29 ",
+        "99-299\n"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★",
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/11_internet_mmorpg/README.md",
+      "entities": [
+        "DigitalCaravan",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/12_bees_ants_arch/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/13_digital_satellite/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/14_audio_taro_surrealism/README.md",
+      "entities": [
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/15_golden_section_pi/README.md",
+      "entities": [
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/16_4k_compound_camera/README.md",
+      "entities": [
+        "SkyMediaHub"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/17_tcb_movement_lang/README.md",
+      "entities": [
+        "ForthSwarm",
+        "RobotZoo",
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/22_forth_intelligence/README.md",
+      "entities": [
+        "CareMate",
+        "WILOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/24_kolmogorov_nn_arch/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/README.md",
+      "entities": [
+        "FlamberRotor",
+        "NeuroOS",
+        "RobotZoo",
+        "SkyMediaHub",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "0-500 ",
+        "40-300 ",
+        "3-10K",
+        "5-15K",
+        "10-30K",
+        "100-500"
+      ],
+      "timelines_mes": [
+        "6-12",
+        "30"
+      ],
+      "stars": [
+        "★★★★",
+        "★★★★★",
+        "★★★★",
+        "★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/map.md",
+      "entities": [
+        "FlamberRotor",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "0-500 ",
+        "300-3K",
+        "300-3K",
+        "0 ",
+        "300-3K",
+        "5-15K",
+        "10-30K"
+      ],
+      "timelines_mes": [
+        "1",
+        "1",
+        "1",
+        "12",
+        "30"
+      ],
+      "stars": [
+        "★★★★★",
+        "★★★★★",
+        "★★★★",
+        "★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "07_inventions_patents/next_steps.md",
+      "entities": [
+        "FlamberRotor",
+        "RobotZoo",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "200-500 ",
+        "1-3K",
+        "15-30K",
+        "1",
+        "10-30K",
+        "15-30K",
+        "42-94K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12",
+        "6-12",
+        "6-12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/01_pyramid_4_levels/README.md",
+      "entities": [],
+      "budgets": [
+        "19-29 ",
+        "99-299 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/02_info_bonsai/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/03_yaml_pipelines/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroPortal"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/05_wikiii_pedia/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/06_lms_slm_phi2/README.md",
+      "entities": [
+        "CareMate",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "500K"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/07_tiddlywiki/README.md",
+      "entities": [],
+      "budgets": [
+        "19-29"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/09_kblam_methodology/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/10_chm_format/README.md",
+      "entities": [],
+      "budgets": [
+        "10"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/11_personal_dossier_method/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/12_collective_ai_profiles/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/13_neuro_nation/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/14_megashablon_24_points/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/README.md",
+      "entities": [
+        "NeuroOS",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/map.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★",
+        "★★★★",
+        "★★★★",
+        "★★★★",
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "08_knowledge_methodology/next_steps.md",
+      "entities": [
+        "NeuroOS",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "19-29\n   ",
+        "99-299\n   "
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/01_ai_newsroom/README.md",
+      "entities": [
+        "CareMate",
+        "SkyMediaHub"
+      ],
+      "budgets": [
+        "0 ",
+        "99",
+        "299",
+        "999"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/02_haystack_pgvector_pipeline/README.md",
+      "entities": [
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/03_osint_methods/README.md",
+      "entities": [],
+      "budgets": [
+        "99-299"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/04_archeology_ideas_16sec/README.md",
+      "entities": [],
+      "budgets": [
+        "99-299\n\n",
+        "19-29 ",
+        "99-299\n",
+        "99"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/05_ner_extraction/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner",
+        "TetraDrone"
+      ],
+      "budgets": [
+        "150 000"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/06_skymediahub_journalism/README.md",
+      "entities": [
+        "SkyMediaHub",
+        "TetraDrone"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/07_ru_de_translation/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "0 ",
+        "0 ",
+        "30"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [
+        "§ 29 SGB IX"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/08_dronemedia_content/README.md",
+      "entities": [
+        "SkyMediaHub"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/10_haystack_rag/README.md",
+      "entities": [
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/11_factchecking/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroPortal",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/12_rss_monitoring/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "NeuroPortal",
+        "SkyMediaHub",
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "09_media_newsroom/next_steps.md",
+      "entities": [
+        "NeuroPortal",
+        "SkyMediaHub"
+      ],
+      "budgets": [
+        "299-999",
+        "30-50K",
+        "199-499 "
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/01_caremate_total/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "14",
+        "29",
+        "4"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/02_pflegegrad_cases/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "131 ",
+        "332-689 ",
+        "573-129",
+        "765-161",
+        "947-199"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [
+        "§ 14 SGB XI"
+      ],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/03_gdb_70_personal/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "1 780"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/04_assistive_technology/README.md",
+      "entities": [
+        "CareMate",
+        "RobotZoo"
+      ],
+      "budgets": [
+        "4 000 ",
+        "4 000 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/05_aging_in_place/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "4 000\n\n",
+        "14",
+        "29",
+        "299-499 ",
+        "30-80",
+        "30-100",
+        "2 500-4 500"
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/06_euthanasia_de_2025/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/07_medical_letters/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/08_diga_certification/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "20-40K",
+        "15K",
+        "20-50K",
+        "55-105K",
+        "500-150"
+      ],
+      "timelines_mes": [
+        "2-6",
+        "1",
+        "3",
+        "3",
+        "1-3",
+        "3",
+        "6-12",
+        "6-12",
+        "3",
+        "3"
+      ],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/09_mobility_transport/README.md",
+      "entities": [
+        "CareMate",
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "100",
+        "4 000 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/10_2045_initiative/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/11_digital_satellite_companion/README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/12_aal_programme_ehealth/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "500K",
+        "150",
+        "500K"
+      ],
+      "timelines_mes": [
+        "3",
+        "12"
+      ],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/13_dresden_saxony_network/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [
+        "★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/14_russian_speakers_de/README.md",
+      "entities": [
+        "SozialPlaner"
+      ],
+      "budgets": [
+        "29 "
+      ],
+      "timelines_mes": [],
+      "stars": [
+        "★★★★"
+      ],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "10_health_accessibility/next_steps.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "500K",
+        "20-40K"
+      ],
+      "timelines_mes": [
+        "0-3",
+        "3-12"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "88_topics_full/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "README.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "SkyMediaHub"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "STRUCTURE.md",
+      "entities": [
+        "CareMate",
+        "NeuroOS",
+        "RobotZoo",
+        "SkyMediaHub"
+      ],
+      "budgets": [],
+      "timelines_mes": [],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    },
+    {
+      "path": "superprojects/01_neuro_os/README.md",
+      "entities": [
+        "NeuroOS"
+      ],
+      "budgets": [
+        "100-150K",
+        "35-50K",
+        "0 ",
+        "9",
+        "19",
+        "499",
+        "150K",
+        "300K",
+        "1",
+        "12K",
+        "35-50K"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "24",
+        "24"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "12K",
+        "35-50K"
+      ]
+    },
+    {
+      "path": "superprojects/02_digital_caravan/README.md",
+      "entities": [
+        "DigitalCaravan"
+      ],
+      "budgets": [
+        "140-200K",
+        "25-35K",
+        "14",
+        "300K",
+        "8K",
+        "25-35K"
+      ],
+      "timelines_mes": [
+        "5-6",
+        "24",
+        "28",
+        "6",
+        "12",
+        "18"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "8K",
+        "25-35K"
+      ]
+    },
+    {
+      "path": "superprojects/03_caremate_total/README.md",
+      "entities": [
+        "CareMate"
+      ],
+      "budgets": [
+        "150-220K",
+        "40K",
+        "14",
+        "29",
+        "4",
+        "99-299",
+        "50",
+        "2-5 м",
+        "150K",
+        "500K",
+        "500K",
+        "8K",
+        "40K"
+      ],
+      "timelines_mes": [
+        "5-6",
+        "24",
+        "24"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "8K",
+        "40K"
+      ]
+    },
+    {
+      "path": "superprojects/04_neuroportal/README.md",
+      "entities": [
+        "NeuroPortal"
+      ],
+      "budgets": [
+        "150-200K",
+        "35K",
+        "0 ",
+        "7",
+        "19",
+        "199-999",
+        "150K",
+        "200K",
+        "500K",
+        "5K",
+        "12K",
+        "35K",
+        "50K"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "24",
+        "30"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "5K",
+        "12K",
+        "35K"
+      ]
+    },
+    {
+      "path": "superprojects/05_forth_swarm/README.md",
+      "entities": [
+        "ForthSwarm",
+        "TetraDrone",
+        "WILOS"
+      ],
+      "budgets": [
+        "150-200K",
+        "15-40K",
+        "2 500-5 000 ",
+        "8 000-15 000 ",
+        "49-199",
+        "1-5 ",
+        "500-200",
+        "2-5",
+        "50-150 ",
+        "500-200",
+        "200K",
+        "0",
+        "2M",
+        "30-100K",
+        "15K",
+        "40K"
+      ],
+      "timelines_mes": [
+        "6-8",
+        "24",
+        "28"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": [
+        "15K",
+        "40K"
+      ]
+    },
+    {
+      "path": "superprojects/README.md",
+      "entities": [
+        "CareMate",
+        "DigitalCaravan",
+        "ForthSwarm",
+        "NeuroOS",
+        "NeuroPortal"
+      ],
+      "budgets": [
+        "100-150K",
+        "140-200K",
+        "150-220K",
+        "150-200K",
+        "150-200K"
+      ],
+      "timelines_mes": [
+        "4-5",
+        "5-6",
+        "5-6",
+        "4-5",
+        "6-8"
+      ],
+      "stars": [],
+      "paragraphs": [],
+      "mrr": []
+    }
+  ],
+  "by_entity": {
+    "CareMate": [
+      {
+        "file": "00_index/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/catalog_88_topics.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/clusters_overview.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "00_index/three_waves_roadmap.md",
+        "budgets": [
+          "0 ",
+          "1",
+          "200-500 ",
+          "1-3K",
+          "0 ",
+          "250-150",
+          "20-40K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K",
+          "200K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18-36",
+          "18",
+          "12",
+          "24-36",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36",
+          "1",
+          "2",
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/README.md",
+        "budgets": [
+          "29-99"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/01_micro_agents/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/02_local_offline_models/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/03_one_bit_llm/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/04_mcp_protocol/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/05_collaboration_llm/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/06_sparse_moe/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/07_lcm_cognitive/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/08_kblam/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/09_dat_rag/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/10_neurosymbolic/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/12_kolmogorov_nn/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/14_bees_ants_bio/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/15_warmwind_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/16_exo_p2p/README.md",
+        "budgets": [
+          "0\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/18_cim_chips/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/19_npu_risc_v/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/22_semantic_bus/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/24_cloud_ru_evolution/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/25_ollama_local/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/01_15_robot_zoo/README.md",
+        "budgets": [
+          "30 000 ",
+          "100 000 ",
+          "50-500 ",
+          "750-750"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/02_caremate_hub/README.md",
+        "budgets": [
+          "20-40K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/03_wuxing_architecture/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/04_orchestrator_ros2/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/07_table_chef_robot/README.md",
+        "budgets": [
+          "150",
+          "150",
+          "100K",
+          "150"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/09_105_care_scenarios/README.md",
+        "budgets": [
+          "19\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/10_pflege_ai/README.md",
+        "budgets": [
+          "50",
+          "20-40K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/11_robot_limbs_principle/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/README.md",
+        "budgets": [
+          "50-500",
+          "50 000\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/next_steps.md",
+        "budgets": [
+          "1-3K",
+          "3-5K",
+          "5-15K",
+          "99-499\n   ",
+          "100K",
+          "150-220K",
+          "0",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/05_pdfgenie_docpilot/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/06_yaml_infoconveyor/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/09_virtual_office/README.md",
+        "budgets": [
+          "29 ",
+          "99 ",
+          "499 "
+        ],
+        "timelines_mes": [
+          "10-30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/11_smartphone_microserver/README.md",
+        "budgets": [
+          "200",
+          "200"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/12_warmwind_browser_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/15_blueprints_oneclick/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/01_three_waves_strategy/README.md",
+        "budgets": [
+          "1",
+          "1-3K",
+          "250-150",
+          "0-500\n",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "300K",
+          "1M",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "18-36",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18",
+          "12",
+          "24-36",
+          "12-18",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/02_exist_gruenderstipendium/README.md",
+        "budgets": [
+          "150 000 ",
+          "3 000",
+          "2 500",
+          "2 000",
+          "1 000",
+          "100K",
+          "30K",
+          "150",
+          "100K",
+          "30K",
+          "130K",
+          "28K"
+        ],
+        "timelines_mes": [
+          "12",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/05_aal_programme/README.md",
+        "budgets": [
+          "500 000 ",
+          "25-30M",
+          "500K",
+          "20-40K",
+          "0"
+        ],
+        "timelines_mes": [
+          "24-36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/06_kickstarter/README.md",
+        "budgets": [
+          "30K",
+          "99-199 ",
+          "149-299 ",
+          "30K",
+          "299-599\n",
+          "100K",
+          "499-999\n",
+          "50K",
+          "100K",
+          "60-70K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/10_geoarb/README.md",
+        "budgets": [
+          "80-150",
+          "500-150",
+          "500-100",
+          "100",
+          "200",
+          "350"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/12_invest_zuschuss/README.md",
+        "budgets": [
+          "100K",
+          "10 000 ",
+          "100K",
+          "10K",
+          "500K",
+          "100K",
+          "300K",
+          "50K",
+          "100K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/19_caremate_b2b2c/README.md",
+        "budgets": [
+          "150-220K",
+          "14",
+          "29",
+          "4",
+          "99-299\n",
+          "50-100",
+          "50",
+          "2-5 м",
+          "8K",
+          "40K",
+          "100-140K",
+          "5-10K",
+          "20-40K",
+          "1-3K",
+          "150-220K",
+          "20-40K",
+          "5-15K",
+          "50-200K",
+          "500K",
+          "150K"
+        ],
+        "timelines_mes": [
+          "5-6",
+          "3-12",
+          "6-18",
+          "3-6"
+        ],
+        "mrr": [
+          "8K",
+          "40K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/map.md",
+        "budgets": [
+          "0",
+          "2K",
+          "1",
+          "200-500",
+          "1-3K",
+          "0",
+          "250-150",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "200K",
+          "0",
+          "30-100K",
+          "150-200K",
+          "150K",
+          "25K",
+          "200K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "0-12",
+          "0-12",
+          "6-18",
+          "12-24",
+          "12-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/next_steps.md",
+        "budgets": [],
+        "timelines_mes": [
+          "6"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/12_bees_ants_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/13_digital_satellite/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/22_forth_intelligence/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/24_kolmogorov_nn_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/02_info_bonsai/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/03_yaml_pipelines/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/05_wikiii_pedia/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/06_lms_slm_phi2/README.md",
+        "budgets": [
+          "500K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/09_kblam_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/11_personal_dossier_method/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/12_collective_ai_profiles/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/13_neuro_nation/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/01_ai_newsroom/README.md",
+        "budgets": [
+          "0 ",
+          "99",
+          "299",
+          "999"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/05_ner_extraction/README.md",
+        "budgets": [
+          "150 000"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/11_factchecking/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/12_rss_monitoring/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/01_caremate_total/README.md",
+        "budgets": [
+          "14",
+          "29",
+          "4"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/03_gdb_70_personal/README.md",
+        "budgets": [
+          "1 780"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/04_assistive_technology/README.md",
+        "budgets": [
+          "4 000 ",
+          "4 000 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/05_aging_in_place/README.md",
+        "budgets": [
+          "4 000\n\n",
+          "14",
+          "29",
+          "299-499 ",
+          "30-80",
+          "30-100",
+          "2 500-4 500"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/06_euthanasia_de_2025/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/08_diga_certification/README.md",
+        "budgets": [
+          "20-40K",
+          "15K",
+          "20-50K",
+          "55-105K",
+          "500-150"
+        ],
+        "timelines_mes": [
+          "2-6",
+          "1",
+          "3",
+          "3",
+          "1-3",
+          "3",
+          "6-12",
+          "6-12",
+          "3",
+          "3"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/09_mobility_transport/README.md",
+        "budgets": [
+          "100",
+          "4 000 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/10_2045_initiative/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/11_digital_satellite_companion/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/12_aal_programme_ehealth/README.md",
+        "budgets": [
+          "500K",
+          "150",
+          "500K"
+        ],
+        "timelines_mes": [
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/13_dresden_saxony_network/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/next_steps.md",
+        "budgets": [
+          "500K",
+          "20-40K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "88_topics_full/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "STRUCTURE.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/03_caremate_total/README.md",
+        "budgets": [
+          "150-220K",
+          "40K",
+          "14",
+          "29",
+          "4",
+          "99-299",
+          "50",
+          "2-5 м",
+          "150K",
+          "500K",
+          "500K",
+          "8K",
+          "40K"
+        ],
+        "timelines_mes": [
+          "5-6",
+          "24",
+          "24"
+        ],
+        "mrr": [
+          "8K",
+          "40K"
+        ]
+      },
+      {
+        "file": "superprojects/README.md",
+        "budgets": [
+          "100-150K",
+          "140-200K",
+          "150-220K",
+          "150-200K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "5-6",
+          "5-6",
+          "4-5",
+          "6-8"
+        ],
+        "mrr": []
+      }
+    ],
+    "NeuroOS": [
+      {
+        "file": "00_index/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/clusters_overview.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "00_index/three_waves_roadmap.md",
+        "budgets": [
+          "0 ",
+          "1",
+          "200-500 ",
+          "1-3K",
+          "0 ",
+          "250-150",
+          "20-40K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K",
+          "200K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18-36",
+          "18",
+          "12",
+          "24-36",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36",
+          "1",
+          "2",
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/01_micro_agents/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/04_mcp_protocol/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/13_three_level_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/14_bees_ants_bio/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/15_warmwind_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/16_exo_p2p/README.md",
+        "budgets": [
+          "0\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/17_helix_parallelism/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/19_npu_risc_v/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/21_livemcp_bench/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/22_semantic_bus/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/23_vast_ai_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/next_steps.md",
+        "budgets": [
+          "100-150K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/01_internet_function_os/README.md",
+        "budgets": [
+          "100-150K",
+          "0 ",
+          "9",
+          "19",
+          "499"
+        ],
+        "timelines_mes": [
+          "1",
+          "1",
+          "2-3",
+          "1",
+          "1",
+          "1",
+          "6-9"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/02_smart_office_proto/README.md",
+        "budgets": [
+          "3-5K",
+          "16K",
+          "0 ",
+          "9-19",
+          "29-49"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/05_pdfgenie_docpilot/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/06_yaml_infoconveyor/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/07_bytebot_desktop/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/08_b2b_neuronet/README.md",
+        "budgets": [
+          "0 ",
+          "29",
+          "99",
+          "499"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/13_oslo_manual_recombinant/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/14_function_registry/README.md",
+        "budgets": [
+          "0"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/15_blueprints_oneclick/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/16_mvp_backlog/README.md",
+        "budgets": [
+          "80-120K",
+          "2-5K",
+          "0 ",
+          "100-150K",
+          "150K",
+          "150",
+          "72K",
+          "30K"
+        ],
+        "timelines_mes": [
+          "6-9",
+          "1",
+          "1",
+          "2-3",
+          "1",
+          "1",
+          "1",
+          "5",
+          "1",
+          "5",
+          "4-5",
+          "5"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/next_steps.md",
+        "budgets": [
+          "5-10K",
+          "3-5K",
+          "100-150K",
+          "1K",
+          "300K",
+          "5K",
+          "5K",
+          "15-30K",
+          "20-50K",
+          "10-20K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3",
+          "3-4",
+          "3-12",
+          "12-36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/01_three_waves_strategy/README.md",
+        "budgets": [
+          "1",
+          "1-3K",
+          "250-150",
+          "0-500\n",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "300K",
+          "1M",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "18-36",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18",
+          "12",
+          "24-36",
+          "12-18",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/02_exist_gruenderstipendium/README.md",
+        "budgets": [
+          "150 000 ",
+          "3 000",
+          "2 500",
+          "2 000",
+          "1 000",
+          "100K",
+          "30K",
+          "150",
+          "100K",
+          "30K",
+          "130K",
+          "28K"
+        ],
+        "timelines_mes": [
+          "12",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/12_invest_zuschuss/README.md",
+        "budgets": [
+          "100K",
+          "10 000 ",
+          "100K",
+          "10K",
+          "500K",
+          "100K",
+          "300K",
+          "50K",
+          "100K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/18_neuro_os_freemium/README.md",
+        "budgets": [
+          "100-150K",
+          "0 ",
+          "9",
+          "19",
+          "499",
+          "5-50 ",
+          "10-100 ",
+          "0",
+          "1",
+          "12K",
+          "35-50K",
+          "40K",
+          "80-120K",
+          "2-5K",
+          "1-3K",
+          "100-150K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5"
+        ],
+        "mrr": [
+          "12K",
+          "35-50K",
+          "40K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/10_pyramid_knowledge/README.md",
+        "budgets": [
+          "19-29 ",
+          "99-299\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/12_bees_ants_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/15_golden_section_pi/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/02_info_bonsai/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/05_wikiii_pedia/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/11_personal_dossier_method/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/next_steps.md",
+        "budgets": [
+          "19-29\n   ",
+          "99-299\n   "
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/12_rss_monitoring/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/11_digital_satellite_companion/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "STRUCTURE.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/01_neuro_os/README.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "0 ",
+          "9",
+          "19",
+          "499",
+          "150K",
+          "300K",
+          "1",
+          "12K",
+          "35-50K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "24"
+        ],
+        "mrr": [
+          "12K",
+          "35-50K"
+        ]
+      },
+      {
+        "file": "superprojects/README.md",
+        "budgets": [
+          "100-150K",
+          "140-200K",
+          "150-220K",
+          "150-200K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "5-6",
+          "5-6",
+          "4-5",
+          "6-8"
+        ],
+        "mrr": []
+      }
+    ],
+    "SkyMediaHub": [
+      {
+        "file": "00_index/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/clusters_overview.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/three_waves_roadmap.md",
+        "budgets": [
+          "0 ",
+          "1",
+          "200-500 ",
+          "1-3K",
+          "0 ",
+          "250-150",
+          "20-40K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K",
+          "200K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18-36",
+          "18",
+          "12",
+          "24-36",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36",
+          "1",
+          "2",
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+        "budgets": [
+          "500-200",
+          "200K"
+        ],
+        "timelines_mes": [
+          "12-24",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/08_4k_compound_camera/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/11_agro_scout/README.md",
+        "budgets": [
+          "500-200",
+          "2-5 ",
+          "500-200",
+          "49-199"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/14_dual_use_concept/README.md",
+        "budgets": [
+          "5M",
+          "4M",
+          "0",
+          "15M",
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/15_partner_letters/README.md",
+        "budgets": [
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/16_fraunhofer_techhub/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/README.md",
+        "budgets": [
+          "200K",
+          "2"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/next_steps.md",
+        "budgets": [
+          "50",
+          "100",
+          "200",
+          "200K",
+          "500-200",
+          "500K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36",
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/01_three_waves_strategy/README.md",
+        "budgets": [
+          "1",
+          "1-3K",
+          "250-150",
+          "0-500\n",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "300K",
+          "1M",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "18-36",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18",
+          "12",
+          "24-36",
+          "12-18",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/03_bayern_innovativ/README.md",
+        "budgets": [
+          "200 000\n",
+          "500K",
+          "100K",
+          "200K",
+          "200K",
+          "200K",
+          "4M",
+          "0"
+        ],
+        "timelines_mes": [
+          "12-18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/12_invest_zuschuss/README.md",
+        "budgets": [
+          "100K",
+          "10 000 ",
+          "100K",
+          "10K",
+          "500K",
+          "100K",
+          "300K",
+          "50K",
+          "100K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/21_forth_swarm_hardware/README.md",
+        "budgets": [
+          "150-200K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "15M",
+          "50-150 ",
+          "500-200",
+          "5\n\n",
+          "15K",
+          "40K",
+          "120-160K",
+          "10-20K",
+          "5-10K",
+          "150-200K",
+          "200K",
+          "0",
+          "2M"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "3-6"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/next_steps.md",
+        "budgets": [],
+        "timelines_mes": [
+          "6"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/16_4k_compound_camera/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/01_ai_newsroom/README.md",
+        "budgets": [
+          "0 ",
+          "99",
+          "299",
+          "999"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/06_skymediahub_journalism/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/08_dronemedia_content/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/12_rss_monitoring/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/next_steps.md",
+        "budgets": [
+          "299-999",
+          "30-50K",
+          "199-499 "
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "STRUCTURE.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      }
+    ],
+    "TetraDrone": [
+      {
+        "file": "00_index/catalog_88_topics.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/clusters_overview.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+        "budgets": [
+          "500-200",
+          "200K"
+        ],
+        "timelines_mes": [
+          "12-24",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/02_tetradrone/README.md",
+        "budgets": [
+          "5",
+          "5 ",
+          "5 ",
+          "100-200 ",
+          "50-100 ",
+          "30-50 ",
+          "20-40 ",
+          "350-500 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/08_4k_compound_camera/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/11_agro_scout/README.md",
+        "budgets": [
+          "500-200",
+          "2-5 ",
+          "500-200",
+          "49-199"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/14_dual_use_concept/README.md",
+        "budgets": [
+          "5M",
+          "4M",
+          "0",
+          "15M",
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/15_partner_letters/README.md",
+        "budgets": [
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/16_fraunhofer_techhub/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/README.md",
+        "budgets": [
+          "200K",
+          "2"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/next_steps.md",
+        "budgets": [
+          "50",
+          "100",
+          "200",
+          "200K",
+          "500-200",
+          "500K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36",
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/08_agro_robots/README.md",
+        "budgets": [
+          "5K",
+          "10-50",
+          "99-499",
+          "2-5"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/03_bayern_innovativ/README.md",
+        "budgets": [
+          "200 000\n",
+          "500K",
+          "100K",
+          "200K",
+          "200K",
+          "200K",
+          "4M",
+          "0"
+        ],
+        "timelines_mes": [
+          "12-18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/06_kickstarter/README.md",
+        "budgets": [
+          "30K",
+          "99-199 ",
+          "149-299 ",
+          "30K",
+          "299-599\n",
+          "100K",
+          "499-999\n",
+          "50K",
+          "100K",
+          "60-70K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/21_forth_swarm_hardware/README.md",
+        "budgets": [
+          "150-200K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "15M",
+          "50-150 ",
+          "500-200",
+          "5\n\n",
+          "15K",
+          "40K",
+          "120-160K",
+          "10-20K",
+          "5-10K",
+          "150-200K",
+          "200K",
+          "0",
+          "2M"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "3-6"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/01_tetradrone/README.md",
+        "budgets": [
+          "500-3K"
+        ],
+        "timelines_mes": [
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/09_wilos_dsl/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/map.md",
+        "budgets": [
+          "0-500 ",
+          "300-3K",
+          "300-3K",
+          "0 ",
+          "300-3K",
+          "5-15K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "1",
+          "1",
+          "1",
+          "12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/next_steps.md",
+        "budgets": [
+          "200-500 ",
+          "1-3K",
+          "15-30K",
+          "1",
+          "10-30K",
+          "15-30K",
+          "42-94K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "6-12",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/06_lms_slm_phi2/README.md",
+        "budgets": [
+          "500K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/05_ner_extraction/README.md",
+        "budgets": [
+          "150 000"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/06_skymediahub_journalism/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/05_forth_swarm/README.md",
+        "budgets": [
+          "150-200K",
+          "15-40K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "50-150 ",
+          "500-200",
+          "200K",
+          "0",
+          "2M",
+          "30-100K",
+          "15K",
+          "40K"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "24",
+          "28"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      }
+    ],
+    "WILOS": [
+      {
+        "file": "00_index/catalog_88_topics.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+        "budgets": [
+          "500-200",
+          "200K"
+        ],
+        "timelines_mes": [
+          "12-24",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/05_baba_yaga/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/17_bundeswehr_conversion/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/README.md",
+        "budgets": [
+          "200K",
+          "2"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/next_steps.md",
+        "budgets": [
+          "50",
+          "100",
+          "200",
+          "200K",
+          "500-200",
+          "500K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36",
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/08_agro_robots/README.md",
+        "budgets": [
+          "5K",
+          "10-50",
+          "99-499",
+          "2-5"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/README.md",
+        "budgets": [
+          "50-500",
+          "50 000\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/06_kickstarter/README.md",
+        "budgets": [
+          "30K",
+          "99-199 ",
+          "149-299 ",
+          "30K",
+          "299-599\n",
+          "100K",
+          "499-999\n",
+          "50K",
+          "100K",
+          "60-70K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/21_forth_swarm_hardware/README.md",
+        "budgets": [
+          "150-200K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "15M",
+          "50-150 ",
+          "500-200",
+          "5\n\n",
+          "15K",
+          "40K",
+          "120-160K",
+          "10-20K",
+          "5-10K",
+          "150-200K",
+          "200K",
+          "0",
+          "2M"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "3-6"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      },
+      {
+        "file": "07_inventions_patents/09_wilos_dsl/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/17_tcb_movement_lang/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/22_forth_intelligence/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/map.md",
+        "budgets": [
+          "0-500 ",
+          "300-3K",
+          "300-3K",
+          "0 ",
+          "300-3K",
+          "5-15K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "1",
+          "1",
+          "1",
+          "12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/next_steps.md",
+        "budgets": [
+          "200-500 ",
+          "1-3K",
+          "15-30K",
+          "1",
+          "10-30K",
+          "15-30K",
+          "42-94K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "6-12",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/05_forth_swarm/README.md",
+        "budgets": [
+          "150-200K",
+          "15-40K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "50-150 ",
+          "500-200",
+          "200K",
+          "0",
+          "2M",
+          "30-100K",
+          "15K",
+          "40K"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "24",
+          "28"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      }
+    ],
+    "RobotZoo": [
+      {
+        "file": "00_index/clusters_overview.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/three_waves_roadmap.md",
+        "budgets": [
+          "0 ",
+          "1",
+          "200-500 ",
+          "1-3K",
+          "0 ",
+          "250-150",
+          "20-40K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K",
+          "200K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18-36",
+          "18",
+          "12",
+          "24-36",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36",
+          "1",
+          "2",
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/01_15_robot_zoo/README.md",
+        "budgets": [
+          "30 000 ",
+          "100 000 ",
+          "50-500 ",
+          "750-750"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/04_orchestrator_ros2/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/12_yaml_manifests/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/13_swarm_charging_safety/README.md",
+        "budgets": [
+          "5-15K",
+          "10-25K",
+          "10-20K",
+          "4K",
+          "20-40K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/14_contract_net_protocol/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/README.md",
+        "budgets": [
+          "50-500",
+          "50 000\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "04_robotics_caremate/next_steps.md",
+        "budgets": [
+          "1-3K",
+          "3-5K",
+          "5-15K",
+          "99-499\n   ",
+          "100K",
+          "150-220K",
+          "0",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/01_three_waves_strategy/README.md",
+        "budgets": [
+          "1",
+          "1-3K",
+          "250-150",
+          "0-500\n",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "300K",
+          "1M",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "18-36",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18",
+          "12",
+          "24-36",
+          "12-18",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/06_robot_zoo_15/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/17_tcb_movement_lang/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/next_steps.md",
+        "budgets": [
+          "200-500 ",
+          "1-3K",
+          "15-30K",
+          "1",
+          "10-30K",
+          "15-30K",
+          "42-94K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "6-12",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/04_assistive_technology/README.md",
+        "budgets": [
+          "4 000 ",
+          "4 000 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "STRUCTURE.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      }
+    ],
+    "FlamberRotor": [
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+        "budgets": [
+          "500-200",
+          "200K"
+        ],
+        "timelines_mes": [
+          "12-24",
+          "6-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/03_flamberrotor/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/14_dual_use_concept/README.md",
+        "budgets": [
+          "5M",
+          "4M",
+          "0",
+          "15M",
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/15_partner_letters/README.md",
+        "budgets": [
+          "200K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/README.md",
+        "budgets": [
+          "200K",
+          "2"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/next_steps.md",
+        "budgets": [
+          "50",
+          "100",
+          "200",
+          "200K",
+          "500-200",
+          "500K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36",
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/03_bayern_innovativ/README.md",
+        "budgets": [
+          "200 000\n",
+          "500K",
+          "100K",
+          "200K",
+          "200K",
+          "200K",
+          "4M",
+          "0"
+        ],
+        "timelines_mes": [
+          "12-18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/02_flamberrotor/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/README.md",
+        "budgets": [
+          "0-500 ",
+          "40-300 ",
+          "3-10K",
+          "5-15K",
+          "10-30K",
+          "100-500"
+        ],
+        "timelines_mes": [
+          "6-12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/map.md",
+        "budgets": [
+          "0-500 ",
+          "300-3K",
+          "300-3K",
+          "0 ",
+          "300-3K",
+          "5-15K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "1",
+          "1",
+          "1",
+          "12",
+          "30"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/next_steps.md",
+        "budgets": [
+          "200-500 ",
+          "1-3K",
+          "15-30K",
+          "1",
+          "10-30K",
+          "15-30K",
+          "42-94K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "6-12",
+          "6-12"
+        ],
+        "mrr": []
+      }
+    ],
+    "ForthSwarm": [
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/02_local_offline_models/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/03_one_bit_llm/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/12_kolmogorov_nn/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/18_cim_chips/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/19_npu_risc_v/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/22_semantic_bus/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/08_4k_compound_camera/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "03_drones_skymediahub/next_steps.md",
+        "budgets": [
+          "50",
+          "100",
+          "200",
+          "200K",
+          "500-200",
+          "500K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "12-36",
+          "18"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/11_smartphone_microserver/README.md",
+        "budgets": [
+          "200",
+          "200"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/04_horizon_eic/README.md",
+        "budgets": [
+          "95",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "15M",
+          "4M",
+          "2",
+          "500K",
+          "2-4M",
+          "500K",
+          "10-30K"
+        ],
+        "timelines_mes": [
+          "18-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/06_kickstarter/README.md",
+        "budgets": [
+          "30K",
+          "99-199 ",
+          "149-299 ",
+          "30K",
+          "299-599\n",
+          "100K",
+          "499-999\n",
+          "50K",
+          "100K",
+          "60-70K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/21_forth_swarm_hardware/README.md",
+        "budgets": [
+          "150-200K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "15M",
+          "50-150 ",
+          "500-200",
+          "5\n\n",
+          "15K",
+          "40K",
+          "120-160K",
+          "10-20K",
+          "5-10K",
+          "150-200K",
+          "200K",
+          "0",
+          "2M"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "3-6"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/map.md",
+        "budgets": [
+          "0",
+          "2K",
+          "1",
+          "200-500",
+          "1-3K",
+          "0",
+          "250-150",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "200K",
+          "0",
+          "30-100K",
+          "150-200K",
+          "150K",
+          "25K",
+          "200K",
+          "500K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "0-12",
+          "0-12",
+          "6-18",
+          "12-24",
+          "12-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/09_wilos_dsl/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/17_tcb_movement_lang/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/05_forth_swarm/README.md",
+        "budgets": [
+          "150-200K",
+          "15-40K",
+          "2 500-5 000 ",
+          "8 000-15 000 ",
+          "49-199",
+          "1-5 ",
+          "500-200",
+          "2-5",
+          "50-150 ",
+          "500-200",
+          "200K",
+          "0",
+          "2M",
+          "30-100K",
+          "15K",
+          "40K"
+        ],
+        "timelines_mes": [
+          "6-8",
+          "24",
+          "28"
+        ],
+        "mrr": [
+          "15K",
+          "40K"
+        ]
+      },
+      {
+        "file": "superprojects/README.md",
+        "budgets": [
+          "100-150K",
+          "140-200K",
+          "150-220K",
+          "150-200K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "5-6",
+          "5-6",
+          "4-5",
+          "6-8"
+        ],
+        "mrr": []
+      }
+    ],
+    "NeuroPortal": [
+      {
+        "file": "00_index/inventions_index.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/map.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/07_lcm_cognitive/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/08_kblam/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/08_b2b_neuronet/README.md",
+        "budgets": [
+          "0 ",
+          "29",
+          "99",
+          "499"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/09_token_monetization/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/20_neuroportal_content/README.md",
+        "budgets": [
+          "150-200K",
+          "0 ",
+          "7",
+          "19",
+          "199-999",
+          "5K",
+          "12K",
+          "35K",
+          "50K",
+          "120-160K",
+          "3-8K",
+          "1-3K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5"
+        ],
+        "mrr": [
+          "5K",
+          "12K",
+          "35K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/11_internet_mmorpg/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/14_audio_taro_surrealism/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/03_yaml_pipelines/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/09_kblam_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/12_collective_ai_profiles/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/next_steps.md",
+        "budgets": [
+          "19-29\n   ",
+          "99-299\n   "
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/02_haystack_pgvector_pipeline/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/10_haystack_rag/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/11_factchecking/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/next_steps.md",
+        "budgets": [
+          "299-999",
+          "30-50K",
+          "199-499 "
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/04_neuroportal/README.md",
+        "budgets": [
+          "150-200K",
+          "35K",
+          "0 ",
+          "7",
+          "19",
+          "199-999",
+          "150K",
+          "200K",
+          "500K",
+          "5K",
+          "12K",
+          "35K",
+          "50K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "30"
+        ],
+        "mrr": [
+          "5K",
+          "12K",
+          "35K"
+        ]
+      },
+      {
+        "file": "superprojects/README.md",
+        "budgets": [
+          "100-150K",
+          "140-200K",
+          "150-220K",
+          "150-200K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "5-6",
+          "5-6",
+          "4-5",
+          "6-8"
+        ],
+        "mrr": []
+      }
+    ],
+    "DigitalCaravan": [
+      {
+        "file": "00_index/superprojects.md",
+        "budgets": [
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K",
+          "100-150K",
+          "35-50K",
+          "140-200K",
+          "25-35K",
+          "150-220K",
+          "40K",
+          "150-200K",
+          "35K",
+          "150-200K",
+          "15-40K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "24",
+          "5-6",
+          "24",
+          "5-6",
+          "24",
+          "4-5",
+          "24",
+          "6-8",
+          "24",
+          "4-5",
+          "24",
+          "5-6",
+          "28",
+          "5-6",
+          "24",
+          "4-5",
+          "30",
+          "6-8",
+          "28"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/16_exo_p2p/README.md",
+        "budgets": [
+          "0\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/20_decentralized_compute/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/11_smartphone_microserver/README.md",
+        "budgets": [
+          "200",
+          "200"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/07_microfranchise/README.md",
+        "budgets": [
+          "5-50",
+          "19 ",
+          "39 ",
+          "99 ",
+          "299 ",
+          "199 ",
+          "19-99\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/09_token_monetization/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/10_geoarb/README.md",
+        "budgets": [
+          "80-150",
+          "500-150",
+          "500-100",
+          "100",
+          "200",
+          "350"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/11_digital_caravan/README.md",
+        "budgets": [
+          "5-20 ",
+          "2-10 ",
+          "14",
+          "8K",
+          "25-35K",
+          "100-140K",
+          "15-25K",
+          "3-5K",
+          "140-200K"
+        ],
+        "timelines_mes": [
+          "5",
+          "12"
+        ],
+        "mrr": [
+          "8K",
+          "25-35K"
+        ]
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/11_internet_mmorpg/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/12_collective_ai_profiles/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/13_neuro_nation/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "superprojects/02_digital_caravan/README.md",
+        "budgets": [
+          "140-200K",
+          "25-35K",
+          "14",
+          "300K",
+          "8K",
+          "25-35K"
+        ],
+        "timelines_mes": [
+          "5-6",
+          "24",
+          "28",
+          "6",
+          "12",
+          "18"
+        ],
+        "mrr": [
+          "8K",
+          "25-35K"
+        ]
+      },
+      {
+        "file": "superprojects/README.md",
+        "budgets": [
+          "100-150K",
+          "140-200K",
+          "150-220K",
+          "150-200K",
+          "150-200K"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "5-6",
+          "5-6",
+          "4-5",
+          "6-8"
+        ],
+        "mrr": []
+      }
+    ],
+    "SozialPlaner": [
+      {
+        "file": "00_index/three_waves_roadmap.md",
+        "budgets": [
+          "0 ",
+          "1",
+          "200-500 ",
+          "1-3K",
+          "0 ",
+          "250-150",
+          "20-40K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K",
+          "200K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18-36",
+          "18",
+          "12",
+          "24-36",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36",
+          "1",
+          "2",
+          "3",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/01_persoenliches_budget/README.md",
+        "budgets": [
+          "19\n\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/07_master_dossier/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/08_70_modules_catalog/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/09_bsg_judgements/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/README.md",
+        "budgets": [
+          "29-99"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "01_social_law/next_steps.md",
+        "budgets": [
+          "29-49\n   ",
+          "50-150 ",
+          "29-99",
+          "150K",
+          "500-200",
+          "299"
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12",
+          "4-5",
+          "12-24"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/02_local_offline_models/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/04_mcp_protocol/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/05_collaboration_llm/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/06_sparse_moe/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/08_kblam/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/09_dat_rag/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/10_neurosymbolic/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/12_kolmogorov_nn/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/13_three_level_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/14_bees_ants_bio/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/15_warmwind_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/16_exo_p2p/README.md",
+        "budgets": [
+          "0\n"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/21_livemcp_bench/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/22_semantic_bus/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/23_vast_ai_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/24_cloud_ru_evolution/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "02_ai_agents/25_ollama_local/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/05_pdfgenie_docpilot/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/07_bytebot_desktop/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/11_smartphone_microserver/README.md",
+        "budgets": [
+          "200",
+          "200"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/12_warmwind_browser_os/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "05_software_automation/15_blueprints_oneclick/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/01_three_waves_strategy/README.md",
+        "budgets": [
+          "1",
+          "1-3K",
+          "250-150",
+          "0-500\n",
+          "30K",
+          "150K",
+          "3-5K",
+          "5-10K",
+          "100-150K",
+          "500K",
+          "150-220K",
+          "200K",
+          "300K",
+          "1M",
+          "0",
+          "30K",
+          "500",
+          "150K",
+          "0",
+          "10K"
+        ],
+        "timelines_mes": [
+          "0-6",
+          "6-18",
+          "18-36",
+          "4-5",
+          "3-4",
+          "3",
+          "4-5",
+          "18",
+          "12",
+          "24-36",
+          "12-18",
+          "5",
+          "12",
+          "18",
+          "3",
+          "36"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/02_exist_gruenderstipendium/README.md",
+        "budgets": [
+          "150 000 ",
+          "3 000",
+          "2 500",
+          "2 000",
+          "1 000",
+          "100K",
+          "30K",
+          "150",
+          "100K",
+          "30K",
+          "130K",
+          "28K"
+        ],
+        "timelines_mes": [
+          "12",
+          "12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/12_invest_zuschuss/README.md",
+        "budgets": [
+          "100K",
+          "10 000 ",
+          "100K",
+          "10K",
+          "500K",
+          "100K",
+          "300K",
+          "50K",
+          "100K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/13_sozialplaner_saas/README.md",
+        "budgets": [
+          "29-99",
+          "30K",
+          "29-49",
+          "29-49 ",
+          "99",
+          "500-200",
+          "19-29",
+          "29",
+          "49",
+          "99",
+          "499"
+        ],
+        "timelines_mes": [
+          "4-5",
+          "4-5"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/README.md",
+        "budgets": [
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K",
+          "150K",
+          "200K",
+          "2",
+          "500K",
+          "25K"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "06_business_funding/next_steps.md",
+        "budgets": [],
+        "timelines_mes": [
+          "6"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/12_bees_ants_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/15_golden_section_pi/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "07_inventions_patents/24_kolmogorov_nn_arch/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/09_kblam_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/11_personal_dossier_method/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/12_collective_ai_profiles/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/14_megashablon_24_points/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "08_knowledge_methodology/next_steps.md",
+        "budgets": [
+          "19-29\n   ",
+          "99-299\n   "
+        ],
+        "timelines_mes": [
+          "0-3",
+          "3-12"
+        ],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/02_haystack_pgvector_pipeline/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/05_ner_extraction/README.md",
+        "budgets": [
+          "150 000"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/07_ru_de_translation/README.md",
+        "budgets": [
+          "0 ",
+          "0 ",
+          "30"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/10_haystack_rag/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/11_factchecking/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/12_rss_monitoring/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "09_media_newsroom/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/02_pflegegrad_cases/README.md",
+        "budgets": [
+          "131 ",
+          "332-689 ",
+          "573-129",
+          "765-161",
+          "947-199"
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/07_medical_letters/README.md",
+        "budgets": [],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/09_mobility_transport/README.md",
+        "budgets": [
+          "100",
+          "4 000 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      },
+      {
+        "file": "10_health_accessibility/14_russian_speakers_de/README.md",
+        "budgets": [
+          "29 "
+        ],
+        "timelines_mes": [],
+        "mrr": []
+      }
+    ]
+  }
+}

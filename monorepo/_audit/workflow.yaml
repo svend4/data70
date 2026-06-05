@@ -1,0 +1,87 @@
+# Декларативное описание audit-workflow
+# Динамический pipeline: каждая фаза может ветвиться по результату.
+
+pipeline:
+  name: data70_monorepo_audit
+  version: 1.0
+  root: ../..    # monorepo/ из позиции _audit/
+
+phases:
+
+  phase_0_inventory:
+    script: scripts/00_inventory.py
+    always: true
+    outputs:
+      - reports/00_inventory.json
+      - reports/00_inventory.md
+
+  phase_1a_structure:
+    script: scripts/01a_check_structure.py
+    depends_on: [phase_0_inventory]
+    on_defect: route_to repair_queue
+    outputs:
+      - reports/01a_structure.md
+      - queues/repair.json
+
+  phase_1b_links:
+    script: scripts/01b_check_links.py
+    depends_on: [phase_0_inventory]
+    on_defect: route_to repair_queue
+    outputs:
+      - reports/01b_links.md
+      - queues/repair_links.json
+
+  phase_2_coverage:
+    script: scripts/02_coverage_88.py
+    depends_on: [phase_0_inventory]
+    branches:
+      covered: mark_ok
+      partial: route_to enrich_queue
+      missing: route_to create_queue
+    outputs:
+      - reports/02_coverage_88.md
+      - queues/enrich.json
+      - queues/create.json
+
+  phase_3_facts:
+    script: scripts/03_extract_facts.py
+    depends_on: [phase_0_inventory]
+    outputs:
+      - reports/03_facts.json
+      - reports/03_facts.md
+
+  phase_4_consistency:
+    script: scripts/04_consistency.py
+    depends_on: [phase_3_facts]
+    router_by_criticality:
+      low: ollama/llama3.1:8b      # будет в будущей версии
+      medium: claude-sonnet
+      critical: claude-opus
+    outputs:
+      - reports/04_consistency.md
+      - queues/conflicts.json
+
+  phase_5_fidelity:
+    script: scripts/05_fidelity_stub.py
+    run_only_if: flagged_in_previous_phases
+    outputs:
+      - reports/05_fidelity.md
+
+  phase_6_completeness:
+    script: scripts/06_completeness_stub.py
+    run_only_if: explicit_request
+    expensive: true
+    outputs:
+      - reports/06_completeness.md
+
+orchestrator:
+  script: scripts/99_run_all.py
+  output: reports/REPORT.md
+  autofix:
+    safe:
+      - missing_map_md
+      - missing_next_steps_md
+      - broken_internal_links_with_obvious_target
+    manual_review:
+      - data_conflicts
+      - missing_topic_cards

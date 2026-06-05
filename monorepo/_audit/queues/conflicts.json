@@ -1,0 +1,5634 @@
+[
+  {
+    "entity": "CareMate",
+    "total_files": 91,
+    "budget_clusters_count": 16,
+    "timeline_clusters_count": 3,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "02_ai_agents/16_exo_p2p/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/05_aal_programme/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md"
+            ],
+            "raw": [
+              "0 ",
+              "0 ",
+              "0",
+              "0",
+              "0\n",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "range": [
+              1,
+              1
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/map.md"
+            ],
+            "raw": [
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "range": [
+              19,
+              19
+            ],
+            "files": [
+              "04_robotics_caremate/09_105_care_scenarios/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "09_media_newsroom/01_ai_newsroom/README.md",
+              "10_health_accessibility/01_caremate_total/README.md",
+              "10_health_accessibility/01_caremate_total/README.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/09_mobility_transport/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "19\n",
+              "0-500\n",
+              "0",
+              "2",
+              "2",
+              "2",
+              "149-299 ",
+              "500-150",
+              "200",
+              "14",
+              "4",
+              "50",
+              "2",
+              "2",
+              "0",
+              "0 ",
+              "14",
+              "4",
+              "14",
+              "30-80",
+              "100",
+              "14",
+              "4"
+            ]
+          },
+          {
+            "range": [
+              29,
+              99
+            ],
+            "files": [
+              "01_social_law/README.md",
+              "04_robotics_caremate/10_pflege_ai/README.md",
+              "05_software_automation/09_virtual_office/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "09_media_newsroom/01_ai_newsroom/README.md",
+              "10_health_accessibility/01_caremate_total/README.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/12_aal_programme_ehealth/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "29-99",
+              "50",
+              "29 ",
+              "95",
+              "80-150",
+              "100",
+              "29",
+              "50-100",
+              "99",
+              "29",
+              "29",
+              "30-100",
+              "150",
+              "29"
+            ]
+          },
+          {
+            "range": [
+              200,
+              500
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "05_software_automation/09_virtual_office/README.md",
+              "05_software_automation/09_virtual_office/README.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "200-500 ",
+              "500",
+              "50-500",
+              "99-499\n   ",
+              "99 ",
+              "499 ",
+              "200",
+              "200",
+              "250-150",
+              "500",
+              "150",
+              "99-199 ",
+              "299-599\n",
+              "500-100",
+              "350",
+              "99-299\n",
+              "250-150",
+              "299-499 ",
+              "500-150",
+              "50"
+            ]
+          },
+          {
+            "range": [
+              750,
+              750
+            ],
+            "files": [
+              "04_robotics_caremate/01_15_robot_zoo/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/map.md",
+              "09_media_newsroom/01_ai_newsroom/README.md",
+              "09_media_newsroom/01_ai_newsroom/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "750-750",
+              "499-999\n",
+              "200-500",
+              "299",
+              "999",
+              "99-299"
+            ]
+          },
+          {
+            "range": [
+              1000,
+              3000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/next_steps.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/03_gdb_70_personal/README.md",
+              "10_health_accessibility/04_assistive_technology/README.md",
+              "10_health_accessibility/04_assistive_technology/README.md",
+              "10_health_accessibility/05_aging_in_place/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/09_mobility_transport/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "1-3K",
+              "3-5K",
+              "1-3K",
+              "3-5K",
+              "10K",
+              "3 000",
+              "2 500",
+              "2 000",
+              "1 000",
+              "10-30K",
+              "30K",
+              "10 000 ",
+              "8K",
+              "5-10K",
+              "1-3K",
+              "5-15K",
+              "25K",
+              "2K",
+              "1-3K",
+              "3-5K",
+              "30-100K",
+              "1 780",
+              "4 000 ",
+              "4 000 ",
+              "2 500-4 500",
+              "15K",
+              "4 000 ",
+              "40K",
+              "100-150K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/01_15_robot_zoo/README.md",
+              "04_robotics_caremate/02_caremate_hub/README.md",
+              "04_robotics_caremate/10_pflege_ai/README.md",
+              "04_robotics_caremate/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/05_aal_programme/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/next_steps.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "20-40K",
+              "30K",
+              "30 000 ",
+              "20-40K",
+              "20-40K",
+              "50 000\n",
+              "5-15K",
+              "30K",
+              "5-10K",
+              "30K",
+              "30K",
+              "30K",
+              "28K",
+              "20-40K",
+              "30K",
+              "50K",
+              "10K",
+              "50K",
+              "40K",
+              "20-40K",
+              "20-40K",
+              "25K",
+              "30K",
+              "5-10K",
+              "25K",
+              "20-40K",
+              "20-40K",
+              "8K"
+            ]
+          },
+          {
+            "range": [
+              60000,
+              70000
+            ],
+            "files": [
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "09_media_newsroom/05_ner_extraction/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "60-70K",
+              "50-200K",
+              "150K",
+              "150K",
+              "150K",
+              "200K",
+              "150K",
+              "150 000",
+              "20-50K",
+              "150-220K",
+              "40K",
+              "150-220K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/01_15_robot_zoo/README.md",
+              "04_robotics_caremate/07_table_chef_robot/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200K",
+              "100 000 ",
+              "100K",
+              "100K",
+              "150-220K",
+              "150K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "150 000 ",
+              "100K",
+              "100K",
+              "130K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "150-220K",
+              "100-140K",
+              "150-220K",
+              "150K",
+              "200K",
+              "200K",
+              "100-150K",
+              "150-200K",
+              "200K",
+              "55-105K",
+              "150K",
+              "140-200K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md"
+            ],
+            "raw": [
+              "300K",
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/05_aal_programme/README.md",
+              "06_business_funding/05_aal_programme/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "08_knowledge_methodology/06_lms_slm_phi2/README.md",
+              "10_health_accessibility/12_aal_programme_ehealth/README.md",
+              "10_health_accessibility/12_aal_programme_ehealth/README.md",
+              "10_health_accessibility/next_steps.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500 000 ",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              1000000,
+              1000000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1M"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "2-4M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M"
+            ]
+          },
+          {
+            "range": [
+              25000000,
+              30000000
+            ],
+            "files": [
+              "06_business_funding/05_aal_programme/README.md"
+            ],
+            "raw": [
+              "25-30M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/next_steps.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/next_steps.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "0-6",
+              "6-18",
+              "4-5",
+              "3-4",
+              "3",
+              "4-5",
+              "18",
+              "12",
+              "5",
+              "12",
+              "3",
+              "1",
+              "2",
+              "3",
+              "12",
+              "0-3",
+              "3-12",
+              "0-6",
+              "4-5",
+              "3-4",
+              "3",
+              "4-5",
+              "12-18",
+              "5",
+              "3",
+              "18-24",
+              "6-18",
+              "0-12",
+              "12-24",
+              "2-6",
+              "3",
+              "1-3",
+              "6-12",
+              "3",
+              "0-3",
+              "24",
+              "5-6",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/12_aal_programme_ehealth/README.md",
+              "10_health_accessibility/next_steps.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "12-36",
+              "6-18",
+              "12",
+              "18",
+              "12",
+              "5-6",
+              "3-6",
+              "0-6",
+              "0-12",
+              "12-24",
+              "1",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3-12",
+              "24",
+              "5-6"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/05_aal_programme/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/next_steps.md",
+              "10_health_accessibility/08_diga_certification/README.md",
+              "10_health_accessibility/12_aal_programme_ehealth/README.md",
+              "superprojects/03_caremate_total/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "30",
+              "24-36",
+              "36",
+              "18-36",
+              "24-36",
+              "36",
+              "24-36",
+              "6-18",
+              "6",
+              "6-12",
+              "12",
+              "5-6",
+              "4-5",
+              "4-5"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              8000,
+              8000
+            ],
+            "files": [
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "8K",
+              "8K"
+            ]
+          },
+          {
+            "range": [
+              40000,
+              40000
+            ],
+            "files": [
+              "06_business_funding/19_caremate_b2b2c/README.md",
+              "superprojects/03_caremate_total/README.md"
+            ],
+            "raw": [
+              "40K",
+              "40K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "NeuroOS",
+    "total_files": 55,
+    "budget_clusters_count": 17,
+    "timeline_clusters_count": 4,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "02_ai_agents/16_exo_p2p/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/02_smart_office_proto/README.md",
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "05_software_automation/14_function_registry/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "07_inventions_patents/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "0 ",
+              "0 ",
+              "0",
+              "0",
+              "0\n",
+              "0 ",
+              "0 ",
+              "0 ",
+              "0",
+              "0 ",
+              "0",
+              "0 ",
+              "0-500 ",
+              "99-299\n   ",
+              "0 "
+            ]
+          },
+          {
+            "range": [
+              1,
+              1
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "1",
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "range": [
+              9,
+              9
+            ],
+            "files": [
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/02_smart_office_proto/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "07_inventions_patents/10_pyramid_knowledge/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "9",
+              "9-19",
+              "9",
+              "19-29 ",
+              "19"
+            ]
+          },
+          {
+            "range": [
+              19,
+              19
+            ],
+            "files": [
+              "05_software_automation/01_internet_function_os/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "08_knowledge_methodology/next_steps.md"
+            ],
+            "raw": [
+              "19",
+              "19",
+              "19-29\n   "
+            ]
+          },
+          {
+            "range": [
+              29,
+              49
+            ],
+            "files": [
+              "05_software_automation/02_smart_office_proto/README.md",
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "29-49",
+              "29",
+              "5-50 ",
+              "9"
+            ]
+          },
+          {
+            "range": [
+              99,
+              99
+            ],
+            "files": [
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "07_inventions_patents/README.md"
+            ],
+            "raw": [
+              "99",
+              "10-100 ",
+              "100-500"
+            ]
+          },
+          {
+            "range": [
+              150,
+              150
+            ],
+            "files": [
+              "05_software_automation/16_mvp_backlog/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "07_inventions_patents/10_pyramid_knowledge/README.md"
+            ],
+            "raw": [
+              "150",
+              "150",
+              "99-299\n"
+            ]
+          },
+          {
+            "range": [
+              200,
+              500
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "200-500 ",
+              "500",
+              "499",
+              "499",
+              "500",
+              "499",
+              "40-300 ",
+              "499"
+            ]
+          },
+          {
+            "range": [
+              1000,
+              3000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "05_software_automation/02_smart_office_proto/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "3-5K",
+              "2-5K",
+              "5-10K",
+              "3-5K",
+              "1K",
+              "5K",
+              "5K",
+              "10-20K",
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "3 000",
+              "2 500",
+              "2 000",
+              "1 000",
+              "10-30K",
+              "10 000 ",
+              "10K",
+              "12K",
+              "2-5K",
+              "1-3K",
+              "25K",
+              "3-10K",
+              "10-30K",
+              "12K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "05_software_automation/02_smart_office_proto/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/01_neuro_os/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "20-40K",
+              "30K",
+              "16K",
+              "30K",
+              "15-30K",
+              "20-50K",
+              "30K",
+              "30K",
+              "30K",
+              "30K",
+              "28K",
+              "50K",
+              "35-50K",
+              "40K",
+              "25K",
+              "5-15K",
+              "35-50K",
+              "35-50K"
+            ]
+          },
+          {
+            "range": [
+              72000,
+              72000
+            ],
+            "files": [
+              "05_software_automation/16_mvp_backlog/README.md"
+            ],
+            "raw": [
+              "72K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "02_ai_agents/next_steps.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/01_neuro_os/README.md",
+              "superprojects/01_neuro_os/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200K",
+              "100-150K",
+              "100-150K",
+              "80-120K",
+              "100-150K",
+              "150K",
+              "100-150K",
+              "150K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "150 000 ",
+              "100K",
+              "100K",
+              "130K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "100-150K",
+              "80-120K",
+              "100-150K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "100-150K",
+              "150K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "300K",
+              "300K",
+              "300K",
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              1000000,
+              1000000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1M"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "2-4M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "02_ai_agents/next_steps.md",
+              "02_ai_agents/next_steps.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/01_internet_function_os/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/16_mvp_backlog/README.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/01_neuro_os/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "0-6",
+              "6-18",
+              "4-5",
+              "3-4",
+              "3",
+              "4-5",
+              "18",
+              "12",
+              "5",
+              "12",
+              "3",
+              "1",
+              "2",
+              "3",
+              "12",
+              "0-3",
+              "3-12",
+              "1",
+              "1",
+              "2-3",
+              "1",
+              "1",
+              "1",
+              "6-9",
+              "6-9",
+              "1",
+              "1",
+              "2-3",
+              "1",
+              "1",
+              "1",
+              "5",
+              "1",
+              "5",
+              "4-5",
+              "5",
+              "0-3",
+              "3",
+              "3-4",
+              "0-6",
+              "4-5",
+              "3",
+              "12",
+              "5",
+              "12",
+              "4-5",
+              "6-12",
+              "4-5",
+              "5-6",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "18-36",
+              "18",
+              "12-36",
+              "18",
+              "12",
+              "36",
+              "24",
+              "3-12",
+              "4-5",
+              "4-5"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "02_ai_agents/next_steps.md",
+              "05_software_automation/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "superprojects/01_neuro_os/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "12-36",
+              "3-12",
+              "6-18",
+              "3-4",
+              "4-5",
+              "12-18",
+              "3",
+              "12",
+              "5",
+              "0-3",
+              "24",
+              "5-6"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "30",
+              "24-36",
+              "36",
+              "18-36",
+              "24-36",
+              "18",
+              "18-24",
+              "30",
+              "24"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              12000,
+              12000
+            ],
+            "files": [
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "12K",
+              "12K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "06_business_funding/18_neuro_os_freemium/README.md",
+              "superprojects/01_neuro_os/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "40K",
+              "35-50K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "SkyMediaHub",
+    "total_files": 29,
+    "budget_clusters_count": 17,
+    "timeline_clusters_count": 1,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "09_media_newsroom/01_ai_newsroom/README.md"
+            ],
+            "raw": [
+              "0 ",
+              "0 ",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0",
+              "0 "
+            ]
+          },
+          {
+            "range": [
+              1,
+              1
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "1",
+              "1",
+              "1-5 ",
+              "2"
+            ]
+          },
+          {
+            "range": [
+              2,
+              5
+            ],
+            "files": [
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "2-5 ",
+              "2",
+              "2",
+              "2",
+              "2"
+            ]
+          },
+          {
+            "range": [
+              49,
+              199
+            ],
+            "files": [
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "09_media_newsroom/01_ai_newsroom/README.md"
+            ],
+            "raw": [
+              "49-199",
+              "50",
+              "100",
+              "95",
+              "49-199",
+              "50-150 ",
+              "40-300 ",
+              "299"
+            ]
+          },
+          {
+            "range": [
+              200,
+              500
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "09_media_newsroom/next_steps.md"
+            ],
+            "raw": [
+              "200-500 ",
+              "500",
+              "500-200",
+              "500-200",
+              "500-200",
+              "200",
+              "500-200",
+              "500",
+              "500-200",
+              "500-200",
+              "100-500",
+              "299-999"
+            ]
+          },
+          {
+            "range": [
+              250,
+              150
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "09_media_newsroom/01_ai_newsroom/README.md",
+              "09_media_newsroom/next_steps.md"
+            ],
+            "raw": [
+              "250-150",
+              "0-500\n",
+              "0",
+              "2",
+              "2-5",
+              "0-500 ",
+              "99",
+              "199-499 "
+            ]
+          },
+          {
+            "range": [
+              999,
+              999
+            ],
+            "files": [
+              "09_media_newsroom/01_ai_newsroom/README.md"
+            ],
+            "raw": [
+              "999"
+            ]
+          },
+          {
+            "range": [
+              1000,
+              3000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md"
+            ],
+            "raw": [
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "10 000 ",
+              "2 500-5 000 ",
+              "10-20K",
+              "3-10K",
+              "10-30K"
+            ]
+          },
+          {
+            "range": [
+              20000,
+              40000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "07_inventions_patents/README.md"
+            ],
+            "raw": [
+              "20-40K",
+              "30K",
+              "30K",
+              "30K",
+              "10-30K",
+              "10K",
+              "8 000-15 000 ",
+              "15K",
+              "40K",
+              "5-10K",
+              "25K",
+              "25K",
+              "5-15K"
+            ]
+          },
+          {
+            "range": [
+              50000,
+              50000
+            ],
+            "files": [
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "09_media_newsroom/next_steps.md"
+            ],
+            "raw": [
+              "50K",
+              "30-50K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "03_drones_skymediahub/15_partner_letters/README.md",
+              "03_drones_skymediahub/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "150K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200 000\n",
+              "100K",
+              "200K",
+              "200K",
+              "200K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "150-200K",
+              "120-160K",
+              "150-200K",
+              "200K",
+              "150K",
+              "200K",
+              "150K",
+              "200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md"
+            ],
+            "raw": [
+              "300K",
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              1000000,
+              1000000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1M"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "4M",
+              "4M",
+              "2-4M",
+              "2M"
+            ]
+          },
+          {
+            "range": [
+              5000000,
+              5000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md"
+            ],
+            "raw": [
+              "5M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M",
+              "15M",
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              15000,
+              15000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              40000,
+              40000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "40K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "TetraDrone",
+    "total_files": 28,
+    "budget_clusters_count": 14,
+    "timeline_clusters_count": 5,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "0",
+              "0",
+              "0",
+              "0-500 ",
+              "0 ",
+              "1-5 ",
+              "500-200",
+              "0"
+            ]
+          },
+          {
+            "range": [
+              5,
+              5
+            ],
+            "files": [
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/README.md",
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "5",
+              "5 ",
+              "5 ",
+              "2-5 ",
+              "2",
+              "2-5",
+              "2",
+              "2",
+              "2",
+              "1-5 ",
+              "2-5",
+              "2",
+              "2",
+              "1",
+              "2-5"
+            ]
+          },
+          {
+            "range": [
+              100,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "03_drones_skymediahub/11_agro_scout/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "100-200 ",
+              "50-100 ",
+              "30-50 ",
+              "20-40 ",
+              "49-199",
+              "50",
+              "100",
+              "200",
+              "10-50",
+              "95",
+              "149-299 ",
+              "49-199",
+              "50-150 ",
+              "40-300 ",
+              "200-500 ",
+              "500-200"
+            ]
+          },
+          {
+            "range": [
+              350,
+              500
+            ],
+            "files": [
+              "03_drones_skymediahub/02_tetradrone/README.md",
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "350-500 ",
+              "99-499",
+              "99-199 ",
+              "299-599\n",
+              "499-999\n",
+              "500-200",
+              "500-200",
+              "100-500",
+              "49-199",
+              "50-150 "
+            ]
+          },
+          {
+            "range": [
+              5000,
+              5000
+            ],
+            "files": [
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "5K",
+              "2 500-5 000 ",
+              "5-10K",
+              "3-10K",
+              "10-30K",
+              "10-30K",
+              "1-3K",
+              "10-30K",
+              "15-40K",
+              "8 000-15 000 ",
+              "40K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "10-30K",
+              "30K",
+              "30K",
+              "50K",
+              "8 000-15 000 ",
+              "15K",
+              "40K",
+              "10-20K",
+              "25K",
+              "25K",
+              "5-15K",
+              "5-15K",
+              "15-30K",
+              "15-30K",
+              "2 500-5 000 ",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              60000,
+              70000
+            ],
+            "files": [
+              "06_business_funding/06_kickstarter/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "60-70K",
+              "42-94K",
+              "30-100K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "03_drones_skymediahub/15_partner_letters/README.md",
+              "03_drones_skymediahub/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "09_media_newsroom/05_ner_extraction/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200 000\n",
+              "100K",
+              "200K",
+              "200K",
+              "200K",
+              "100K",
+              "100K",
+              "150-200K",
+              "120-160K",
+              "150-200K",
+              "200K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "150 000",
+              "150-200K",
+              "200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              3000
+            ],
+            "files": [
+              "07_inventions_patents/map.md"
+            ],
+            "raw": [
+              "300-3K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              3000
+            ],
+            "files": [
+              "07_inventions_patents/01_tetradrone/README.md"
+            ],
+            "raw": [
+              "500-3K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "08_knowledge_methodology/06_lms_slm_phi2/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "4M",
+              "4M",
+              "2-4M",
+              "2M",
+              "2M"
+            ]
+          },
+          {
+            "range": [
+              5000000,
+              5000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md"
+            ],
+            "raw": [
+              "5M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M",
+              "15M",
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              0,
+              3
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "0-3",
+              "3-6",
+              "1",
+              "1",
+              "1",
+              "0-3",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "07_inventions_patents/01_tetradrone/README.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "6-12",
+              "12-18",
+              "18",
+              "3-12"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "12-24",
+              "3-12",
+              "18",
+              "6-8",
+              "12",
+              "6-12",
+              "24"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "28"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "30",
+              "12-36",
+              "18-24",
+              "6-12",
+              "30",
+              "30",
+              "6-12"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              15000,
+              15000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "15K",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              40000,
+              40000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "40K",
+              "40K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "WILOS",
+    "total_files": 20,
+    "budget_clusters_count": 13,
+    "timeline_clusters_count": 5,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "0",
+              "0 ",
+              "0"
+            ]
+          },
+          {
+            "range": [
+              2,
+              2
+            ],
+            "files": [
+              "03_drones_skymediahub/README.md",
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "2",
+              "2-5",
+              "2",
+              "2",
+              "2",
+              "1-5 ",
+              "2-5",
+              "0-500 ",
+              "1",
+              "1-5 ",
+              "2-5"
+            ]
+          },
+          {
+            "range": [
+              100,
+              100
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "100",
+              "99-499",
+              "99-199 ",
+              "499-999\n",
+              "500-200",
+              "200-500 ",
+              "50-150 "
+            ]
+          },
+          {
+            "range": [
+              200,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "200",
+              "149-299 ",
+              "50-150 ",
+              "100-500",
+              "500-200"
+            ]
+          },
+          {
+            "range": [
+              500,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "04_robotics_caremate/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "500-200",
+              "50-500",
+              "95",
+              "299-599\n",
+              "500-200",
+              "40-300 ",
+              "49-199",
+              "500-200"
+            ]
+          },
+          {
+            "range": [
+              5000,
+              5000
+            ],
+            "files": [
+              "04_robotics_caremate/08_agro_robots/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "5K",
+              "2 500-5 000 ",
+              "5-10K",
+              "5-15K",
+              "5-15K",
+              "1-3K",
+              "10-30K",
+              "15-40K",
+              "8 000-15 000 ",
+              "40K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "04_robotics_caremate/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "50 000\n",
+              "10-30K",
+              "30K",
+              "30K",
+              "50K",
+              "8 000-15 000 ",
+              "15K",
+              "40K",
+              "10-20K",
+              "3-10K",
+              "10-30K",
+              "10-30K",
+              "15-30K",
+              "15-30K",
+              "2 500-5 000 ",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              60000,
+              70000
+            ],
+            "files": [
+              "06_business_funding/06_kickstarter/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "60-70K",
+              "42-94K",
+              "30-100K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "200K",
+              "200K",
+              "200K",
+              "100K",
+              "100K",
+              "150-200K",
+              "120-160K",
+              "150-200K",
+              "200K",
+              "150-200K",
+              "200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              3000
+            ],
+            "files": [
+              "07_inventions_patents/map.md"
+            ],
+            "raw": [
+              "300-3K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "2-4M",
+              "2M",
+              "2M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M",
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              0,
+              3
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "0-3",
+              "3-6",
+              "1",
+              "1",
+              "1",
+              "3-12"
+            ]
+          },
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "6-12",
+              "6-8",
+              "12",
+              "6-12"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "12-24",
+              "3-12",
+              "18",
+              "6-12",
+              "0-3",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "28"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "30",
+              "12-36",
+              "18-24",
+              "30",
+              "30",
+              "6-12",
+              "24"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              15000,
+              15000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "15K",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              40000,
+              40000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "40K",
+              "40K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "RobotZoo",
+    "total_files": 18,
+    "budget_clusters_count": 10,
+    "timeline_clusters_count": 1,
+    "mrr_clusters_count": 0,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              1,
+              1
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "1",
+              "1",
+              "0-500 ",
+              "100-500",
+              "1"
+            ]
+          },
+          {
+            "range": [
+              200,
+              500
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "200-500 ",
+              "500",
+              "50-500",
+              "99-499\n   ",
+              "250-150",
+              "500",
+              "40-300 ",
+              "200-500 "
+            ]
+          },
+          {
+            "range": [
+              750,
+              750
+            ],
+            "files": [
+              "04_robotics_caremate/01_15_robot_zoo/README.md"
+            ],
+            "raw": [
+              "750-750"
+            ]
+          },
+          {
+            "range": [
+              1000,
+              3000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/13_swarm_charging_safety/README.md",
+              "04_robotics_caremate/13_swarm_charging_safety/README.md",
+              "04_robotics_caremate/13_swarm_charging_safety/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "10_health_accessibility/04_assistive_technology/README.md"
+            ],
+            "raw": [
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "5-15K",
+              "10-20K",
+              "4K",
+              "1-3K",
+              "3-5K",
+              "1-3K",
+              "3-5K",
+              "10K",
+              "5-15K",
+              "1-3K",
+              "10-30K",
+              "4 000 "
+            ]
+          },
+          {
+            "range": [
+              20000,
+              40000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/01_15_robot_zoo/README.md",
+              "04_robotics_caremate/13_swarm_charging_safety/README.md",
+              "04_robotics_caremate/13_swarm_charging_safety/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "10_health_accessibility/04_assistive_technology/README.md"
+            ],
+            "raw": [
+              "20-40K",
+              "30K",
+              "30 000 ",
+              "10-25K",
+              "20-40K",
+              "5-15K",
+              "30K",
+              "5-10K",
+              "30K",
+              "3-10K",
+              "10-30K",
+              "15-30K",
+              "15-30K",
+              "4 000 "
+            ]
+          },
+          {
+            "range": [
+              50000,
+              50000
+            ],
+            "files": [
+              "04_robotics_caremate/README.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "50 000\n",
+              "42-94K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/01_15_robot_zoo/README.md",
+              "04_robotics_caremate/next_steps.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200K",
+              "100 000 ",
+              "100K",
+              "150-220K",
+              "150K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "04_robotics_caremate/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              1000000,
+              1000000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1M"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "FlamberRotor",
+    "total_files": 12,
+    "budget_clusters_count": 14,
+    "timeline_clusters_count": 2,
+    "mrr_clusters_count": 0,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "07_inventions_patents/map.md"
+            ],
+            "raw": [
+              "0",
+              "0",
+              "0 "
+            ]
+          },
+          {
+            "range": [
+              2,
+              2
+            ],
+            "files": [
+              "03_drones_skymediahub/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "2",
+              "0-500 ",
+              "1"
+            ]
+          },
+          {
+            "range": [
+              50,
+              50
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "07_inventions_patents/README.md"
+            ],
+            "raw": [
+              "50",
+              "40-300 "
+            ]
+          },
+          {
+            "range": [
+              100,
+              100
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "07_inventions_patents/README.md"
+            ],
+            "raw": [
+              "100",
+              "100-500"
+            ]
+          },
+          {
+            "range": [
+              200,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "200",
+              "200-500 "
+            ]
+          },
+          {
+            "range": [
+              3000,
+              10000
+            ],
+            "files": [
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "3-10K",
+              "5-15K",
+              "10-30K",
+              "5-15K",
+              "10-30K",
+              "1-3K",
+              "15-30K",
+              "10-30K",
+              "15-30K"
+            ]
+          },
+          {
+            "range": [
+              42000,
+              94000
+            ],
+            "files": [
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "42-94K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              100000
+            ],
+            "files": [
+              "06_business_funding/03_bayern_innovativ/README.md"
+            ],
+            "raw": [
+              "100K"
+            ]
+          },
+          {
+            "range": [
+              200000,
+              200000
+            ],
+            "files": [
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "03_drones_skymediahub/15_partner_letters/README.md",
+              "03_drones_skymediahub/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md"
+            ],
+            "raw": [
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200K",
+              "200 000\n",
+              "200K",
+              "200K",
+              "200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              3000
+            ],
+            "files": [
+              "07_inventions_patents/map.md"
+            ],
+            "raw": [
+              "300-3K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/03_bayern_innovativ/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md",
+              "06_business_funding/03_bayern_innovativ/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M"
+            ]
+          },
+          {
+            "range": [
+              5000000,
+              5000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md"
+            ],
+            "raw": [
+              "5M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "03_drones_skymediahub/14_dual_use_concept/README.md"
+            ],
+            "raw": [
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              0,
+              3
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "0-3",
+              "1",
+              "1",
+              "1",
+              "0-3"
+            ]
+          },
+          {
+            "range": [
+              12,
+              24
+            ],
+            "files": [
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/01_skymediahub_bavaria/README.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/03_bayern_innovativ/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/README.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/map.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md",
+              "07_inventions_patents/next_steps.md"
+            ],
+            "raw": [
+              "12-24",
+              "6-12",
+              "3-12",
+              "12-36",
+              "18",
+              "12-18",
+              "6-12",
+              "30",
+              "12",
+              "30",
+              "3-12",
+              "6-12",
+              "6-12"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "ForthSwarm",
+    "total_files": 21,
+    "budget_clusters_count": 14,
+    "timeline_clusters_count": 4,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "0",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "range": [
+              2,
+              2
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "2",
+              "2",
+              "2",
+              "1-5 ",
+              "2-5",
+              "2",
+              "2",
+              "1",
+              "1-5 ",
+              "2-5"
+            ]
+          },
+          {
+            "range": [
+              95,
+              95
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "95",
+              "50-150 "
+            ]
+          },
+          {
+            "range": [
+              100,
+              100
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "100",
+              "99-199 ",
+              "49-199",
+              "50-150 "
+            ]
+          },
+          {
+            "range": [
+              200,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "200",
+              "200",
+              "200",
+              "149-299 ",
+              "299-599\n",
+              "499-999\n",
+              "500-200",
+              "500-200",
+              "250-150",
+              "500-200"
+            ]
+          },
+          {
+            "range": [
+              500,
+              200
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "500-200",
+              "200-500",
+              "500-200"
+            ]
+          },
+          {
+            "range": [
+              2000,
+              2000
+            ],
+            "files": [
+              "06_business_funding/map.md"
+            ],
+            "raw": [
+              "2K"
+            ]
+          },
+          {
+            "range": [
+              2500,
+              5000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "2 500-5 000 ",
+              "5-10K",
+              "1-3K",
+              "3-5K",
+              "2 500-5 000 "
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "10-30K",
+              "30K",
+              "30K",
+              "50K",
+              "8 000-15 000 ",
+              "15K",
+              "40K",
+              "10-20K",
+              "25K",
+              "25K",
+              "30K",
+              "5-10K",
+              "25K",
+              "8 000-15 000 ",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              60000,
+              70000
+            ],
+            "files": [
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "60-70K",
+              "30-100K",
+              "15-40K",
+              "30-100K",
+              "40K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/06_kickstarter/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "200K",
+              "100K",
+              "100K",
+              "150-200K",
+              "120-160K",
+              "150-200K",
+              "200K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "150K",
+              "100-150K",
+              "200K",
+              "150-200K",
+              "150K",
+              "200K",
+              "150-200K",
+              "200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/map.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              4000000,
+              4000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "4M",
+              "4M",
+              "2-4M",
+              "2M",
+              "2M"
+            ]
+          },
+          {
+            "range": [
+              15000000,
+              15000000
+            ],
+            "files": [
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md"
+            ],
+            "raw": [
+              "15M",
+              "15M",
+              "15M"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              0,
+              3
+            ],
+            "files": [
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "0-3",
+              "3-6",
+              "0-12",
+              "6-18",
+              "12-24",
+              "24",
+              "5-6",
+              "4-5"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "03_drones_skymediahub/next_steps.md",
+              "03_drones_skymediahub/next_steps.md",
+              "06_business_funding/04_horizon_eic/README.md",
+              "06_business_funding/map.md",
+              "06_business_funding/map.md",
+              "superprojects/05_forth_swarm/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "12-36",
+              "18",
+              "18-24",
+              "0-12",
+              "12-24",
+              "6-8",
+              "4-5",
+              "5-6",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "28"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md"
+            ],
+            "raw": [
+              "30"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              15000,
+              15000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "15K",
+              "15K"
+            ]
+          },
+          {
+            "range": [
+              40000,
+              40000
+            ],
+            "files": [
+              "06_business_funding/21_forth_swarm_hardware/README.md",
+              "superprojects/05_forth_swarm/README.md"
+            ],
+            "raw": [
+              "40K",
+              "40K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "NeuroPortal",
+    "total_files": 24,
+    "budget_clusters_count": 12,
+    "timeline_clusters_count": 5,
+    "mrr_clusters_count": 3,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "0 ",
+              "0 ",
+              "0 "
+            ]
+          },
+          {
+            "range": [
+              2,
+              2
+            ],
+            "files": [
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "2",
+              "2"
+            ]
+          },
+          {
+            "range": [
+              7,
+              7
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "7",
+              "7"
+            ]
+          },
+          {
+            "range": [
+              19,
+              19
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "19",
+              "19"
+            ]
+          },
+          {
+            "range": [
+              29,
+              29
+            ],
+            "files": [
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "08_knowledge_methodology/next_steps.md"
+            ],
+            "raw": [
+              "29",
+              "19-29\n   "
+            ]
+          },
+          {
+            "range": [
+              99,
+              99
+            ],
+            "files": [
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "09_media_newsroom/next_steps.md"
+            ],
+            "raw": [
+              "99",
+              "99-299\n   ",
+              "199-499 "
+            ]
+          },
+          {
+            "range": [
+              499,
+              499
+            ],
+            "files": [
+              "05_software_automation/08_b2b_neuronet/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "09_media_newsroom/next_steps.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "499",
+              "199-999",
+              "299-999",
+              "199-999"
+            ]
+          },
+          {
+            "range": [
+              5000,
+              5000
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "5K",
+              "3-8K",
+              "1-3K",
+              "5K"
+            ]
+          },
+          {
+            "range": [
+              12000,
+              12000
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "12K",
+              "12K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "09_media_newsroom/next_steps.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35K",
+              "50K",
+              "25K",
+              "25K",
+              "30-50K",
+              "35K",
+              "35K",
+              "50K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "150-200K",
+              "120-160K",
+              "150-200K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "150-200K",
+              "150K",
+              "200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              0,
+              3
+            ],
+            "files": [
+              "08_knowledge_methodology/next_steps.md",
+              "09_media_newsroom/next_steps.md"
+            ],
+            "raw": [
+              "0-3",
+              "0-3"
+            ]
+          },
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/20_neuroportal_content/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "09_media_newsroom/next_steps.md",
+              "superprojects/04_neuroportal/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "3-12",
+              "3-12",
+              "4-5",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md"
+            ],
+            "raw": [
+              "28",
+              "28"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "30",
+              "30"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              5000,
+              5000
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "5K",
+              "5K"
+            ]
+          },
+          {
+            "range": [
+              12000,
+              12000
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "12K",
+              "12K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              35000
+            ],
+            "files": [
+              "06_business_funding/20_neuroportal_content/README.md",
+              "superprojects/04_neuroportal/README.md"
+            ],
+            "raw": [
+              "35K",
+              "35K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "DigitalCaravan",
+    "total_files": 14,
+    "budget_clusters_count": 15,
+    "timeline_clusters_count": 6,
+    "mrr_clusters_count": 2,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "02_ai_agents/16_exo_p2p/README.md"
+            ],
+            "raw": [
+              "0\n"
+            ]
+          },
+          {
+            "range": [
+              5,
+              50
+            ],
+            "files": [
+              "06_business_funding/07_microfranchise/README.md",
+              "06_business_funding/07_microfranchise/README.md",
+              "06_business_funding/07_microfranchise/README.md",
+              "06_business_funding/07_microfranchise/README.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "5-50",
+              "19 ",
+              "39 ",
+              "19-99\n",
+              "5-20 ",
+              "2-10 ",
+              "14",
+              "2",
+              "2",
+              "14"
+            ]
+          },
+          {
+            "range": [
+              99,
+              99
+            ],
+            "files": [
+              "06_business_funding/07_microfranchise/README.md",
+              "06_business_funding/10_geoarb/README.md",
+              "06_business_funding/10_geoarb/README.md"
+            ],
+            "raw": [
+              "99 ",
+              "80-150",
+              "100"
+            ]
+          },
+          {
+            "range": [
+              199,
+              199
+            ],
+            "files": [
+              "06_business_funding/07_microfranchise/README.md"
+            ],
+            "raw": [
+              "199 "
+            ]
+          },
+          {
+            "range": [
+              200,
+              200
+            ],
+            "files": [
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "06_business_funding/10_geoarb/README.md"
+            ],
+            "raw": [
+              "200",
+              "200",
+              "200"
+            ]
+          },
+          {
+            "range": [
+              299,
+              299
+            ],
+            "files": [
+              "06_business_funding/07_microfranchise/README.md"
+            ],
+            "raw": [
+              "299 "
+            ]
+          },
+          {
+            "range": [
+              350,
+              350
+            ],
+            "files": [
+              "06_business_funding/10_geoarb/README.md"
+            ],
+            "raw": [
+              "350"
+            ]
+          },
+          {
+            "range": [
+              500,
+              150
+            ],
+            "files": [
+              "06_business_funding/10_geoarb/README.md"
+            ],
+            "raw": [
+              "500-150"
+            ]
+          },
+          {
+            "range": [
+              500,
+              100
+            ],
+            "files": [
+              "06_business_funding/10_geoarb/README.md"
+            ],
+            "raw": [
+              "500-100"
+            ]
+          },
+          {
+            "range": [
+              3000,
+              5000
+            ],
+            "files": [
+              "06_business_funding/11_digital_caravan/README.md"
+            ],
+            "raw": [
+              "3-5K"
+            ]
+          },
+          {
+            "range": [
+              8000,
+              8000
+            ],
+            "files": [
+              "06_business_funding/11_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "8K",
+              "8K"
+            ]
+          },
+          {
+            "range": [
+              35000,
+              50000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/02_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "35-50K",
+              "25-35K",
+              "40K",
+              "35K",
+              "15-40K",
+              "25-35K",
+              "15-25K",
+              "25K",
+              "25K",
+              "25-35K",
+              "25-35K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "superprojects/02_digital_caravan/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K",
+              "100-140K",
+              "140-200K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "140-200K",
+              "100-150K",
+              "140-200K",
+              "150-220K",
+              "150-200K",
+              "150-200K"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "timeline_months",
+        "clusters": [
+          {
+            "range": [
+              4,
+              5
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "06_business_funding/11_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md",
+              "superprojects/README.md"
+            ],
+            "raw": [
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8",
+              "5",
+              "5-6",
+              "6",
+              "4-5",
+              "5-6",
+              "5-6",
+              "4-5",
+              "6-8"
+            ]
+          },
+          {
+            "range": [
+              12,
+              12
+            ],
+            "files": [
+              "06_business_funding/11_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "12",
+              "12"
+            ]
+          },
+          {
+            "range": [
+              18,
+              18
+            ],
+            "files": [
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "18"
+            ]
+          },
+          {
+            "range": [
+              24,
+              24
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24",
+              "24"
+            ]
+          },
+          {
+            "range": [
+              28,
+              28
+            ],
+            "files": [
+              "00_index/superprojects.md",
+              "00_index/superprojects.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "28",
+              "28",
+              "28"
+            ]
+          },
+          {
+            "range": [
+              30,
+              30
+            ],
+            "files": [
+              "00_index/superprojects.md"
+            ],
+            "raw": [
+              "30"
+            ]
+          }
+        ]
+      },
+      {
+        "field": "mrr",
+        "clusters": [
+          {
+            "range": [
+              8000,
+              8000
+            ],
+            "files": [
+              "06_business_funding/11_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "8K",
+              "8K"
+            ]
+          },
+          {
+            "range": [
+              25000,
+              35000
+            ],
+            "files": [
+              "06_business_funding/11_digital_caravan/README.md",
+              "superprojects/02_digital_caravan/README.md"
+            ],
+            "raw": [
+              "25-35K",
+              "25-35K"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "entity": "SozialPlaner",
+    "total_files": 55,
+    "budget_clusters_count": 14,
+    "timeline_clusters_count": 1,
+    "mrr_clusters_count": 0,
+    "conflicts": [
+      {
+        "field": "budget",
+        "clusters": [
+          {
+            "range": [
+              0,
+              0
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "02_ai_agents/16_exo_p2p/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "09_media_newsroom/07_ru_de_translation/README.md"
+            ],
+            "raw": [
+              "0 ",
+              "0 ",
+              "0",
+              "0",
+              "0\n",
+              "0",
+              "0 "
+            ]
+          },
+          {
+            "range": [
+              1,
+              1
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1",
+              "1"
+            ]
+          },
+          {
+            "range": [
+              29,
+              99
+            ],
+            "files": [
+              "01_social_law/README.md",
+              "01_social_law/next_steps.md",
+              "01_social_law/next_steps.md",
+              "01_social_law/next_steps.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "09_media_newsroom/07_ru_de_translation/README.md",
+              "10_health_accessibility/09_mobility_transport/README.md"
+            ],
+            "raw": [
+              "29-99",
+              "29-49\n   ",
+              "50-150 ",
+              "29-99",
+              "150",
+              "29-49",
+              "99",
+              "29",
+              "99",
+              "19-29\n   ",
+              "30",
+              "100"
+            ]
+          },
+          {
+            "range": [
+              200,
+              500
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "01_social_law/next_steps.md",
+              "01_social_law/next_steps.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "05_software_automation/11_smartphone_microserver/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "08_knowledge_methodology/next_steps.md",
+              "10_health_accessibility/02_pflegegrad_cases/README.md"
+            ],
+            "raw": [
+              "200-500 ",
+              "500",
+              "500-200",
+              "299",
+              "200",
+              "200",
+              "500",
+              "500-200",
+              "499",
+              "99-299\n   ",
+              "131 "
+            ]
+          },
+          {
+            "range": [
+              250,
+              150
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "09_media_newsroom/07_ru_de_translation/README.md",
+              "10_health_accessibility/02_pflegegrad_cases/README.md",
+              "10_health_accessibility/02_pflegegrad_cases/README.md",
+              "10_health_accessibility/14_russian_speakers_de/README.md"
+            ],
+            "raw": [
+              "250-150",
+              "0-500\n",
+              "0",
+              "29-99",
+              "29-49 ",
+              "19-29",
+              "49",
+              "2",
+              "2",
+              "0 ",
+              "332-689 ",
+              "573-129",
+              "29 "
+            ]
+          },
+          {
+            "range": [
+              765,
+              161
+            ],
+            "files": [
+              "10_health_accessibility/02_pflegegrad_cases/README.md"
+            ],
+            "raw": [
+              "765-161"
+            ]
+          },
+          {
+            "range": [
+              947,
+              199
+            ],
+            "files": [
+              "10_health_accessibility/02_pflegegrad_cases/README.md"
+            ],
+            "raw": [
+              "947-199"
+            ]
+          },
+          {
+            "range": [
+              1000,
+              3000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "10_health_accessibility/09_mobility_transport/README.md"
+            ],
+            "raw": [
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "1-3K",
+              "3-5K",
+              "5-10K",
+              "10K",
+              "3 000",
+              "2 500",
+              "2 000",
+              "1 000",
+              "10 000 ",
+              "10K",
+              "4 000 "
+            ]
+          },
+          {
+            "range": [
+              20000,
+              40000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/13_sozialplaner_saas/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "20-40K",
+              "30K",
+              "30K",
+              "30K",
+              "30K",
+              "30K",
+              "28K",
+              "30K",
+              "25K",
+              "25K"
+            ]
+          },
+          {
+            "range": [
+              50000,
+              50000
+            ],
+            "files": [
+              "06_business_funding/12_invest_zuschuss/README.md"
+            ],
+            "raw": [
+              "50K"
+            ]
+          },
+          {
+            "range": [
+              100000,
+              150000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "00_index/three_waves_roadmap.md",
+              "01_social_law/next_steps.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/02_exist_gruenderstipendium/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md",
+              "09_media_newsroom/05_ner_extraction/README.md"
+            ],
+            "raw": [
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "200K",
+              "150K",
+              "150K",
+              "100-150K",
+              "150-220K",
+              "200K",
+              "150K",
+              "150 000 ",
+              "100K",
+              "100K",
+              "130K",
+              "100K",
+              "100K",
+              "100K",
+              "100K",
+              "150K",
+              "200K",
+              "150K",
+              "200K",
+              "150 000"
+            ]
+          },
+          {
+            "range": [
+              300000,
+              300000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md"
+            ],
+            "raw": [
+              "300K",
+              "300K"
+            ]
+          },
+          {
+            "range": [
+              500000,
+              500000
+            ],
+            "files": [
+              "00_index/three_waves_roadmap.md",
+              "06_business_funding/01_three_waves_strategy/README.md",
+              "06_business_funding/12_invest_zuschuss/README.md",
+              "06_business_funding/README.md",
+              "06_business_funding/README.md"
+            ],
+            "raw": [
+              "500K",
+              "500K",
+              "500K",
+              "500K",
+              "500K"
+            ]
+          },
+          {
+            "range": [
+              1000000,
+              1000000
+            ],
+            "files": [
+              "06_business_funding/01_three_waves_strategy/README.md"
+            ],
+            "raw": [
+              "1M"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

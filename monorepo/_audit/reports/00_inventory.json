@@ -1,0 +1,1581 @@
+{
+  "generated_at": "2026-06-05T11:22:07.579395Z",
+  "root": "/home/user/data70/monorepo",
+  "clusters": {
+    "00_index": {
+      "path": "00_index",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {},
+      "markdown_files": 10,
+      "bytes": 43694,
+      "lines": 617
+    },
+    "01_social_law": {
+      "path": "01_social_law",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_persoenliches_budget": {
+          "path": "01_social_law/01_persoenliches_budget",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2825,
+          "lines": 51,
+          "extra_files": []
+        },
+        "02_widerspruch_templates": {
+          "path": "01_social_law/02_widerspruch_templates",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2679,
+          "lines": 48,
+          "extra_files": []
+        },
+        "03_klage_sozialgericht": {
+          "path": "01_social_law/03_klage_sozialgericht",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2382,
+          "lines": 53,
+          "extra_files": []
+        },
+        "04_pflege_assistenz": {
+          "path": "01_social_law/04_pflege_assistenz",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2937,
+          "lines": 55,
+          "extra_files": []
+        },
+        "05_sgb_paragraphs": {
+          "path": "01_social_law/05_sgb_paragraphs",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3455,
+          "lines": 71,
+          "extra_files": []
+        },
+        "06_kostenschieberei": {
+          "path": "01_social_law/06_kostenschieberei",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3588,
+          "lines": 54,
+          "extra_files": []
+        },
+        "07_master_dossier": {
+          "path": "01_social_law/07_master_dossier",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3085,
+          "lines": 52,
+          "extra_files": []
+        },
+        "08_70_modules_catalog": {
+          "path": "01_social_law/08_70_modules_catalog",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3477,
+          "lines": 71,
+          "extra_files": []
+        },
+        "09_bsg_judgements": {
+          "path": "01_social_law/09_bsg_judgements",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2465,
+          "lines": 52,
+          "extra_files": []
+        },
+        "10_ru_de_comparison": {
+          "path": "01_social_law/10_ru_de_comparison",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2717,
+          "lines": 47,
+          "extra_files": []
+        },
+        "11_medical_letters": {
+          "path": "01_social_law/11_medical_letters",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3188,
+          "lines": 50,
+          "extra_files": []
+        },
+        "12_assistive_services_50": {
+          "path": "01_social_law/12_assistive_services_50",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4245,
+          "lines": 96,
+          "extra_files": []
+        },
+        "13_legal_strategy": {
+          "path": "01_social_law/13_legal_strategy",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4044,
+          "lines": 80,
+          "extra_files": []
+        },
+        "14_un_brk_agg": {
+          "path": "01_social_law/14_un_brk_agg",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3456,
+          "lines": 65,
+          "extra_files": []
+        },
+        "15_kindergeld_ao": {
+          "path": "01_social_law/15_kindergeld_ao",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3180,
+          "lines": 53,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 18,
+      "bytes": 58349,
+      "lines": 1074
+    },
+    "02_ai_agents": {
+      "path": "02_ai_agents",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_micro_agents": {
+          "path": "02_ai_agents/01_micro_agents",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2940,
+          "lines": 53,
+          "extra_files": []
+        },
+        "02_local_offline_models": {
+          "path": "02_ai_agents/02_local_offline_models",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3500,
+          "lines": 60,
+          "extra_files": []
+        },
+        "03_one_bit_llm": {
+          "path": "02_ai_agents/03_one_bit_llm",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3282,
+          "lines": 68,
+          "extra_files": []
+        },
+        "04_mcp_protocol": {
+          "path": "02_ai_agents/04_mcp_protocol",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3340,
+          "lines": 66,
+          "extra_files": []
+        },
+        "05_collaboration_llm": {
+          "path": "02_ai_agents/05_collaboration_llm",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3361,
+          "lines": 57,
+          "extra_files": []
+        },
+        "06_sparse_moe": {
+          "path": "02_ai_agents/06_sparse_moe",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3300,
+          "lines": 59,
+          "extra_files": []
+        },
+        "07_lcm_cognitive": {
+          "path": "02_ai_agents/07_lcm_cognitive",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3215,
+          "lines": 52,
+          "extra_files": []
+        },
+        "08_kblam": {
+          "path": "02_ai_agents/08_kblam",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2525,
+          "lines": 46,
+          "extra_files": []
+        },
+        "09_dat_rag": {
+          "path": "02_ai_agents/09_dat_rag",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3296,
+          "lines": 66,
+          "extra_files": []
+        },
+        "10_neurosymbolic": {
+          "path": "02_ai_agents/10_neurosymbolic",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2831,
+          "lines": 57,
+          "extra_files": []
+        },
+        "11_diffusion_text": {
+          "path": "02_ai_agents/11_diffusion_text",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2851,
+          "lines": 51,
+          "extra_files": []
+        },
+        "12_kolmogorov_nn": {
+          "path": "02_ai_agents/12_kolmogorov_nn",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3043,
+          "lines": 53,
+          "extra_files": []
+        },
+        "13_three_level_arch": {
+          "path": "02_ai_agents/13_three_level_arch",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3492,
+          "lines": 66,
+          "extra_files": []
+        },
+        "14_bees_ants_bio": {
+          "path": "02_ai_agents/14_bees_ants_bio",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4119,
+          "lines": 66,
+          "extra_files": []
+        },
+        "15_warmwind_os": {
+          "path": "02_ai_agents/15_warmwind_os",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2713,
+          "lines": 56,
+          "extra_files": []
+        },
+        "16_exo_p2p": {
+          "path": "02_ai_agents/16_exo_p2p",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2889,
+          "lines": 56,
+          "extra_files": []
+        },
+        "17_helix_parallelism": {
+          "path": "02_ai_agents/17_helix_parallelism",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2070,
+          "lines": 37,
+          "extra_files": []
+        },
+        "18_cim_chips": {
+          "path": "02_ai_agents/18_cim_chips",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2451,
+          "lines": 45,
+          "extra_files": []
+        },
+        "19_npu_risc_v": {
+          "path": "02_ai_agents/19_npu_risc_v",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2447,
+          "lines": 52,
+          "extra_files": []
+        },
+        "20_decentralized_compute": {
+          "path": "02_ai_agents/20_decentralized_compute",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3389,
+          "lines": 60,
+          "extra_files": []
+        },
+        "21_livemcp_bench": {
+          "path": "02_ai_agents/21_livemcp_bench",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2178,
+          "lines": 49,
+          "extra_files": []
+        },
+        "22_semantic_bus": {
+          "path": "02_ai_agents/22_semantic_bus",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3939,
+          "lines": 72,
+          "extra_files": []
+        },
+        "23_vast_ai_os": {
+          "path": "02_ai_agents/23_vast_ai_os",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2431,
+          "lines": 50,
+          "extra_files": []
+        },
+        "24_cloud_ru_evolution": {
+          "path": "02_ai_agents/24_cloud_ru_evolution",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2452,
+          "lines": 48,
+          "extra_files": []
+        },
+        "25_ollama_local": {
+          "path": "02_ai_agents/25_ollama_local",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2957,
+          "lines": 73,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 28,
+      "bytes": 86641,
+      "lines": 1632
+    },
+    "03_drones_skymediahub": {
+      "path": "03_drones_skymediahub",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_skymediahub_bavaria": {
+          "path": "03_drones_skymediahub/01_skymediahub_bavaria",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3442,
+          "lines": 70,
+          "extra_files": []
+        },
+        "02_tetradrone": {
+          "path": "03_drones_skymediahub/02_tetradrone",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3820,
+          "lines": 78,
+          "extra_files": []
+        },
+        "03_flamberrotor": {
+          "path": "03_drones_skymediahub/03_flamberrotor",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3270,
+          "lines": 59,
+          "extra_files": []
+        },
+        "04_optofiber_chain": {
+          "path": "03_drones_skymediahub/04_optofiber_chain",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4562,
+          "lines": 84,
+          "extra_files": []
+        },
+        "05_baba_yaga": {
+          "path": "03_drones_skymediahub/05_baba_yaga",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3614,
+          "lines": 72,
+          "extra_files": []
+        },
+        "06_pentagrammacopter": {
+          "path": "03_drones_skymediahub/06_pentagrammacopter",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2457,
+          "lines": 46,
+          "extra_files": []
+        },
+        "07_water_drone_hydrofoil": {
+          "path": "03_drones_skymediahub/07_water_drone_hydrofoil",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3373,
+          "lines": 66,
+          "extra_files": []
+        },
+        "08_4k_compound_camera": {
+          "path": "03_drones_skymediahub/08_4k_compound_camera",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3706,
+          "lines": 71,
+          "extra_files": []
+        },
+        "09_drone_compute_hub": {
+          "path": "03_drones_skymediahub/09_drone_compute_hub",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3580,
+          "lines": 71,
+          "extra_files": []
+        },
+        "10_molniya2_vtol": {
+          "path": "03_drones_skymediahub/10_molniya2_vtol",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1863,
+          "lines": 46,
+          "extra_files": []
+        },
+        "11_agro_scout": {
+          "path": "03_drones_skymediahub/11_agro_scout",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1997,
+          "lines": 46,
+          "extra_files": []
+        },
+        "12_ufo_shield": {
+          "path": "03_drones_skymediahub/12_ufo_shield",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1648,
+          "lines": 36,
+          "extra_files": []
+        },
+        "13_pathfinder": {
+          "path": "03_drones_skymediahub/13_pathfinder",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1387,
+          "lines": 35,
+          "extra_files": []
+        },
+        "14_dual_use_concept": {
+          "path": "03_drones_skymediahub/14_dual_use_concept",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3446,
+          "lines": 57,
+          "extra_files": []
+        },
+        "15_partner_letters": {
+          "path": "03_drones_skymediahub/15_partner_letters",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3797,
+          "lines": 68,
+          "extra_files": []
+        },
+        "16_fraunhofer_techhub": {
+          "path": "03_drones_skymediahub/16_fraunhofer_techhub",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2951,
+          "lines": 62,
+          "extra_files": []
+        },
+        "17_bundeswehr_conversion": {
+          "path": "03_drones_skymediahub/17_bundeswehr_conversion",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4058,
+          "lines": 69,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 20,
+      "bytes": 64472,
+      "lines": 1250
+    },
+    "04_robotics_caremate": {
+      "path": "04_robotics_caremate",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_15_robot_zoo": {
+          "path": "04_robotics_caremate/01_15_robot_zoo",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 5113,
+          "lines": 95,
+          "extra_files": []
+        },
+        "02_caremate_hub": {
+          "path": "04_robotics_caremate/02_caremate_hub",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4655,
+          "lines": 81,
+          "extra_files": []
+        },
+        "03_wuxing_architecture": {
+          "path": "04_robotics_caremate/03_wuxing_architecture",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3812,
+          "lines": 61,
+          "extra_files": []
+        },
+        "04_orchestrator_ros2": {
+          "path": "04_robotics_caremate/04_orchestrator_ros2",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3898,
+          "lines": 73,
+          "extra_files": []
+        },
+        "05_where_bot_spiral": {
+          "path": "04_robotics_caremate/05_where_bot_spiral",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2731,
+          "lines": 56,
+          "extra_files": []
+        },
+        "06_robot_rider": {
+          "path": "04_robotics_caremate/06_robot_rider",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3814,
+          "lines": 71,
+          "extra_files": []
+        },
+        "07_table_chef_robot": {
+          "path": "04_robotics_caremate/07_table_chef_robot",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3242,
+          "lines": 62,
+          "extra_files": []
+        },
+        "08_agro_robots": {
+          "path": "04_robotics_caremate/08_agro_robots",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2469,
+          "lines": 51,
+          "extra_files": []
+        },
+        "09_105_care_scenarios": {
+          "path": "04_robotics_caremate/09_105_care_scenarios",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3948,
+          "lines": 86,
+          "extra_files": []
+        },
+        "10_pflege_ai": {
+          "path": "04_robotics_caremate/10_pflege_ai",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3123,
+          "lines": 61,
+          "extra_files": []
+        },
+        "11_robot_limbs_principle": {
+          "path": "04_robotics_caremate/11_robot_limbs_principle",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3628,
+          "lines": 65,
+          "extra_files": []
+        },
+        "12_yaml_manifests": {
+          "path": "04_robotics_caremate/12_yaml_manifests",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3765,
+          "lines": 114,
+          "extra_files": []
+        },
+        "13_swarm_charging_safety": {
+          "path": "04_robotics_caremate/13_swarm_charging_safety",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3647,
+          "lines": 63,
+          "extra_files": []
+        },
+        "14_contract_net_protocol": {
+          "path": "04_robotics_caremate/14_contract_net_protocol",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3728,
+          "lines": 84,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 17,
+      "bytes": 63170,
+      "lines": 1237
+    },
+    "05_software_automation": {
+      "path": "05_software_automation",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_internet_function_os": {
+          "path": "05_software_automation/01_internet_function_os",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 5890,
+          "lines": 111,
+          "extra_files": []
+        },
+        "02_smart_office_proto": {
+          "path": "05_software_automation/02_smart_office_proto",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3880,
+          "lines": 82,
+          "extra_files": []
+        },
+        "03_n8n_marketplace": {
+          "path": "05_software_automation/03_n8n_marketplace",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3988,
+          "lines": 90,
+          "extra_files": []
+        },
+        "04_make_red_hat": {
+          "path": "05_software_automation/04_make_red_hat",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3485,
+          "lines": 71,
+          "extra_files": []
+        },
+        "05_pdfgenie_docpilot": {
+          "path": "05_software_automation/05_pdfgenie_docpilot",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2856,
+          "lines": 59,
+          "extra_files": []
+        },
+        "06_yaml_infoconveyor": {
+          "path": "05_software_automation/06_yaml_infoconveyor",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3447,
+          "lines": 97,
+          "extra_files": []
+        },
+        "07_bytebot_desktop": {
+          "path": "05_software_automation/07_bytebot_desktop",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4287,
+          "lines": 88,
+          "extra_files": []
+        },
+        "08_b2b_neuronet": {
+          "path": "05_software_automation/08_b2b_neuronet",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3861,
+          "lines": 81,
+          "extra_files": []
+        },
+        "09_virtual_office": {
+          "path": "05_software_automation/09_virtual_office",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2522,
+          "lines": 58,
+          "extra_files": []
+        },
+        "10_dropshipping_make": {
+          "path": "05_software_automation/10_dropshipping_make",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2358,
+          "lines": 52,
+          "extra_files": []
+        },
+        "11_smartphone_microserver": {
+          "path": "05_software_automation/11_smartphone_microserver",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3165,
+          "lines": 62,
+          "extra_files": []
+        },
+        "12_warmwind_browser_os": {
+          "path": "05_software_automation/12_warmwind_browser_os",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2975,
+          "lines": 63,
+          "extra_files": []
+        },
+        "13_oslo_manual_recombinant": {
+          "path": "05_software_automation/13_oslo_manual_recombinant",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3683,
+          "lines": 60,
+          "extra_files": []
+        },
+        "14_function_registry": {
+          "path": "05_software_automation/14_function_registry",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2842,
+          "lines": 89,
+          "extra_files": []
+        },
+        "15_blueprints_oneclick": {
+          "path": "05_software_automation/15_blueprints_oneclick",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3649,
+          "lines": 83,
+          "extra_files": []
+        },
+        "16_mvp_backlog": {
+          "path": "05_software_automation/16_mvp_backlog",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3376,
+          "lines": 78,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 19,
+      "bytes": 65122,
+      "lines": 1409
+    },
+    "06_business_funding": {
+      "path": "06_business_funding",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_three_waves_strategy": {
+          "path": "06_business_funding/01_three_waves_strategy",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4298,
+          "lines": 87,
+          "extra_files": []
+        },
+        "02_exist_gruenderstipendium": {
+          "path": "06_business_funding/02_exist_gruenderstipendium",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4446,
+          "lines": 90,
+          "extra_files": []
+        },
+        "03_bayern_innovativ": {
+          "path": "06_business_funding/03_bayern_innovativ",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2966,
+          "lines": 63,
+          "extra_files": []
+        },
+        "04_horizon_eic": {
+          "path": "06_business_funding/04_horizon_eic",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3821,
+          "lines": 84,
+          "extra_files": []
+        },
+        "05_aal_programme": {
+          "path": "06_business_funding/05_aal_programme",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4170,
+          "lines": 89,
+          "extra_files": []
+        },
+        "06_kickstarter": {
+          "path": "06_business_funding/06_kickstarter",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3578,
+          "lines": 81,
+          "extra_files": []
+        },
+        "07_microfranchise": {
+          "path": "06_business_funding/07_microfranchise",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4078,
+          "lines": 78,
+          "extra_files": []
+        },
+        "08_b2b_metaworld": {
+          "path": "06_business_funding/08_b2b_metaworld",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4192,
+          "lines": 92,
+          "extra_files": []
+        },
+        "09_token_monetization": {
+          "path": "06_business_funding/09_token_monetization",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4758,
+          "lines": 83,
+          "extra_files": []
+        },
+        "10_geoarb": {
+          "path": "06_business_funding/10_geoarb",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3675,
+          "lines": 81,
+          "extra_files": []
+        },
+        "11_digital_caravan": {
+          "path": "06_business_funding/11_digital_caravan",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3439,
+          "lines": 77,
+          "extra_files": []
+        },
+        "12_invest_zuschuss": {
+          "path": "06_business_funding/12_invest_zuschuss",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3496,
+          "lines": 73,
+          "extra_files": []
+        },
+        "13_sozialplaner_saas": {
+          "path": "06_business_funding/13_sozialplaner_saas",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3729,
+          "lines": 90,
+          "extra_files": []
+        },
+        "14_persoenliches_budget_book": {
+          "path": "06_business_funding/14_persoenliches_budget_book",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4314,
+          "lines": 102,
+          "extra_files": []
+        },
+        "15_telegram_bot_sozialhelper": {
+          "path": "06_business_funding/15_telegram_bot_sozialhelper",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3844,
+          "lines": 87,
+          "extra_files": []
+        },
+        "16_consulting_upwork": {
+          "path": "06_business_funding/16_consulting_upwork",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3742,
+          "lines": 78,
+          "extra_files": []
+        },
+        "17_gruendergeld_sachsen": {
+          "path": "06_business_funding/17_gruendergeld_sachsen",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2607,
+          "lines": 57,
+          "extra_files": []
+        },
+        "18_neuro_os_freemium": {
+          "path": "06_business_funding/18_neuro_os_freemium",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3731,
+          "lines": 86,
+          "extra_files": []
+        },
+        "19_caremate_b2b2c": {
+          "path": "06_business_funding/19_caremate_b2b2c",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3928,
+          "lines": 101,
+          "extra_files": []
+        },
+        "20_neuroportal_content": {
+          "path": "06_business_funding/20_neuroportal_content",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3332,
+          "lines": 81,
+          "extra_files": []
+        },
+        "21_forth_swarm_hardware": {
+          "path": "06_business_funding/21_forth_swarm_hardware",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4144,
+          "lines": 94,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 24,
+      "bytes": 89670,
+      "lines": 1946
+    },
+    "07_inventions_patents": {
+      "path": "07_inventions_patents",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_tetradrone": {
+          "path": "07_inventions_patents/01_tetradrone",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2883,
+          "lines": 49,
+          "extra_files": []
+        },
+        "02_flamberrotor": {
+          "path": "07_inventions_patents/02_flamberrotor",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2683,
+          "lines": 53,
+          "extra_files": []
+        },
+        "03_optofiber_drone_chain": {
+          "path": "07_inventions_patents/03_optofiber_drone_chain",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3045,
+          "lines": 56,
+          "extra_files": []
+        },
+        "04_pentagrammacopter": {
+          "path": "07_inventions_patents/04_pentagrammacopter",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2345,
+          "lines": 49,
+          "extra_files": []
+        },
+        "05_water_drone": {
+          "path": "07_inventions_patents/05_water_drone",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2354,
+          "lines": 50,
+          "extra_files": []
+        },
+        "06_robot_zoo_15": {
+          "path": "07_inventions_patents/06_robot_zoo_15",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3727,
+          "lines": 71,
+          "extra_files": []
+        },
+        "07_where_bot_spiral": {
+          "path": "07_inventions_patents/07_where_bot_spiral",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2222,
+          "lines": 46,
+          "extra_files": []
+        },
+        "08_robot_rider": {
+          "path": "07_inventions_patents/08_robot_rider",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3249,
+          "lines": 63,
+          "extra_files": []
+        },
+        "09_wilos_dsl": {
+          "path": "07_inventions_patents/09_wilos_dsl",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3413,
+          "lines": 86,
+          "extra_files": []
+        },
+        "10_pyramid_knowledge": {
+          "path": "07_inventions_patents/10_pyramid_knowledge",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3761,
+          "lines": 75,
+          "extra_files": []
+        },
+        "11_internet_mmorpg": {
+          "path": "07_inventions_patents/11_internet_mmorpg",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2120,
+          "lines": 35,
+          "extra_files": []
+        },
+        "12_bees_ants_arch": {
+          "path": "07_inventions_patents/12_bees_ants_arch",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3081,
+          "lines": 52,
+          "extra_files": []
+        },
+        "13_digital_satellite": {
+          "path": "07_inventions_patents/13_digital_satellite",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3873,
+          "lines": 73,
+          "extra_files": []
+        },
+        "14_audio_taro_surrealism": {
+          "path": "07_inventions_patents/14_audio_taro_surrealism",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2847,
+          "lines": 53,
+          "extra_files": []
+        },
+        "15_golden_section_pi": {
+          "path": "07_inventions_patents/15_golden_section_pi",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3095,
+          "lines": 64,
+          "extra_files": []
+        },
+        "16_4k_compound_camera": {
+          "path": "07_inventions_patents/16_4k_compound_camera",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3248,
+          "lines": 60,
+          "extra_files": []
+        },
+        "17_tcb_movement_lang": {
+          "path": "07_inventions_patents/17_tcb_movement_lang",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3428,
+          "lines": 85,
+          "extra_files": []
+        },
+        "18_zvezda_agent_v_sote": {
+          "path": "07_inventions_patents/18_zvezda_agent_v_sote",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3101,
+          "lines": 70,
+          "extra_files": []
+        },
+        "19_milogiya_belyaev": {
+          "path": "07_inventions_patents/19_milogiya_belyaev",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2812,
+          "lines": 56,
+          "extra_files": []
+        },
+        "20_torus_microelectronics": {
+          "path": "07_inventions_patents/20_torus_microelectronics",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2979,
+          "lines": 56,
+          "extra_files": []
+        },
+        "21_sephirot_tree": {
+          "path": "07_inventions_patents/21_sephirot_tree",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2850,
+          "lines": 67,
+          "extra_files": []
+        },
+        "22_forth_intelligence": {
+          "path": "07_inventions_patents/22_forth_intelligence",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3000,
+          "lines": 67,
+          "extra_files": []
+        },
+        "23_aymara_forth": {
+          "path": "07_inventions_patents/23_aymara_forth",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2883,
+          "lines": 55,
+          "extra_files": []
+        },
+        "24_kolmogorov_nn_arch": {
+          "path": "07_inventions_patents/24_kolmogorov_nn_arch",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2663,
+          "lines": 56,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 27,
+      "bytes": 83086,
+      "lines": 1673
+    },
+    "08_knowledge_methodology": {
+      "path": "08_knowledge_methodology",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_pyramid_4_levels": {
+          "path": "08_knowledge_methodology/01_pyramid_4_levels",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4258,
+          "lines": 100,
+          "extra_files": []
+        },
+        "02_info_bonsai": {
+          "path": "08_knowledge_methodology/02_info_bonsai",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3675,
+          "lines": 70,
+          "extra_files": []
+        },
+        "03_yaml_pipelines": {
+          "path": "08_knowledge_methodology/03_yaml_pipelines",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2788,
+          "lines": 64,
+          "extra_files": []
+        },
+        "04_archeology_of_ideas": {
+          "path": "08_knowledge_methodology/04_archeology_of_ideas",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3290,
+          "lines": 69,
+          "extra_files": []
+        },
+        "05_wikiii_pedia": {
+          "path": "08_knowledge_methodology/05_wikiii_pedia",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3000,
+          "lines": 62,
+          "extra_files": []
+        },
+        "06_lms_slm_phi2": {
+          "path": "08_knowledge_methodology/06_lms_slm_phi2",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3003,
+          "lines": 70,
+          "extra_files": []
+        },
+        "07_tiddlywiki": {
+          "path": "08_knowledge_methodology/07_tiddlywiki",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1986,
+          "lines": 36,
+          "extra_files": []
+        },
+        "08_three_level_management": {
+          "path": "08_knowledge_methodology/08_three_level_management",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3092,
+          "lines": 54,
+          "extra_files": []
+        },
+        "09_kblam_methodology": {
+          "path": "08_knowledge_methodology/09_kblam_methodology",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2574,
+          "lines": 58,
+          "extra_files": []
+        },
+        "10_chm_format": {
+          "path": "08_knowledge_methodology/10_chm_format",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2577,
+          "lines": 60,
+          "extra_files": []
+        },
+        "11_personal_dossier_method": {
+          "path": "08_knowledge_methodology/11_personal_dossier_method",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3082,
+          "lines": 61,
+          "extra_files": []
+        },
+        "12_collective_ai_profiles": {
+          "path": "08_knowledge_methodology/12_collective_ai_profiles",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2678,
+          "lines": 54,
+          "extra_files": []
+        },
+        "13_neuro_nation": {
+          "path": "08_knowledge_methodology/13_neuro_nation",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2917,
+          "lines": 59,
+          "extra_files": []
+        },
+        "14_megashablon_24_points": {
+          "path": "08_knowledge_methodology/14_megashablon_24_points",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3504,
+          "lines": 66,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 17,
+      "bytes": 50724,
+      "lines": 1063
+    },
+    "09_media_newsroom": {
+      "path": "09_media_newsroom",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_ai_newsroom": {
+          "path": "09_media_newsroom/01_ai_newsroom",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3239,
+          "lines": 76,
+          "extra_files": []
+        },
+        "02_haystack_pgvector_pipeline": {
+          "path": "09_media_newsroom/02_haystack_pgvector_pipeline",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3212,
+          "lines": 79,
+          "extra_files": []
+        },
+        "03_osint_methods": {
+          "path": "09_media_newsroom/03_osint_methods",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2652,
+          "lines": 69,
+          "extra_files": []
+        },
+        "04_archeology_ideas_16sec": {
+          "path": "09_media_newsroom/04_archeology_ideas_16sec",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 4050,
+          "lines": 67,
+          "extra_files": []
+        },
+        "05_ner_extraction": {
+          "path": "09_media_newsroom/05_ner_extraction",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2428,
+          "lines": 63,
+          "extra_files": []
+        },
+        "06_skymediahub_journalism": {
+          "path": "09_media_newsroom/06_skymediahub_journalism",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2046,
+          "lines": 53,
+          "extra_files": []
+        },
+        "07_ru_de_translation": {
+          "path": "09_media_newsroom/07_ru_de_translation",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2962,
+          "lines": 61,
+          "extra_files": []
+        },
+        "08_dronemedia_content": {
+          "path": "09_media_newsroom/08_dronemedia_content",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1983,
+          "lines": 57,
+          "extra_files": []
+        },
+        "09_jinja2_templates": {
+          "path": "09_media_newsroom/09_jinja2_templates",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2706,
+          "lines": 84,
+          "extra_files": []
+        },
+        "10_haystack_rag": {
+          "path": "09_media_newsroom/10_haystack_rag",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1802,
+          "lines": 49,
+          "extra_files": []
+        },
+        "11_factchecking": {
+          "path": "09_media_newsroom/11_factchecking",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1985,
+          "lines": 51,
+          "extra_files": []
+        },
+        "12_rss_monitoring": {
+          "path": "09_media_newsroom/12_rss_monitoring",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1893,
+          "lines": 65,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 15,
+      "bytes": 40668,
+      "lines": 955
+    },
+    "10_health_accessibility": {
+      "path": "10_health_accessibility",
+      "has_readme": true,
+      "has_map": true,
+      "has_next_steps": true,
+      "topics": {
+        "01_caremate_total": {
+          "path": "10_health_accessibility/01_caremate_total",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1565,
+          "lines": 36,
+          "extra_files": []
+        },
+        "02_pflegegrad_cases": {
+          "path": "10_health_accessibility/02_pflegegrad_cases",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2052,
+          "lines": 43,
+          "extra_files": []
+        },
+        "03_gdb_70_personal": {
+          "path": "10_health_accessibility/03_gdb_70_personal",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1805,
+          "lines": 40,
+          "extra_files": []
+        },
+        "04_assistive_technology": {
+          "path": "10_health_accessibility/04_assistive_technology",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2163,
+          "lines": 61,
+          "extra_files": []
+        },
+        "05_aging_in_place": {
+          "path": "10_health_accessibility/05_aging_in_place",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2455,
+          "lines": 50,
+          "extra_files": []
+        },
+        "06_euthanasia_de_2025": {
+          "path": "10_health_accessibility/06_euthanasia_de_2025",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2249,
+          "lines": 46,
+          "extra_files": []
+        },
+        "07_medical_letters": {
+          "path": "10_health_accessibility/07_medical_letters",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2421,
+          "lines": 59,
+          "extra_files": []
+        },
+        "08_diga_certification": {
+          "path": "10_health_accessibility/08_diga_certification",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2825,
+          "lines": 66,
+          "extra_files": []
+        },
+        "09_mobility_transport": {
+          "path": "10_health_accessibility/09_mobility_transport",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2234,
+          "lines": 53,
+          "extra_files": []
+        },
+        "10_2045_initiative": {
+          "path": "10_health_accessibility/10_2045_initiative",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2574,
+          "lines": 57,
+          "extra_files": []
+        },
+        "11_digital_satellite_companion": {
+          "path": "10_health_accessibility/11_digital_satellite_companion",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2642,
+          "lines": 55,
+          "extra_files": []
+        },
+        "12_aal_programme_ehealth": {
+          "path": "10_health_accessibility/12_aal_programme_ehealth",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 1988,
+          "lines": 47,
+          "extra_files": []
+        },
+        "13_dresden_saxony_network": {
+          "path": "10_health_accessibility/13_dresden_saxony_network",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2486,
+          "lines": 71,
+          "extra_files": []
+        },
+        "14_russian_speakers_de": {
+          "path": "10_health_accessibility/14_russian_speakers_de",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 3017,
+          "lines": 68,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 17,
+      "bytes": 38911,
+      "lines": 893
+    },
+    "88_topics_full": {
+      "path": "88_topics_full",
+      "has_readme": true,
+      "has_map": false,
+      "has_next_steps": false,
+      "topics": {},
+      "markdown_files": 1,
+      "bytes": 4091,
+      "lines": 77
+    },
+    "99_archive_links": {
+      "path": "99_archive_links",
+      "has_readme": true,
+      "has_map": false,
+      "has_next_steps": false,
+      "topics": {},
+      "markdown_files": 1,
+      "bytes": 4029,
+      "lines": 77
+    },
+    "superprojects": {
+      "path": "superprojects",
+      "has_readme": true,
+      "has_map": false,
+      "has_next_steps": false,
+      "topics": {
+        "01_neuro_os": {
+          "path": "superprojects/01_neuro_os",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2770,
+          "lines": 81,
+          "extra_files": []
+        },
+        "02_digital_caravan": {
+          "path": "superprojects/02_digital_caravan",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2844,
+          "lines": 78,
+          "extra_files": []
+        },
+        "03_caremate_total": {
+          "path": "superprojects/03_caremate_total",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2691,
+          "lines": 77,
+          "extra_files": []
+        },
+        "04_neuroportal": {
+          "path": "superprojects/04_neuroportal",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2729,
+          "lines": 73,
+          "extra_files": []
+        },
+        "05_forth_swarm": {
+          "path": "superprojects/05_forth_swarm",
+          "has_readme": true,
+          "markdown_files": 1,
+          "bytes": 2824,
+          "lines": 76,
+          "extra_files": []
+        }
+      },
+      "markdown_files": 6,
+      "bytes": 16058,
+      "lines": 418,
+      "misc": true
+    }
+  },
+  "totals": {
+    "clusters": 13,
+    "topic_dirs": 172,
+    "markdown_files": 214,
+    "total_bytes": 692627,
+    "total_lines": 13903
+  }
+}

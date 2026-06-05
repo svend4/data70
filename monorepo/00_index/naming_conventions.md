@@ -39,13 +39,13 @@
 Внутри `monorepo/` ссылки относительные:
 
 ```markdown
-[см. 02_ai_agents/01_micro_agents](../../02_ai_agents/01_micro_agents/README.md)
+[см. 02_ai_agents/01_micro_agents](../02_ai_agents/01_micro_agents/README.md)
 ```
 
 Ссылки на корневые файлы архива:
 
 ```markdown
-[analysis_04_social_law.md](../../../analysis_04_social_law.md)
+[analysis_04_social_law.md](../../analysis_04_social_law.md)
 ```
 
 ## Языки

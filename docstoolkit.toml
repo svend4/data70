@@ -1,0 +1,21 @@
+# docstoolkit configuration for data70 monorepo
+# Generated for trial run of lorenzo/docs-toolkit against data70
+
+[paths]
+docs_dir       = "monorepo"
+templates_dir  = "monorepo/_audit"
+schemas_dir    = "monorepo/_audit"
+sources_dir    = "."
+scripts_dir    = "monorepo/_audit/scripts"
+index_file     = "monorepo/_audit/reports/dt_search_index.json"
+passages_file  = "monorepo/_audit/reports/dt_passages.json"
+
+[search]
+default_top_k  = 8
+bm25_top_k     = 12
+min_score      = 0.0
+
+[llm]
+model          = "claude-opus-4-6"
+max_tokens     = 2048
+cache_ttl_days = 7

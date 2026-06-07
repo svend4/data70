@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "german-legal": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@metaneutrons/german-legal-mcp@1.2.2"]
+    }
+  }
+}
